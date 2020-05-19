@@ -231,8 +231,8 @@ Read this guidance alongside:
 
 We expect schools and trusts to work closely with:
 
--   parents and staff as they normally would, when agreeing the best
-    approaches for their circumstances
+-   parents, staff and unions as they normally would, when agreeing the
+    best approaches for their circumstances
 -   their local authorities to determine what services they require and
     agree on any specific arrangements during this period
 

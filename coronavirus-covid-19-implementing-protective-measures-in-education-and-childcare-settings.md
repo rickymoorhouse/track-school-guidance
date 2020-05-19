@@ -798,9 +798,10 @@ children.
 
 ### What happens if someone becomes unwell at an educational or childcare setting?
 
-If anyone becomes unwell with a new, continuous cough or a high
-temperature in an education or childcare setting, they must be sent home
-and advised to follow the [COVID-19: guidance for households with
+If anyone in an education or childcare setting becomes unwell with a
+new, continuous cough or a high temperature, or has a loss of, or change
+in, their normal sense of taste of smell (anosmia), they must be sent
+home and advised to follow the [COVID-19: guidance for households with
 possible coronavirus infection
 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
 
@@ -824,16 +825,15 @@ In an emergency, call 999 if they are seriously ill or injured or their
 life is at risk. Do not visit the GP, pharmacy, urgent care centre or a
 hospital.
 
-If a member of staff has helped someone who was unwell with a new,
-continuous cough or a high temperature, they do not need to go home
-unless they develop symptoms themselves (and in which case, a test is
-available) or the child subsequently tests positive (see ‘What happens
-if there is a confirmed case of coronavirus in a setting?’ below). They
-should wash their hands thoroughly for 20 seconds after any contact with
-someone who is unwell. Cleaning the affected area with normal household
-disinfectant after someone with symptoms has left will reduce the risk
-of passing the infection on to other people. See the [COVID-19: cleaning
-of non-healthcare settings
+If a member of staff has helped someone with symptoms, they do not need
+to go home unless they develop symptoms themselves (and in which case, a
+test is available) or the child subsequently tests positive (see ‘What
+happens if there is a confirmed case of coronavirus in a setting?’
+below). They should wash their hands thoroughly for 20 seconds after any
+contact with someone who is unwell. Cleaning the affected area with
+normal household disinfectant after someone with symptoms has left will
+reduce the risk of passing the infection on to other people. See the
+[COVID-19: cleaning of non-healthcare settings
 guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
 ### What happens if there is a confirmed case of coronavirus in a setting?
@@ -874,10 +874,11 @@ every morning. Routine testing of an individual’s temperature is not a
 reliable method for identifying coronavirus. Educational and childcare
 settings should reiterate to parents the need to follow the standard
 national advice on the kind of symptoms to look out for that might be
-due to coronavirus, and where to get further advice. If anyone in the
-household develops a fever or a new continuous cough they are advised to
-follow the [COVID-19: guidance for households with possible coronavirus
-infection
+due to coronavirus, and where to get further advice.If anyone in the
+household develops a fever, or a new continuous cough, or a loss of, or
+change in, their normal sense of taste or smell (anosmia), they are
+advised to follow the [COVID-19: guidance for households with possible
+coronavirus infection
 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
 (which states that the ill person should remain in isolation for 7 days
 and the rest of the household in isolation for 14 days).

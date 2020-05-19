@@ -154,7 +154,7 @@ Actions for schools during the coronavirus outbreak {#actions-for-schools-during
 
 </div>
 
-Updated 15 May 2020
+Updated 18 May 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -172,7 +172,7 @@ Contents {#contents .gem-c-contents-list__title}
     of education settings from 1
     June]{.gem-c-contents-list__numbered-text}](#preparing-for-the-wider-opening-of-education-settings-from-1-june){.gem-c-contents-list__link
     .govuk-link}
-3.  [[3
+3.  [[3.
     ]{.gem-c-contents-list__number}[Responsibilities]{.gem-c-contents-list__numbered-text}](#responsibilities){.gem-c-contents-list__link
     .govuk-link}
 4.  [[4. ]{.gem-c-contents-list__number}[What arrangements should
@@ -206,8 +206,8 @@ Contents {#contents .gem-c-contents-list__title}
 13. [[13. ]{.gem-c-contents-list__number}[Disciplinary and grievance
     processes]{.gem-c-contents-list__numbered-text}](#disciplinary-and-grievance-processes){.gem-c-contents-list__link
     .govuk-link}
-14. [[14 ]{.gem-c-contents-list__number}[.
-    Pay]{.gem-c-contents-list__numbered-text}](#pay){.gem-c-contents-list__link
+14. [[14.
+    ]{.gem-c-contents-list__number}[Pay]{.gem-c-contents-list__numbered-text}](#pay){.gem-c-contents-list__link
     .govuk-link}
 15. [[15. ]{.gem-c-contents-list__number}[Supply teachers and other
     contingent
@@ -508,8 +508,8 @@ schools and trusts may choose to develop their own plans, providing
 operational guidance to support school and trust leaders in agreeing the
 best approaches for their circumstances.
 
-[3 ]{.number} Responsibilities
-------------------------------
+[3. ]{.number} Responsibilities
+-------------------------------
 
 ### [3.1 ]{.number} What are schools responsible for?
 
@@ -1577,8 +1577,8 @@ bodies of maintained schools should also refer to reg. 7 of the [School
 Staffing (England) Regulations
 2009](http://www.legislation.gov.uk/uksi/2009/2680/contents/made){.govuk-link}.
 
-[14 . ]{.number} Pay
---------------------
+[14. ]{.number} Pay
+-------------------
 
 ### [14.1 ]{.number} Will teachers and other school staff continue to be paid?
 
@@ -2122,10 +2122,9 @@ meetings and panel hearings must still go ahead even if the relevant
 deadline has been missed. It is for the governing board or arranging
 authority to assess the facts of the case and decide whether the
 statutory deadlines are achievable or whether, in the circumstances, the
-meeting has to be delayed or alternative technology (such as telephone
-or videoconference facilities) may be used. Governing boards and
-arranging authorities should continue to take reasonable steps to ensure
-meetings are arranged for a time when all parties are able to attend.
+meeting has to be delayed. Governing boards and arranging authorities
+should continue to take reasonable steps to ensure meetings are arranged
+for a time when all parties are able to attend.
 
 [20. ]{.number} School meals
 ----------------------------
