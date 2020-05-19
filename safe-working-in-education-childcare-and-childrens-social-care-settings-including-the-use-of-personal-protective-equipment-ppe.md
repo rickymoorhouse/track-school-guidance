@@ -296,9 +296,11 @@ substantially reduced. These include:
 ### [1. ]{.number} Minimise contact with individuals who are unwell
 
 If you have, or are showing symptoms of, coronavirus (a new continuous
-cough or fever), or have someone in your household who is, you should
-not be in a childcare setting, school or college. You should be at home,
-in line with the [guidance for households with possible coronavirus
+cough, or fever, or a loss of, or change in, your normal sense of taste
+or smell (anosmia)), or have someone in your household who is, you
+should not be in a childcare setting, school or college. You should be
+at home, in line with the [guidance for households with possible
+coronavirus
 infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
 
 When working with children in residential schools and homes, you should
@@ -609,10 +611,11 @@ settings](https://www.gov.uk/government/publications/covid-19-decontamination-in
 In non-residential settings, what should be done if a child, young person or other learner becomes unwell with symptoms of coronavirus and needs to be cared for until they can return home?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If anyone becomes unwell with a new, continuous cough or a high
-temperature in an education, childcare or non-residential children
-social care setting, they must be sent home and advised to follow the
-[guidance for households with possible coronavirus
+If anyone in an education, childcare or non-residential children social
+care setting becomes unwell with a new, continuous cough or a high
+temperature, or has a loss of, or change in, their normal sense of taste
+of smell, they must be sent home and advised to follow the [guidance for
+households with possible coronavirus
 infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
 
 If a child is awaiting collection, they should be moved, if possible, to
@@ -636,12 +639,11 @@ In an emergency, call 999 if they are seriously ill or injured or their
 life is at risk. Do not visit the GP, pharmacy, urgent care centre or a
 hospital.
 
-If a member of staff has helped someone who was unwell with a new,
-continuous cough or a high temperature, they do not need to go home
-unless they develop symptoms themselves. They should wash their hands
-thoroughly for 20 seconds after any contact with someone who is unwell.
-Cleaning the affected area with normal household disinfectant after
-someone with symptoms has left will reduce the risk of passing the
+If a member of staff has helped someone with symptoms they do not need
+to go home unless they develop symptoms themselves. They should wash
+their hands thoroughly for 20 seconds after any contact with someone who
+is unwell. Cleaning the affected area with normal household disinfectant
+after someone with symptoms has left will reduce the risk of passing the
 infection on to other people. Read [guidance about cleaning
 non-healthcare
 settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
