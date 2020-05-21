@@ -1042,13 +1042,6 @@ parents and carers to confirm emergency contact numbers are correct and
 ask for any additional emergency contact numbers where they are
 available.
 
-Local authorities and educational settings do not need to complete their
-usual day-to-day attendance processes. To minimise the burden on
-educational settings, the Department for Education is collecting data on
-the attendance of vulnerable children differently. Further guidance is
-available at [Attendance recording for educational
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-attendance-recording-for-educational-settings){.govuk-link}.
-
 ### [7.6 ]{.number} Do schools need to take an attendance register?
 
 Between 23 March and 1 June, schools do not need to take an attendance
