@@ -101,9 +101,21 @@ data-nosnippet="">
 
 <div class="global-bar-message govuk-width-container">
 
-[ [Coronavirus (COVID-19): [guidance and
-support]{.global-bar-title__nowrap}](/coronavirus){.global-bar-title
-.js-call-to-action .govuk-link} ]{.global-bar-title__icon}
+<div class="global-bar-covid-wrapper">
+
+<div
+class="gem-c-action-link gem-c-action-link--light-text gem-c-action-link--with-subtext govuk-!-margin-bottom-0">
+
+[ [ [Coronavirus (COVID-19)](/coronavirus){.govuk-link
+.gem-c-action-link__link .js-call-to-action}
+]{.gem-c-action-link__link-wrapper} [ [Guidance and
+support]{.gem-c-action-link__subtext}
+]{.gem-c-action-link__subtext-wrapper}
+]{.gem-c-action-link__contents-wrapper}
+
+</div>
+
+</div>
 
 </div>
 
