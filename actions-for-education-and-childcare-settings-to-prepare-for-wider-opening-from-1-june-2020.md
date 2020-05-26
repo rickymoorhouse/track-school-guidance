@@ -107,6 +107,14 @@ data-module="govspeak">
 
 <div class="govspeak">
 
+<div class="call-to-action">
+
+We will update this guidance before 1 June 2020 to reflect the
+[announcements made on 24 May
+2020](https://www.gov.uk/government/news/pm-confirms-schools-colleges-and-nurseries-on-track-to-begin-phased-reopening){.govuk-link}.
+
+</div>
+
 As part of national social distancing measures to limit the spread of
 coronavirus (COVID-19), we have had to limit the numbers of children and
 young people attending educational and childcare settings, to ensure

@@ -43,7 +43,7 @@ Planning guide for primary schools {#planning-guide-for-primary-schools .gem-c-t
 
 </div>
 
-Published 14 May 2020
+Updated 25 May 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -162,17 +162,17 @@ to school from the week commencing 1 June.
 
 We have created a [planning
 framework](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/opening-schools-for-more-children-and-young-people-initial-planning-framework-for-schools-in-england){.govuk-link}
-to help school leaders and trusts to prepare and decide arrangements for
-more children returning to school. It’s a starting point from which
-schools and trusts may choose to develop their own plans. This planning
-guide builds on that – it gives school leaders the ‘next-level down’ of
-detail from the planning framework.
+to help school leaders to prepare and decide arrangements for more
+children returning to school. It’s a starting point from which schools
+may choose to develop their own plans. This planning guide builds on
+that – it gives school leaders the ‘next-level down’ of detail from the
+planning framework.
 
 This guide has been designed by school leaders for school leaders. It is
-intended to provide a step by step guide for those responsible for
-mainstream primary schools to prepare for extending their opening to
-include all pupils in reception, year 1 and year 6 from the week
-commencing 1 June, alongside priority groups ([vulnerable
+intended to provide a step by step guide for headteachers and senior
+colleagues to prepare for extending their opening to include all pupils
+in reception, year 1 and year 6 from the week commencing 1 June,
+alongside priority groups ([vulnerable
 children](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}
 and the [children of critical
 workers](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision){.govuk-link}).
@@ -204,9 +204,10 @@ their available staff or in their available space.
 In most cases the preparation for wider opening will be undertaken by
 the headteacher and senior colleagues. However, relevant bodies (such as
 local authorities, academy trusts or governing bodies, depending on the
-school type) retain responsibility for key decisions and plans should be
-confirmed with them, particularly risk assessments of the school opening
-more widely, before pupils and staff return.
+school type) them should support and work with the headteacher, and
+should particularly assure themselves that risk assessments of the
+school opening more widely, before pupils and staff return, are carried
+out appropriately and measures put in place to address identified risks.
 
 We expect schools and trusts to work closely with:
 
@@ -331,9 +332,9 @@ rooms to be used as temporary classrooms.
 
 You may need to spread out into different classrooms or spaces than is
 usually the case. If you are having to split, for example, a reception
-class and use a non-reception classroom for half class, you may need to
-move some essential resources into the non-reception room, if there is
-space to do so.
+class and use a non-reception classroom for half the class, you may need
+to move some essential resources into the non-reception room, if there
+is space to do so.
 
 You should be mindful to minimise the number of resources in order to
 make sure they can be wiped clean. Wherever possible, resources which
@@ -499,7 +500,7 @@ In so doing you should:
     critical workers and vulnerable children not in reception or years 1
     and 6
 -   assume that the staffing model will be one teacher per group (or 2
-    teachers sharing the week if you have existing jobshares) -
+    teachers sharing the week if you have existing job shares) -
     qualified teachers are qualified to teach any primary year group,
     including early years foundation stage (EYFS)
 -   if there are any shortages of teachers then teaching assistants can
@@ -801,7 +802,7 @@ ethic to support their mental wellbeing on the one hand, and identifying
 and taking time to address explicitly individual concerns or problems on
 the other.
 
-If safeguarding issues come to light they should be addressed using the
+If safeguarding issues come to light, they should be addressed using the
 school’s safeguarding policy, which may need to be updated in light of
 wider opening. Headteachers should consider how they might manage any
 increase in referrals as pupils return to school.
@@ -815,14 +816,15 @@ way that promotes good work-life balance for teachers and leaders.
 -----------------------------------------------
 
 The priorities for young children at this time are resocialisation into
-new style school routines; speaking and listening, and regaining
+new style school routines, speaking and listening, and regaining
 momentum in particular with early reading.
 
 Each school context will vary and needs are likely to be greatest where
 children have not been able to access remote education consistently.
 Children who have had limited opportunities for exercise should be
 encouraged to exert themselves physically, making use of supervised
-non-touch running games within their group. [Youth Sport
+non-touch running games within their group. The [Association for
+PE](https://www.afpe.org.uk/){.govuk-link} and the [Youth Sport
 Trust](https://www.youthsporttrust.org/news/update-coronavirus-covid-19){.govuk-link}
 are also offering some support to schools.
 
