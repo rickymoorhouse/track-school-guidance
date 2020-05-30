@@ -137,7 +137,7 @@ Contents {#contents .gem-c-contents-list__title}
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
@@ -165,6 +165,15 @@ https://www.gov.uk/government/publications/covid-19-school-closures/guidance-for
 data-module="govspeak">
 
 <div class="govspeak">
+
+<div class="call-to-action">
+
+This guidance is under review following the [Prime Minister’s
+announcement of 28
+May](https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown){.govuk-link}.
+We will publish updated information as soon as possible.
+
+</div>
 
 As part of national social distancing measures to limit the spread of
 coronavirus, we have had to limit the numbers of children and young
