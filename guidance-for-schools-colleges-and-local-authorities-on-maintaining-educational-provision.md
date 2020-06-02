@@ -2,13 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Critical workers who can access schools or educational
-    settings](/government/publications/coronavirus-covid-19-maintaining-educational-provision){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -57,7 +56,7 @@ Critical workers who can access schools or educational settings {#critical-worke
 
 </div>
 
-Updated 14 May 2020
+Updated 1 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -111,8 +110,10 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-This guidance is applicable to 31 May 2020 and will be reviewed before 1
-June 2020.
+This guidance has been updated to reflect the announcement by the Prime
+Minister that the government’s 5 tests have been met and the decision,
+based on all the evidence, to move forward with the wider opening of
+education and childcare settings.
 
 </div>
 
@@ -127,19 +128,20 @@ settings (where there are no shielding concerns for the child or their
 household)**, even if parents are able to keep their children at
 home.****
 
-From the week commencing 1 June at the earliest, we will also be asking
-primary schools to welcome back children in nursery, reception, year 1
-and year 6, alongside priority groups. We will ask secondary schools,
-sixth-form colleges and further education colleges to offer some
-face-to-face support for year 10 and year 12 students who are due to
-take key exams next year, alongside priority groups. We are also asking
-nurseries and other early years providers, including childminders, to
-begin welcoming back all children from 1 June. Alternative provision
-settings should mirror the approach being taken for mainstream schools
-and also offer some face-to-face support for years 10 and 11 students
-(as they have no year 12). We are asking special schools, special
-post-16 institutions and hospital schools to follow an equivalent phased
-return without a focus on specific year groups.
+From the week commencing 1 June, we are also asking primary schools to
+welcome back all children in nursery, reception, year 1 and year 6,
+alongside priority groups. From 15 June, we are asking secondary
+schools, sixth-form colleges and further education colleges to offer
+some face-to-face support for year 10 and year 12, and 16-19 learners in
+the first year of their course who are due to take key exams next year,
+alongside priority groups. We are also asking nurseries and other early
+years providers, including childminders, to begin welcoming back
+children of all ages from 1 June. Alternative provision settings should
+mirror the approach being taken for mainstream schools and, from 15
+June, offer some face-to-face support for years 10 and 11 students (as
+they have no year 12). We are asking special schools, special post-16
+institutions and hospital schools to follow an equivalent phased return
+without a focus on specific year groups.
 
 **Children of critical workers, and vulnerable children who are already
 eligible, will continue to be offered a place, regardless of the year
