@@ -2,13 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Safe working in education, childcare and children’s social
-    care](/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -116,7 +115,7 @@ Contents {#contents .gem-c-contents-list__title}
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
@@ -190,7 +189,9 @@ or smell (anosmia)), or have someone in your household who is, you
 should not be in a childcare setting, school or college. You should be
 at home, in line with the [guidance for households with possible
 coronavirus
-infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
+infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link},
+and [arrange to have a test to check if you have
+coronavirus](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}.
 
 When working with children in residential schools and homes, you should
 follow the [guidance on isolation for residential educational
@@ -257,9 +258,26 @@ PPE is only needed in a very small number of cases:
     symptoms
 
 Education, childcare and children’s social care settings and providers
-should use their local supply chains to obtain PPE. Where this is not
-possible, and there is unmet urgent need for PPE in order to operate
-safely, they may approach their nearest local resilience forum.
+should use their local supply chains to obtain PPE.
+
+If education or childcare settings cannot obtain the PPE they need they
+should approach their local authority (LA). Local authorities should
+support them to access local PPE markets and available stock locally,
+including through coordinating the redistribution of available supplies
+between settings according to priority needs.
+
+If the LA is not able to meet the PPE needs of education and childcare
+providers, the LA should approach their nearest local resilience forum
+(LRF) which will allocate stock if it is available once the needs of
+other vital services locally have been met. If neither the LA or LRF is
+able to respond to an education or childcare setting’s unmet urgent need
+for PPE, they will need to make their own judgement in line with their
+risk assessment as to whether it is safe to continue to operate.
+
+If children’s homes, secure children’s homes, residential special
+schools, or other children’s social care settings have an unmet urgent
+need for PPE in order to operate safely they should approach their local
+resilience forum.
 
 Testing
 -------
@@ -273,16 +291,19 @@ online digital
 portal](https://www.gov.uk/apply-coronavirus-test){.govuk-link}. There
 is also an option for employees to book tests directly on the portal.
 
-By the time settings open to wider cohorts of children and young people,
-all children, young people and other learners eligible to attend their
+When settings open to wider cohorts of children and young people, all
+children, young people and other learners eligible to attend their
 education or childcare setting, and all children in social care
-settings, as well as their households, will have [access to a
-test](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested){.govuk-link}
-if they display symptoms of coronavirus. If they develop symptoms, they
-should be tested. If they test negative, they can return to their
-setting and their fellow household members can end their self-isolation.
-If they test positive, education and childcare settings should follow
-[guidance on implementing protective measures in education and childcare
+settings, as well as their households, will have access to a test if
+they display symptoms of coronavirus. Visit the [guidance on coronavirus
+testing and how to arrange to have a
+test](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}.
+
+If they develop symptoms, they should be tested. If they test negative,
+they can return to their setting and their fellow household members can
+end their self-isolation. If they test positive, education and childcare
+settings should follow [guidance on implementing protective measures in
+education and childcare
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings#additional-questions){.govuk-link}.
 Residential settings should follow [isolation guidance for residential
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}.
