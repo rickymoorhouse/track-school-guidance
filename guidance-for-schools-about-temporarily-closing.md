@@ -2,13 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Actions for schools during the coronavirus
-    outbreak](/government/publications/covid-19-school-closures){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -43,7 +42,7 @@ Actions for schools during the coronavirus outbreak {#actions-for-schools-during
 
 </div>
 
-Updated 18 May 2020
+Updated 3 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -57,77 +56,83 @@ Contents {#contents .gem-c-contents-list__title}
 1.  [[1. ]{.gem-c-contents-list__number}[Vital role of
     schools]{.gem-c-contents-list__numbered-text}](#vital-role-of-schools){.gem-c-contents-list__link
     .govuk-link}
-2.  [[2. ]{.gem-c-contents-list__number}[Preparing for the wider opening
-    of education settings from 1
-    June]{.gem-c-contents-list__numbered-text}](#preparing-for-the-wider-opening-of-education-settings-from-1-june){.gem-c-contents-list__link
+2.  [[2. ]{.gem-c-contents-list__number}[The wider opening of
+    educational
+    settings]{.gem-c-contents-list__numbered-text}](#the-wider-opening-of-educational-settings){.gem-c-contents-list__link
     .govuk-link}
 3.  [[3.
     ]{.gem-c-contents-list__number}[Responsibilities]{.gem-c-contents-list__numbered-text}](#responsibilities){.gem-c-contents-list__link
     .govuk-link}
-4.  [[4. ]{.gem-c-contents-list__number}[What arrangements should
-    schools and local authorities maintain throughout the remainder of
-    May?]{.gem-c-contents-list__numbered-text}](#what-arrangements-should-schools-and-local-authorities-maintain-throughout-the-remainder-of-may){.gem-c-contents-list__link
-    .govuk-link}
-5.  [[5. ]{.gem-c-contents-list__number}[Prioritising
+4.  [[4. ]{.gem-c-contents-list__number}[Prioritising
     pupils]{.gem-c-contents-list__numbered-text}](#prioritising-pupils){.gem-c-contents-list__link
     .govuk-link}
-6.  [[6.
+5.  [[4.4 ]{.gem-c-contents-list__number}[How are vulnerable children
+    defined?]{.gem-c-contents-list__numbered-text}](#how-are-vulnerable-children-defined){.gem-c-contents-list__link
+    .govuk-link}
+6.  [[4.5 ]{.gem-c-contents-list__number}[What are our expectations
+    regarding vulnerable children and young people attending educational
+    settings?]{.gem-c-contents-list__numbered-text}](#what-are-our-expectations-regarding-vulnerable-children-and-young-people-attending-educational-settings){.gem-c-contents-list__link
+    .govuk-link}
+7.  [[5.
     ]{.gem-c-contents-list__number}[Funding]{.gem-c-contents-list__numbered-text}](#funding){.gem-c-contents-list__link
     .govuk-link}
-7.  [[7.
+8.  [[6.
     ]{.gem-c-contents-list__number}[Attendance]{.gem-c-contents-list__numbered-text}](#attendance){.gem-c-contents-list__link
     .govuk-link}
-8.  [[8. ]{.gem-c-contents-list__number}[Working with
+9.  [[7.
+    ]{.gem-c-contents-list__number}[Transport]{.gem-c-contents-list__numbered-text}](#transport){.gem-c-contents-list__link
+    .govuk-link}
+10. [[8. ]{.gem-c-contents-list__number}[Working with
     parents]{.gem-c-contents-list__numbered-text}](#working-with-parents){.gem-c-contents-list__link
     .govuk-link}
-9.  [[9.
+11. [[9.
     ]{.gem-c-contents-list__number}[Safeguarding]{.gem-c-contents-list__numbered-text}](#safeguarding){.gem-c-contents-list__link
     .govuk-link}
-10. [[10.
+12. [[10.
     ]{.gem-c-contents-list__number}[Workforce]{.gem-c-contents-list__numbered-text}](#workforce){.gem-c-contents-list__link
     .govuk-link}
-11. [[11. ]{.gem-c-contents-list__number}[Staffing levels and
+13. [[11. ]{.gem-c-contents-list__number}[Staffing levels and
     deployment]{.gem-c-contents-list__numbered-text}](#staffing-levels-and-deployment){.gem-c-contents-list__link
     .govuk-link}
-12. [[12.
+14. [[12.
     ]{.gem-c-contents-list__number}[Recruitment]{.gem-c-contents-list__numbered-text}](#recruitment){.gem-c-contents-list__link
     .govuk-link}
-13. [[13. ]{.gem-c-contents-list__number}[Disciplinary and grievance
+15. [[13. ]{.gem-c-contents-list__number}[Disciplinary and grievance
     processes]{.gem-c-contents-list__numbered-text}](#disciplinary-and-grievance-processes){.gem-c-contents-list__link
     .govuk-link}
-14. [[14.
+16. [[14.
     ]{.gem-c-contents-list__number}[Pay]{.gem-c-contents-list__numbered-text}](#pay){.gem-c-contents-list__link
     .govuk-link}
-15. [[15. ]{.gem-c-contents-list__number}[Supply teachers and other
+17. [[15. ]{.gem-c-contents-list__number}[Supply teachers and other
     contingent
     workers]{.gem-c-contents-list__numbered-text}](#supply-teachers-and-other-contingent-workers){.gem-c-contents-list__link
     .govuk-link}
-16. [[16. ]{.gem-c-contents-list__number}[Delivering education and
+18. [[16. ]{.gem-c-contents-list__number}[Delivering education and
     support to
     pupils]{.gem-c-contents-list__numbered-text}](#delivering-education-and-support-to-pupils){.gem-c-contents-list__link
     .govuk-link}
-17. [[17.
+19. [[17.
     ]{.gem-c-contents-list__number}[Practicalities]{.gem-c-contents-list__numbered-text}](#practicalities){.gem-c-contents-list__link
     .govuk-link}
-18. [[18.
+20. [[18.
     ]{.gem-c-contents-list__number}[Admissions]{.gem-c-contents-list__numbered-text}](#admissions){.gem-c-contents-list__link
     .govuk-link}
-19. [[19. ]{.gem-c-contents-list__number}[Behaviour and
+21. [[19. ]{.gem-c-contents-list__number}[Behaviour and
     exclusions]{.gem-c-contents-list__numbered-text}](#behaviour-and-exclusions){.gem-c-contents-list__link
     .govuk-link}
-20. [[20. ]{.gem-c-contents-list__number}[School
+22. [[20. ]{.gem-c-contents-list__number}[School
     meals]{.gem-c-contents-list__numbered-text}](#school-meals){.gem-c-contents-list__link
     .govuk-link}
-21. [[21. ]{.gem-c-contents-list__number}[Exams and
+23. [[21. ]{.gem-c-contents-list__number}[Exams and
     assessments]{.gem-c-contents-list__numbered-text}](#exams-and-assessments){.gem-c-contents-list__link
     .govuk-link}
-22. [[22. ]{.gem-c-contents-list__number}[Accountability and
+24. [[22. ]{.gem-c-contents-list__number}[Accountability and
     inspections]{.gem-c-contents-list__numbered-text}](#accountability-and-inspections){.gem-c-contents-list__link
     .govuk-link}
-23. [[23. ]{.gem-c-contents-list__number}[Restructuring and
+25. [[23. ]{.gem-c-contents-list__number}[Restructuring and
     academisation]{.gem-c-contents-list__numbered-text}](#restructuring-and-academisation){.gem-c-contents-list__link
     .govuk-link}
-24. [[24. ]{.gem-c-contents-list__number}[Types of
+26. [[24. ]{.gem-c-contents-list__number}[Types of
     setting]{.gem-c-contents-list__numbered-text}](#types-of-setting){.gem-c-contents-list__link
     .govuk-link}
 
@@ -168,19 +173,45 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-This guidance is under review following the [Prime Minister’s
-announcement of 28
-May](https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown){.govuk-link}.
-We will publish updated information as soon as possible.
+This guidance has been updated to reflect the announcement by the Prime
+Minister that the government’s 5 tests have been met and the decision,
+based on all the evidence, to move forward with the wider opening of
+education and childcare settings.
 
 </div>
 
+The following changes or additions have also been made on 3 June:
+
+-   Section 2: updated information on wider opening of educational
+    settings from 1 June and 15 June
+-   2.12 to 2.15: updated information on testing as well as the Test and
+    Trace programme
+-   Section 3: clarification of the responsibilities held by schools,
+    local authorities and trusts during wider opening of schools
+-   Section 4: further detail on prioritisation of different year groups
+-   6.6: link update to new guidance on taking the attendance register
+-   Section 7: guidance on travelling to and from school
+-   10.4: guidance on working with staff who are worried about returning
+    to school settings
+-   11.1: update to align with guidance on implementing protective
+    measures
+-   11.2: clarification of position on PPA time
+-   14.3: clarification on appraisal processes during school closure and
+    wider opening
+-   16.5: clarification on decisions relating to pupils to repeating a
+    year
+-   17.2: update to align with new guidance on annual reports
+-   17.7: guidance on school visitors
+-   19.4: update to question on process for independent review panels
+-   24.4: clarification on out of school settings
+-   24.5 to 24.10: new Q&A relating to boarding school settings
+
 As part of national social distancing measures to limit the spread of
-coronavirus, we have had to limit the numbers of children and young
-people attending educational and childcare settings, to ensure that
-pupils and staff attending could do so safely. That is why, since 23
-March, education and childcare settings have only been open to priority
-groups ([children of critical
+coronavirus (COVID-19), we have had to limit the numbers of children and
+young people attending educational and childcare settings, to ensure
+that pupils and staff attending could do so safely. That is why, between
+20 March and 1 June, education and childcare settings have only been
+open to priority groups ([children of critical
 workers](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision){.govuk-link}
 and [vulnerable
 children](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}).
@@ -199,19 +230,20 @@ vulnerable’ to coronavirus.
 
 As a result of the huge efforts everyone has made to adhere to strict
 social distancing measures, the transmission rate of coronavirus has
-decreased. We therefore anticipate, with further progress, that we may
-be able, from the week commencing 1 June, to welcome back more children
-to early years, school and further education settings.
+decreased.
 
-We will only do this provided that the five key tests set by the
-government justify the changes at the time, including that the rate of
-infection is decreasing. As a result, we are asking schools, colleges
-and childcare providers to plan on this basis, ahead of confirmation
-that these tests are met.
+Therefore, as the Prime Minister announced on 28 May, from 1 June we are
+asking nurseries and other early years providers (including
+childminders) to welcome back all children. Primary schools in England
+can welcome back children in key transition years - nursery, reception,
+year 1 and year 6. From 15 June, secondary schools and colleges can
+invite year 10 and year 12 pupils, and 16 to 19 learners in the first
+year of their course, back into school for some face-to-face support
+from their teachers, to supplement their remote education.
 
 Education and childcare settings are already open to priority groups.
 Now that we have made progress in reducing the transmission of
-coronavirus we are encouraging all eligible children to attend – it is
+coronavirus we are encouraging all eligible children to attend - it is
 no longer necessary for parents of eligible children to keep them at
 home if they can.
 
@@ -225,6 +257,9 @@ schools to follow, and should be read alongside:
     workers](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision){.govuk-link}
 -   [guidance on vulnerable children and young
     people](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}
+-   [guidance on preparing for the wider opening of primary and
+    secondary
+    schools](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june){.govuk-link}
 
 [1. ]{.number} Vital role of schools
 ------------------------------------
@@ -249,30 +284,50 @@ will aim to provide you with as much certainty and flexibility as
 possible, and will do all we can to support the vital service you are
 providing.
 
-We expect schools and local authorities should work together to ensure
-that different settings are supported to stay open wherever possible,
-taking into account their circumstances and cohort (for example, special
-settings and alternative provision). And, we want local authorities to
-help coordinate what this means, working with education settings to
-deliver the services required. That includes academies, the independent
-sector, and boarding schools.
+We expect schools and local authorities to work together to ensure that
+different settings are supported to open to eligible children wherever
+possible, taking into account their circumstances and cohort (for
+example, special settings and alternative provision). And, we want local
+authorities to help coordinate what this means, working with educational
+settings to deliver the services required. That includes academies, the
+independent sector, and boarding schools.
 
-[2. ]{.number} Preparing for the wider opening of education settings from 1 June
---------------------------------------------------------------------------------
+[2. ]{.number} The wider opening of educational settings
+--------------------------------------------------------
 
 ### [2.1 ]{.number} Which pupils can attend school?
 
-From the week commencing 1 June at the earliest, we will be asking
-primary schools to welcome back children in nursery, Reception, year 1
-and year 6, alongside priority groups. We will ask secondary schools,
-sixth form and further education colleges to offer some face-to-face
-support for year 10 and year 12 students (and equivalents) who are due
+#### Primary schools
+
+From the week commencing 1 June, we will be asking primary schools to
+welcome back children in nursery, Reception, year 1 and year 6,
+alongside priority groups.
+
+#### Secondary schools
+
+From the week commencing 15 June, we will ask secondary schools to offer
+some face-to-face support for year 10 and year 12 students who are due
 to take key exams next year, alongside the full time provision they are
 offering to priority groups.
 
+We are asking secondary schools to offer this face-to-face support to
+supplement the remote education of year 10 and year 12 pupils, which
+should remain the predominant mode of education during this term for
+these pupils.
+
+Our assessment, based on the latest scientific and medical advice, is
+that we need to continue to control the numbers attending school to
+reduce the risk of increasing transmission. Secondary schools should
+therefore ensure that only a quarter of pupils in year 10 and year 12
+are in school at any one time, including vulnerable children and
+children of critical workers in those year groups who are still
+encouraged to attend full-time. This is in addition to vulnerable pupils
+and children of critical workers in other year groups, who should also
+attend full-time.
+
 Alternative provision settings should mirror the approach being taken
-for mainstream schools and also offer some face-to-face support for
-years 10 and 11 students (as they have no year 12). Special schools,
+for mainstream schools and also offer some face-to-face support for year
+10 and year 11 students (as they have no year 12). Special schools,
 special post-16 institutions and hospital schools will work towards a
 phased return of more children and young people without a focus on
 specific year groups.
@@ -324,19 +379,142 @@ schools:
     far as is possible, to ensure that the risk of transmission is
     reduced
 
-### [2.2 ]{.number} Can schools operate a staggered return or a rota system for pupils returning from 1 June?
+### [2.2 ]{.number} Why are you opening schools to more pupils now?
 
-Schools should not plan on the basis of a rota system for pupils
-returning from 1 June, either daily or weekly. We are asking schools to
-welcome back eligible pupils full-time, and do not expect schools to
-implement flexible approaches, such as rota systems.
+Thanks to the huge efforts everyone has made to adhere to strict social
+distancing measures, the scientific advice indicates the transmission
+rate of coronavirus has decreased and the government’s 5 tests have now
+been met. Based on all the evidence, we are now able to begin our
+cautious and phased approach to the wider opening of schools. We want to
+get all children back into school as soon as we are able because we know
+it is the best place for them to learn, and because we know how
+important it is for their mental wellbeing to have social interactions
+with their friends, carers and teachers.
 
-### [2.3 ]{.number} What public health advice should schools follow?
+Our approach is a cautious one, and in line with the experience of other
+European countries who have begun to bring back pre-school and
+school-age children in a phased way and are focusing on primary schools
+and younger children first.
 
-Keeping children and staff safe is our utmost priority. DfE’s guidance
-on [implementing protective measures in education and
-childcare](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
-settings contains detailed advice for settings on:
+### [2.3 ]{.number} What scientific advice have you based this decision on?
+
+We have been guided by the science throughout the coronavirus outbreak,
+including taking advice from SAGE and its sub-group which is focused on
+the role of children in transmission. SAGE regularly publishes [papers
+from its
+meeting](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response){.govuk-link}.
+
+The department has published an [explanatory
+note](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/887247/Department_for_Education_explanatory_note_on_SAGE_modelling.pdf){.govuk-link}
+to accompany SAGE’s findings from the Interdisciplinary Task and Finish
+Group that looked specifically at the role of children in transmission
+and informed our approach to the wider opening of schools.
+
+Our approach is a cautious one and recognises both the need for a phased
+return of year groups and that the safety and wellbeing of children, the
+staff that work with them, and the public is paramount. Our guidance on
+implementing protective measures gives schools advice on how to minimise
+risks as they welcome more children back.  
+
+### [2.4 ]{.number} Why are primary schools returning before secondary schools?
+
+We want to get all children back into school as soon as the scientific
+advice allows, because we know it is the best place for them to learn.
+Our cautious, phased approach is based on the latest scientific advice.
+This advice shows that younger children are less affected by coronavirus
+and have less severe symptoms if they do get infected. We also know that
+time spent out of education has a particularly detrimental impact on
+younger children.
+
+Secondary school pupils typically travel much further to school or
+college and are far more likely to use public transport or school buses,
+and they are more likely to have higher numbers of contacts outside of
+school. They are also typically educated in mixed groups for their
+studies and the scientific advice indicates we currently need to
+minimise mixing between groups. So, for now, we are asking secondary
+schools, from 15 June, to only provide some limited face-to-face support
+for year 10 and year 12 pupils who are preparing for exams next year, to
+supplement their remote education.
+
+### [2.5 ]{.number} Can primary schools operate a rota system for eligible year groups returning from 1 June?
+
+For the period from 1 June, when only Reception, year 1 and year 6 will
+be attending school, alongside vulnerable children and the children of
+critical workers, we are asking primary schools not to plan on the basis
+of daily or weekly rotas as they do not provide the consistency of
+education and care required for the youngest children, who also require
+more support with remote education.
+
+Rotas are also likely to require more regular and burdensome cleaning
+between groups, may limit staffing options as staff will also need to be
+on the same rota, and are more challenging to combine in a low-risk way
+with full-time provision for vulnerable children and the children of
+critical workers.
+
+We are therefore asking primary schools to welcome back eligible pupils
+full-time from 1 June.
+
+### [2.6 ]{.number} Why are you only allowing a quarter of secondary school pupils to attend at a time?
+
+Our assessment, based on the latest scientific and medical advice, is
+that we need to continue to control the numbers attending school to
+reduce the risk of increasing transmission. Secondary schools should
+therefore ensure that only a quarter of pupils in year 10 and year 12
+are in school at any one time, including vulnerable children and
+children of critical workers in those year groups who are still
+encouraged to attend full-time. This is in addition to vulnerable pupils
+and children of critical workers in other year groups, who should also
+attend full-time.
+
+This approach reflects that older children are much more likely to use
+public transport and to mix outside of school. They also typically mix
+more between groups while in school due to different subjects.
+
+Therefore, remote education will remain the predominant form of
+education for these pupils, with some face-to-face support enabling
+teachers to assess and aid their progress.
+
+### [2.7 ]{.number} Can you guarantee it will be safe for pupils and staff?
+
+Children, young people and teachers’ safety is our top priority. That’s
+why we are taking a cautious, phased approach to the wider opening of
+schools.
+
+We have worked closely with Public Health England (PHE) to develop
+guidance on the [protective
+measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
+which schools should put in place. This guidance sets out a hierarchy of
+controls which schools should work through and which, when implemented,
+create an inherently safer system where the risk of transmission of
+infection is significantly reduced. These controls are:
+
+-   avoiding contact with anyone with symptoms
+-   frequent hand cleaning and good hygiene practices
+-   regular cleaning of settings
+-   minimising contact and mixing
+
+All staff and children and their families will have access to testing if
+they display symptoms of coronavirus.
+
+### [2.8 ]{.number} Why are you welcoming more children back when they can’t stay 2 metres apart?
+
+We know that, unlike older children and adults, early years and primary
+age children cannot be expected to remain 2 metres apart from each other
+and staff. In deciding to bring more children back to early years and
+schools, we are taking this into account. Schools should therefore work
+through the hierarchy of controls to reduce the risk of transmission -
+crucially minimising contact and mixing by keeping children and staff in
+small consistent groups and keeping groups away from each other.
+
+### [2.9 ]{.number} What public health advice should schools follow?
+
+Keeping children and staff safe is our utmost priority. The department’s
+[guidance on safe working in educational
+settings](https://www.gov.uk/government/publications/safe-working-in-education-childcare-and-childrens-social-care/safe-working-in-education-childcare-and-childrens-social-care-settings-including-the-use-of-personal-protective-equipment-ppe#how-to-work-safely-in-specific-situations-including-where-ppe-may-be-required){.govuk-link}
+as well as guidance on [implementing protective measures in education
+and childcare
+settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
+contains detailed advice for settings on:
 
 -   cleaning, including supplies of cleaning and handwashing products
 -   testing and tracing
@@ -378,22 +556,96 @@ Those who are clinically vulnerable, or are living with someone who is,
 should follow our [protective measures
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
 
-### [2.4 ]{.number} How will schools be supported in preparing for wider opening?
+### [2.10 ]{.number} Does this guidance change any legal obligations that employers have relating to health and safety, employment, or equalities?
+
+No, this guidance does not supersede any legal obligations relating to
+health and safety, employment or equalities and it is important that
+employers continue to comply with existing obligations, including those
+relating to individuals with protected characteristics. This guidance,
+and other non-statutory guidance, is to be taken into account when
+complying with these existing obligations.
+
+The Health and Safety Executive (HSE) continues to regulate occupational
+health and safety during the coronavirus outbreak.
+
+### [2.11 ]{.number} What should a member of staff do if they believe their workplace is unsafe and does not meet current Department for Education and Public Health England guidelines?
+
+Employers, staff and workplace health and safety representatives should
+work together to resolve any concerns. If concerns cannot be resolved,
+they can be raised with the Health and Safety Executive (HSE). Where
+employers are not taking steps to comply with the relevant public health
+legislation and [guidance to control public health
+risks](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link},
+HSE will consider taking action to ensure that the risks are controlled.
+This includes the provision of advice through to issuing enforcement
+notices to help secure improvements. Further information is available on
+the [role of HSE on regulating occupational health and safety during the
+coronavirus
+outbreak](https://www.hse.gov.uk/news/hse-regulatory-activity-during-coronavirus.htm){.govuk-link}.
+
+### [2.12 ]{.number} Are education and childcare workers eligible for coronavirus testing?
+
+Yes. If you have any of the symptoms of coronavirus, you can [ask for a
+test through the NHS
+website](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}.
+
+If you’re an essential worker in England, Scotland or Northern Ireland,
+you can [apply for priority
+testing](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested#self-referral){.govuk-link}.
+You can also get tested through this route if you have symptoms of
+coronavirus and live with an essential worker.
+
+### [2.13 ]{.number} Are children eligible for coronavirus testing?
+
+All children and members of their households in England have access to
+testing if they display symptoms of coronavirus, including children
+under 5. A positive test will ensure rapid action to protect other
+children and staff in their setting.
+
+Tests can be accessed through the [NHS
+website](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}.
+
+### [2.14 ]{.number} How will the Test and Trace programme work?
+
+The NHS Test and Trace programme was launched on 28 May. The service
+will help identify, contain and control coronavirus, reduce the spread
+of the virus and save lives.
+
+Anyone who tests positive for coronavirus will be contacted by NHS Test
+and Trace and will need to share information about their recent
+interactions. This could include household members, people with whom
+they have been in direct contact, or within 2 metres for more than 15
+minutes.
+
+People identified as having been in close contact with someone who has a
+positive test must stay at home for 14 days, even if they do not have
+symptoms, to stop unknowingly spreading the virus. [Further information
+about Test and Trace is
+available](https://www.gov.uk/guidance/nhs-test-and-trace-how-it-works){.govuk-link}.
+
+If those in isolation develop symptoms, they can [book a test on the NHS
+website](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}
+or by calling 119. If they test positive, they must continue to stay at
+home for 7 days or until their symptoms have passed. If they test
+negative, they must complete the 14-day isolation period. Members of
+their household will not have to stay at home unless the person
+identified becomes symptomatic, at which point they must also
+self-isolate for 14 days to avoid unknowingly spreading the virus.
+
+### [2.15 ]{.number} How will schools be supported to open more widely?
 
 Schools, and all childcare providers, have been serving a vital role by
 continuing to provide care for a limited number of children - children
 who are vulnerable, and children whose parents are critical to the
 coronavirus response.
 
-We have worked closely with the sector, and will continue to do so over
-the coming weeks to support the wider opening of schools, colleges and
-childcare settings. We have published guidance on [actions for education
-and childcare settings to prepare for wider opening from 1 June
-2020](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/actions-for-education-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020){.govuk-link},
+We have worked closely with the sector, and will continue to do so to
+support the wider opening of schools, colleges and childcare settings.
+We have published [guidance on actions for education and childcare
+settings to prepare for wider opening from 1 June
+2020](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020){.govuk-link},
 which sets out the overarching aims and principles of this next phase,
 including information about protective measures which will be in place.
-We will work with the profession to produce more detailed guidance ahead
-of 1 June 2020.
 
 All schools are different, and it is not possible for government to set
 specific national guidelines that could be universally applicable.
@@ -406,130 +658,81 @@ schools and trusts may choose to develop their own plans, providing
 operational guidance to support school and trust leaders in agreeing the
 best approaches for their circumstances.
 
+The department’s [planning guide for primary schools is available
+here](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-primary-schools#annex-a-behaviour-principles){.govuk-link}.
+
+The department’s [guidance for secondary school provision is available
+here](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-secondary-schools#flexibility){.govuk-link}.
+
 [3. ]{.number} Responsibilities
 -------------------------------
 
 ### [3.1 ]{.number} What are schools responsible for?
 
-Between 23 March and 1 June, educational and childcare settings are
-responsible for providing places only to priority children (vulnerable
-children, and children of critical workers.
-
-While as many schools as possible should try to stay open for priority
-pupils at this time, this will not be possible for all settings, and the
-local authority should oversee arrangements so that pupils are able to
-access provision elsewhere.
-
-We are also asking that schools prepare for wider opening on the
-assumption that eligible year groups can return to schools from 1 June.
-
-From the week commencing 1 June at the earliest, we are asking that
-schools welcome back eligible year groups as part of the wider opening
-of educational settings, alongside priority groups.
-
-Maintained, academy and independent schools should work with local
-authorities to ensure provision is available for priority and eligible
-groups.
+From the week commencing 1 June, we are asking that primary schools
+welcome back children in nursery, Reception, year 1 and year 6 alongside
+priority groups. Secondary schools should prepare to welcome year 10 and
+year 12 pupils back into school for some face-to-face support to
+supplement their remote education from 15 June. Schools should be able
+to have a quarter of the year 10 and year 12 cohort (for schools with
+sixth forms) in school at any one time. We expect all mainstream and
+independent schools to follow the same approach, including middle
+schools, and welcome back priority and eligible year groups to ensure a
+consistent approach across England.
 
 ### [3.2 ]{.number} What are local authorities responsible for?
 
 Local authorities are responsible for co-ordinating a response to the
-coronavirus arrangements. Working with education settings (including
-academies and the independent sector), they should use the [critical
-worker
+coronavirus arrangements, as well as monitoring demand and capacity.
+Working with educational settings (including academies and the
+independent sector), they should use the [critical worker
 list](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision){.govuk-link},
 and the [definition of vulnerable
 children](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link},
 to support schools and trusts to ensure that there is sufficiency for
-these priority groups, and for those groups eligible for return to
-settings from 1 June.
-
-Local authorities are also responsible for monitoring demand and
-capacity. This may involve working with schools to provide places in
-alternative settings if necessary, and supporting residential special
-schools, alternative provision, and other special settings to remain
-open, wherever possible.
+these priority groups, and for those groups eligible to return to school
+from 1 June.
 
 They are also responsible for supporting trusts and schools to assess
 the risks for children and young people whose education, health and care
 (EHC) plans they maintain, and ensuring those children are safely cared
 for whether at school/college or at home.
 
-[4. ]{.number} What arrangements should schools and local authorities maintain throughout the remainder of May?
----------------------------------------------------------------------------------------------------------------
+### [3.3 ]{.number} Who holds the responsibility for key decisions regarding wider opening?
 
-We are asking schools to remain open for children of critical workers
-and vulnerable children where they can, but we understand that some may
-be unable to do so especially if they are experiencing severe staff
-shortages.
+In most cases the preparation for wider opening will be undertaken by
+the headteacher and senior colleagues. However, relevant bodies (such as
+local authorities, academy trusts or governing bodies, depending on the
+school type) retain responsibility for key decisions and plans should be
+confirmed with them, particularly risk assessments of the school opening
+more widely, before pupils and staff return.
 
-Local authorities should therefore work with maintained, academy and
-independent schools to identify temporary places for any children
-affected whilst their normal schools are closed.
-
-### [4.1 ]{.number} Will it be mandatory for all schools, colleges and early years settings to remain open in some form?
-
-We are asking all schools and early years settings to remain open for
-children of critical workers and vulnerable children.
-
-We acknowledge that some schools and early years settings may be unable
-to do so, and will support them to work with local authorities, regional
-school commissioners, and neighbouring schools and settings, to continue
-to support these children.
-
-### [4.2 ]{.number} Are schools opening on the May bank holiday?
-
-Schools should decide, in consultation with the parents of children who
-are currently attending school, whether it is necessary for them to
-continue to look after critical workers’ children and vulnerable
-children over the May bank holiday.
-
-### [4.3 ]{.number} Are schools opening during May half term?
-
-We trust schools to make arrangements that work for their school
-community, in consultation with parents and carers of vulnerable
-children and those who are critical workers
-
-### [4.4 ]{.number} Are schools expected to share resources?
+### [3.4 ]{.number} Are schools expected to share resources?
 
 If some schools are experiencing high demand for places, or severe staff
 shortages, local authorities will co-ordinate support from other schools
-in the area. Schools are expected to be flexible and work together where
-required.
-
-### [4.5 ]{.number} Can provision be shared across local authority areas?
-
-If a school is unable to open, local authorities should try to
-co-ordinate provision for pupils in other schools in their area. If this
-is not possible, local authorities should consider working with
-neighboring local authorities, while keeping in mind the impact on
-children. Regional school commissioners (RSCs) can support conversations
-between local authorities where necessary.
+in the area. Regional school commissioners (RSCs) can support
+conversations between local authorities where necessary. Schools are
+expected to be flexible and work together where required.
 
 Some multi-academy trusts operate across different local authorities,
 and can assist in making arrangements between their schools if
 appropriate.
 
-### [4.6 ]{.number} Schools and early years settings in some areas are operating in ‘hubs’ - for example, groups of schools/settings operating at a single site. Is this permitted? {#schools-and-early-years-settings-in-some-areas-are-operating-in-hubs---for-example-groups-of-schoolssettings-operating-at-a-single-site-is-this-permitted}
+### [3.5 ]{.number} Do schools have to accept temporary attendees and how should they be registered?
 
-With significantly reduced pupil numbers, and risks of understaffing due
-to illness, we understand that shared provision through multi-school or
-early years hubs and clusters is an option being considered in some
-areas. In some cases, arrangements are already in place.
+Where necessary and appropriate, some schools may provide temporary
+education and care for priority groups and children in eligible year
+groups who would normally attend other schools.
 
-Please see guidance on [Using clusters and hubs to maintain provision in
-educational
-settings](https://www.gov.uk/government/publications/using-clusters-and-hubs-to-maintain-educational-provision){.govuk-link}.
+We have used legal powers to modify the definition of ‘pupil’ in law for
+such children in relation to registration requirements. This means there
+is no expectation that they will remain permanently at any school they
+attend temporarily because of measures taken in response to coronavirus.
 
-### [4.7 ]{.number} If education and care for vulnerable children, and the children of critical workers is being provided by a school or setting that is not the child’s normal school or setting, where should they be registered?
-
-Where another school provides education and care for vulnerable children
-and the children of critical workers whilst their normal school is
-temporarily closed because of coronavirus,these children should not be
-registered as pupils. We have used [powers to temporarily relax the
-requirement to register
-them](https://www.gov.uk/government/publications/modification-notice-school-registration-legislation-changes){.govuk-link}.
-These children should return to their normal school once it reopens.
+Schools should not apply their admission arrangements in temporarily
+offering places to such children and they should not register them as
+pupils.
 
 Children that temporarily attend another school are still considered as
 pupils at the host school for all other purposes other than
@@ -542,44 +745,24 @@ special educational needs (SEN), and other duties in relation to these
 children. Schools will not be able to charge for the education of these
 children and will be able to apply their normal behaviour policy.
 
-### [4.8 ]{.number} Do schools which remain open have to accept temporary attendees?
-
-We encourage schools which remain open for their own registered pupils
-who are vulnerable or the children of critical workers to support the
-country’s response to the coronavirus outbreak by also providing
-temporary education and care for children whose own schools are closed.
-
-We have used legal powers to modify the definition of ‘pupil’ in law for
-such children in relation to registration requirements. This means there
-is no expectation that they will remain permanently at any school they
-attend temporarily because of measures taken in response to coronavirus.
-
-Schools should not apply their admission arrangements in temporarily
-offering places to such children and they should not register them as
-pupils. These children should return to their normal school as soon as
-it reopens.
-
-### [4.9 ]{.number} What else needs to happen if a child is attending a different setting than usual?
+### [3.6 ]{.number} What else needs to happen if a child is attending a different setting than usual?
 
 Important information should be provided on day one, including emergency
 contact details, dietary requirements and medical needs to safeguard the
 health, safety and welfare of children.
 
-### [4.10 ]{.number} If children are attending an alternative setting, will transport be provided?
+### [3.7 ]{.number} If children are attending an alternative setting, will transport be provided?
 
-Home to school transport provided or organised by schools, trusts or
-local authorities varies widely. Schools, trusts and local authorities
-should work together and with relevant transport providers to put in
-place arrangements which fit the local circumstances, including the
-measures being put in place to reduce contact.
+We will work closely with local authorities to put the necessary
+arrangements in place to support children.
 
-### [4.11 ]{.number} What is expected of schools in terms of opening hours?
+### [3.8 ]{.number} What is expected of schools in terms of opening hours?
 
 We expect schools to operate for their normal hours. Where possible, we
 would encourage breakfast club and after school provision, to help
 support the children of workers critical to the coronavirus response.
 
-### [4.12 ]{.number} Can schools flex on legal requirements in order to deliver this service?
+### [3.9 ]{.number} Can schools flex on legal requirements in order to deliver this service?
 
 The Coronavirus Act 2020 allows for the temporary disapplication or
 modification of some requirements on schools, including within the
@@ -589,40 +772,33 @@ to enable them to focus on this core new ask. Schools should focus on
 [safeguarding
 duties](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers){.govuk-link}
 as a priority. Where schools and trusts have concerns about the impact
-of staff absence – such as their designated safeguarding lead or first
-aiders – they should discuss immediately with the local authority or
+of staff absence - such as their designated safeguarding lead or first
+aiders - they should discuss immediately with the local authority or
 trust.
 
-[5. ]{.number} Prioritising pupils
+[4. ]{.number} Prioritising pupils
 ----------------------------------
 
-### [5.1 ]{.number} Is it necessary to prioritise children?
+### [4.1 ]{.number} Is it necessary to prioritise children?
 
-The first aim of the partial school closure measures was to reduce the
-overall population of children moving around local areas, in order to
-further reduce the number of social interactions, and thus flatten the
-upward curve of the coronavirus outbreak.
+Education and childcare settings are already open to priority groups,
+ensuring the continued care for children who are vulnerable and for
+children whose parents are critical to the coronavirus response, so that
+their parents and carers can continue to work, where alternative
+childcare arrangements cannot be made.
 
-However, the second aim was to continue to care for children whose
-parents are critical to the coronavirus response, so that they can
-continue to work where alternative childcare arrangements cannot be
-made, and for children who are vulnerable.
+In the first phases of wider opening, we will prioritise the return of
+younger children, for several reasons. Firstly, because there is
+moderately high scientific confidence in evidence suggesting younger
+children are less likely to become unwell if infected with coronavirus,
+and secondly because evidence shows the particularly detrimental impact
+which time spent out of education can have upon them. In addition, older
+children are more likely to have higher numbers of contacts outside of
+school so pose a greater transmission risk, and they are typically
+better able to learn at home.
 
-Now that we have made progress in reducing the transmission of
-coronavirus we are encouraging all eligible children to attend – it is
-no longer necessary for parents of eligible children to keep them at
-home if they can. These priority groups remain eligible to attend as
-schools open to more students.
-
-In the first phases of wider opening, we will prioritise younger
-children, for several reasons. Firstly, because there is moderately high
-scientific confidence in evidence suggesting younger children are less
-likely to become unwell if infected with coronavirus; and secondly
-because evidence shows the particularly detrimental impact which time
-spent out of education can have upon them.
-
-The three year groups within mainstream primary have been prioritised
-because they are key transition years – children in Reception and year 1
+The 3 year groups within mainstream primary have been prioritised
+because they are key transition years - children in Reception and year 1
 are at the very beginning of their school career and are mastering the
 essential basics, including counting and the fundamentals of reading and
 writing, and learning to socialise with their peers. We know that
@@ -632,10 +808,24 @@ are finishing Key Stage 2 and are preparing for the transition to
 secondary school, and will benefit immensely from time with their
 friends and teachers to ensure they are ready.
 
-From 1 June, as more children return to schools, we appreciate that each
-setting’s circumstances will be slightly different. Any setting that
-cannot achieve the small groups recommended as part of the [protective
-measures
+The 2 year groups in mainstream secondary schools have been prioritised
+because they are preparing for key examinations next year, and are most
+at risk of falling behind due to time out of school. From 15 June, we
+are asking secondary schools to offer some face-to-face support to year
+10 and year 12 pupils (and equivalent) to supplement their remote
+education. Schools should plan on the basis of having a quarter of the
+year 10 and year 12 cohort (for schools with sixth forms) in school at
+any one time.
+
+### [4.2 ]{.number} How should schools prioritise the return of priority children and respective eligible year groups?
+
+From 1 June, as more children return to primary schools, we appreciate
+that each setting’s circumstances will be slightly different. We
+acknowledged that some schools may not be able to open for more children
+immediately, and are committed to continuing to work with the sector to
+ensure any schools experiencing difficulties are able to open as soon as
+possible. Any setting that cannot achieve the small groups recommended
+as part of the [protective measures
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
 should discuss options with their local authority or trust. If
 necessary, settings have the flexibility to focus first on continuing to
@@ -647,9 +837,9 @@ learning, settings should prioritise groups of children as follows:
 -   infant schools - nursery (where applicable) and Reception
 -   primary schools - nursery (where applicable), Reception and year 1
 
-### [5.2 ]{.number} How are critical workers defined?
+### [4.3 ]{.number} How are critical workers defined?
 
-Children with a [parent or carer who is listed as a critical
+Children with a parent or carer who is [listed as a critical
 worker](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision){.govuk-link}
 are eligible for a school place.
 
@@ -673,7 +863,8 @@ We can confirm that:
 -   parliamentarians and essential parliamentary staff are also included
     in this list
 
-### [5.3 ]{.number} How are vulnerable children defined?
+[4.4 ]{.number} How are vulnerable children defined?
+----------------------------------------------------
 
 During the coronavirus outbreak vulnerable children and young people are
 defined as those who:
@@ -681,12 +872,12 @@ defined as those who:
 -   are assessed as being in need under section 17 of the Children Act
     1989, including children who have a child in need plan, a child
     protection plan or who are a looked-after child
--   have an education, health and care (EHC) plan and it is determined,
+-   have an education, health and care (EHC) Plan and it is determined,
     following a risk assessment, that their needs can be met as safely
     or more safely in the educational environment; or
 -   have been assessed as otherwise vulnerable by education providers or
     local authorities (including children’s social care services), and
-    who are therefore in need of continued education provision - this
+    who are therefore in need of continued education provision- this
     might include children and young people on the edge of receiving
     support from children’s social care services, adopted children,
     those at risk of becoming NEET (‘not in employment, education or
@@ -694,24 +885,18 @@ defined as those who:
     young carers, and others at the provider and local authority
     discretion
 
-Read the guidance on how schools should continue to [support vulnerable
+Read the [guidance on how schools should continue to support vulnerable
 children](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}.
 
-### [5.4 ]{.number} Is it compulsory for critical workers to send their children to school?
-
-We strongly encourage children and young people in priority groups (such
-as children of critical workers) to attend, unless they are
-self-isolating or there are other reasons for absence (such as shielding
-due to health conditions).
-
-### [5.5 ]{.number} What are our expectations regarding vulnerable children and young people attending educational settings?
+[4.5 ]{.number} What are our expectations regarding vulnerable children and young people attending educational settings?
+------------------------------------------------------------------------------------------------------------------------
 
 Vulnerable children and young people’s attendance is expected, where it
-is appropriate for them (i.e. where there are no shielding concerns for
-the child or their household, and/or following a risk assessment for
-children with an EHC plan), so that they can gain the educational and
-wellbeing benefits of attending. Vulnerable children and young people –
-regardless of year group – that have not been attending in the recent
+is appropriate for them (that is where there are no shielding concerns
+for the child or their household, and/or following a risk assessment for
+children with an EHCP), so that they can gain the educational and
+wellbeing benefits of attending. Vulnerable children and young people -
+regardless of year group - that have not been attending in the recent
 period are expected to return to school where this would now be
 appropriate for them to do so. A brief summary of attendance
 expectations across the different groups of vulnerable children and
@@ -720,57 +905,50 @@ young people is as follows:
 -   for vulnerable children and young people who have a social worker,
     attendance is expected unless the child/household is shielding or
     clinically vulnerable (see the advice set out by Public Health
-    England on [households with possible coronavirus
-    infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link},
-    and [shielding and protecting people defined on medical grounds as
-    extremely
-    vulnerable](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link}).
+    England on households with possible coronavirus infection, and
+    shielding and protecting people defined on medical grounds as
+    extremely vulnerable).
+
 -   for vulnerable children and young people who have an education
     health and care (EHC) plan, attendance is expected where it is
     determined, following [risk
     assessment](https://www.gov.uk/government/publications/coronavirus-covid-19-send-risk-assessment-guidance/coronavirus-covid-19-send-risk-assessment-guidance){.govuk-link},
     that their needs can be as safely or more safely met in the
-    educational environment. Read further guidance on temporary [Changes
+    educational environment. Read [further guidance on temporary changes
     to education, health and care (EHC) needs and
-    assessments](https://www.gov.uk/government/publications/changes-to-the-law-on-education-health-and-care-needs-assessments-and-plans-due-to-coronavirus/education-health-and-care-needs-assessments-and-plans-guidance-on-temporary-legislative-changes-relating-to-coronavirus-covid-19){.govuk-link}
+    assessments](https://www.gov.uk/government/publications/changes-to-the-law-on-education-health-and-care-needs-assessments-and-plans-due-to-coronavirus/education-health-and-care-needs-assessments-and-plans-guidance-on-temporary-legislative-changes-relating-to-coronavirus-covid-19){.govuk-link}.
+
 -   for vulnerable children and young people who are deemed otherwise
     vulnerable, at the school, college or local authority discretion,
     attendance is expected unless the child/household is shielding or
     clinically vulnerable (see the advice set out by Public Health
-    England on [households with possible coronavirus
-    infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link},
-    and [shielding and protecting people defined on medical grounds as
-    extremely
-    vulnerable](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link}).
+    England on households with possible coronavirus infection, and
+    shielding and protecting people defined on medical grounds as
+    extremely vulnerable).
 
-### [5.6 ]{.number} How do we identify pupils who are the children of critical workers?
+### [4.6 ]{.number} How do we identify pupils who are the children of critical workers?
 
-<div class="application-notice info-notice" aria-label="Information"
-role="note">
-
-Refer to the [critical worker
+Please refer to the [critical worker
 list](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision){.govuk-link}.
 
-</div>
-
-Schools should speak to parents/carers to identify who requires a school
-place.
+Schools should speak to parents and carers to identify who requires a
+school place.
 
 If it proves necessary, schools can ask for simple evidence that the
 parent in question is a critical worker, such as their work ID badge or
 pay slip.
 
-### [5.7 ]{.number} Should schools only offer places to children of single-parent critical workers and children where both their parents are critical workers?
+### [4.7 ]{.number} Should schools only offer places to children of single-parent critical workers and children where both their parents are critical workers?
 
-Children with at least one parent/carer who is critical to the
+Children with at least one parent or carer who is critical to the
 coronavirus response can go to school if required.
 
-### [5.8 ]{.number} Can support and teaching staff send their children to school?
+### [4.8 ]{.number} Can support and teaching staff send their children to school?
 
 Teachers and school staff are critical to the coronavirus response, so
 can send their children to school.
 
-### [5.9 ]{.number} Can schools, trusts and local authorities take a flexible approach to the vulnerable children definition depending on their local circumstances?
+### [4.9 ]{.number} Can schools, trusts and local authorities take a flexible approach to the vulnerable children definition depending on their local circumstances?
 
 We know that schools and trusts will have some knowledge of children
 they consider vulnerable, who have not yet been formally recognised as
@@ -783,47 +961,17 @@ pupils going to school in their local area.
 Eligibility for free school meals should not, in and of itself, be a
 determining factor in assessing vulnerability.
 
-### [5.10 ]{.number} Do children in foster care come under the definition of vulnerable children?
+### [4.10 ]{.number} Do children in foster care come under the definition of vulnerable children?
 
 Yes, all children who are looked after by the local authority are
 eligible. For all looked after children, local authorities will be well
 placed to identify them and ensure that foster carers know that they
 will be eligible for a temporary school place and how to access support.
 
-### [5.11 ]{.number} Why have you prioritised the return of certain year groups from 1 June?
-
-We will prioritise younger children in the next phase of wider opening,
-for several reasons. Firstly, because there is moderately high
-scientific confidence in evidence suggesting younger children are less
-likely to become unwell with coronavirus and secondly because evidence
-shows the particularly detrimental impact which time spent out of
-education can have upon them. In addition, older children are more
-likely to have higher numbers of contacts outside of school so pose a
-greater transmission risk, and they are typically better able to learn
-at home.
-
-The 3 year groups within mainstream primary have been prioritised
-because they are key transition years – children in Reception and year 1
-are at the very beginning of their school career and are mastering the
-essential basics, including counting and the fundamentals of reading and
-writing, and learning to socialise with their peers. We know that
-attending early education lays the foundation for lifelong learning and
-supports children’s social and emotional development. Year 6 children
-are finishing Key Stage 2 and are preparing for the transition to
-secondary school study, and will benefit immensely from time with their
-friends and teachers to ensure they are ready.
-
-The 2 year groups in mainstream secondary schools and colleges have been
-prioritised because they are preparing for key examinations next year,
-and are most at risk of falling behind due to time out of school or
-college. From 1 June, secondary schools and colleges will offer some
-face to face support with year 10 and year 12 pupils (and equivalent) to
-supplement their remote education.
-
-[6. ]{.number} Funding
+[5. ]{.number} Funding
 ----------------------
 
-### [6.1 ]{.number} Will state-funded schools receive funding support?
+### [5.1 ]{.number} Will state-funded schools receive funding support?
 
 State-funded schools will continue to receive their budgets for the
 coming year, as usual, regardless of any periods of partial or complete
@@ -832,17 +980,17 @@ staff, and meet their other regular financial commitments, as we move
 through these extraordinary times.
 
 We know that schools may face additional costs as a result of the
-coronavirus and have published [Coronavirus (COVID-19): financial
-support for
-schools](https://www.gov.uk/government/publications/coronavirus-covid-19-financial-support-for-schools){.govuk-link}.
+coronavirus and have published [guidance setting out the process for
+schools needing to claim for these exceptional
+costs](https://www.gov.uk/government/publications/coronavirus-covid-19-financial-support-for-schools){.govuk-link}.
 
-[7. ]{.number} Attendance
+[6. ]{.number} Attendance
 -------------------------
 
-### [7.1 ]{.number} Is attendance compulsory?
+### [6.1 ]{.number} Is attendance compulsory?
 
-Eligible children – including priority groups – are strongly encouraged
-to attend their education setting, unless they are self-isolating or
+Eligible children - including priority groups - are strongly encouraged
+to attend their educational setting, unless they are self-isolating or
 they are clinically vulnerable.
 
 No one with symptoms should attend a setting for any reason. If someone
@@ -850,13 +998,13 @@ in their household is extremely clinically vulnerable, children should
 only attend if stringent social distancing can be adhered to, and the
 child is able to understand and follow those instructions.
 
-Families should notify their nursery, school or college as normal if
-their child is unable to attend so that staff can explore the reason
-with them and address barriers together.
+Families should notify their school as normal if their child is unable
+to attend so that staff can explore the reason with them and address
+barriers together.
 
 Parents will not be fined for non-attendance at this time.
 
-### [7.2 ]{.number} Will parents be penalised if their child does not attend school?
+### [6.2 ]{.number} Will parents be penalised if their child does not attend school?
 
 Parents will not be penalised if their child does not attend school. We
 expect schools and other relevant partners to work with and support the
@@ -867,7 +1015,7 @@ parent of a child of compulsory school age is not guilty of an offence
 on account of the child’s failure to attend regularly at the school at
 which the child is registered (section 444 of the Education Act 1996).
 
-### [7.3 ]{.number} Can the children of critical workers and vulnerable children still attend school, even if they are not in priority years?
+### [6.3 ]{.number} Can the children of critical workers and vulnerable children still attend school, even if they are not in priority years?
 
 Yes. Now that we have made progress in reducing the transmission of
 coronavirus we are encouraging all eligible children to attend settings
@@ -877,10 +1025,10 @@ household), even if parents are able to keep their children at home.
 Vulnerable children and young people of all year groups are expected to
 attend educational provision where it is appropriate for them to do so.
 Further guidance on vulnerable children at [Supporting vulnerable
-children and young people during the coronavirus (COVID-19)
+children and young people during the coronavirus
 outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}.
 
-### [7.4 ]{.number} How can schools encourage pupils to attend and maintain good attendance?
+### [6.4 ]{.number} How can schools encourage pupils to attend and maintain good attendance?
 
 For those pupils eligible to attend, schools should address absence by
 sensitively exploring parents’ and pupils’ concerns and what is
@@ -908,7 +1056,7 @@ to, and the child is able to understand and follow those instructions.
 Schools and colleges should continue to inform social workers where
 children with a social worker do not attend.
 
-### [7.5 ]{.number} What should educational settings, local authorities and social workers be doing to track and encourage the attendance of vulnerable children and young people?
+### [6.5 ]{.number} What should educational settings, local authorities and social workers be doing to track and encourage the attendance of vulnerable children and young people?
 
 There is an expectation that vulnerable children and young people will
 continue to attend educational provision, where it is appropriate for
@@ -935,49 +1083,35 @@ work together to ensure adequate and appropriate arrangements are in
 place to keep in touch with vulnerable children and young people
 (whether they are attending provision, or not attending for an agreed or
 non-agreed reason), such as by letter, phone or visit. To support this,
-education settings should take the opportunity when communicating with
+educational settings should take the opportunity when communicating with
 parents and carers to confirm emergency contact numbers are correct and
 ask for any additional emergency contact numbers where they are
 available.
 
-### [7.6 ]{.number} Do schools need to take an attendance register?
+### [6.6 ]{.number} Do schools need to take an attendance register?
 
-Between 23 March and 1 June, schools do not need to take an attendance
-register. For administrative purposes, Code \# (planned whole or partial
-closure) should be used.
+Schools should resume taking the attendance register following
+re-opening to more pupils. Guidance on completing the attendance
+register at this time, along with which codes to use, [is
+available](https://www.gov.uk/government/publications/coronavirus-covid-19-attendance-recording-for-educational-settings/process-for-recording-attendance-and-using-the-educational-setting-status-form){.govuk-link}.
 
-However, we are asking schools to submit a [short daily
-return](https://www.gov.uk/government/publications/coronavirus-covid-19-attendance-recording-for-educational-settings){.govuk-link},
-reporting whether they are open, and how many children and staff are in
-school. This should include any children attending temporarily during
-the coronavirus outbreak. This will allow for a record of attendance for
-safeguarding purposes, and allow schools to provide accurate, up to date
-data to the government. This will also help the Department for Education
-to track capacity in the system, enabling the department to feed into
-wider tracking of the impact of the virus to support scientific advice.
-
-When more pupils return to schools from 1 June, schools should resume
-taking the attendance register. We will provide further guidance shortly
-on how to record attendance in the register during this time.
-
-From 1 June, we are still asking schools to submit the [Educational
-Setting Status
+Schools should also continue to submit the [Educational Setting Status
 form](https://form.education.gov.uk/service/educational-setting-status){.govuk-link}
-via the online portal reporting whether they are open and how many
+via the online portal to report whether they are open and how many
 children and staff are in school.
 
-### [7.7 ]{.number} Can the attendance register be taken at different times to accommodate for staggered start times?
+### [6.7 ]{.number} Can the attendance register be taken at different times to accommodate for staggered start times?
 
 Schools should have a policy on how long the register should be kept
-open but where a school implements staggered start times, they may wish
+open and where a school implements staggered start times, they may wish
 to consider temporarily extending this period.
 
-### [7.8 ]{.number} Will schools be held to account for their attendance data at this time?
+### [6.8 ]{.number} Will schools be held to account for their attendance data at this time?
 
 Schools and colleges will not be held to account for attendance levels
 at this time.
 
-### [7.9 ]{.number} Is there any responsibility on local authorities to keep monitoring vulnerable children’s attendance?
+### [6.9 ]{.number} Is there any responsibility on local authorities to keep monitoring vulnerable children’s attendance?
 
 Yes. Local authorities should continue to work with schools to monitor
 the welfare of vulnerable children who are not attending school, and
@@ -985,6 +1119,55 @@ other pupils they might wish to keep in touch with, for safeguarding
 purposes. Further information is set out in the [vulnerable
 children](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}
 guidance.
+
+[7. ]{.number} Transport
+------------------------
+
+### [7.1 ]{.number} How should children, parents and carers travel to school?
+
+Parents and children and young people should be encouraged to walk or
+cycle where possible, and avoid public transport at peak times.
+
+They should refer to [safer travel guidance for
+passengers](https://www.gov.uk/guidance/coronavirus-covid-19-safer-travel-guidance-for-passengers){.govuk-link}.
+
+### [7.2 ]{.number} Will local authorities be able provide free home to school transport for all eligible children attending school?
+
+Home to school transport provided or organised by schools, trusts or
+local authorities varies widely. Schools, trusts and local authorities
+should work together and with relevant transport providers to put in
+place arrangements which fit the local circumstances, including the
+measures being put in place to reduce contact.
+
+Further guidance is available in [guidance on implementing protective
+measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
+
+### [7.3 ]{.number} What is the maximum number of children that should travel on a school bus, minibus or taxi?
+
+Given the variety of vehicles used to deliver school transport this is a
+matter for local decision making by local authorities and their
+transport providers, following a risk assessment. They should refer to
+the Department for Transport’s [safer transport guidance for transport
+operators](https://www.gov.uk/government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators){.govuk-link}.
+
+### [7.4 ]{.number} Is PPE needed by staff on home to school transport?
+
+No, PPE is generally not recommended outside of the clinical setting.
+
+The majority of staff in educational settings will not require PPE
+beyond what they would normally need for their work, even if they are
+not always able to maintain a distance of 2 metres from others. For
+guidance on the appropriate use of PPE in educational settings
+(including transport), see the [guidance on safe working in education,
+childcare and children’s social
+care](https://www.gov.uk/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.govuk-link}.
+
+If, when transporting children and young people, hygiene rules and
+social distancing is not possible, for example, where they have complex
+needs and may need support to access the vehicle or fasten seatbelts,
+schools should take appropriate actions to reduce risk. Further
+information is set out in the [guidance on protective
+measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
 
 [8. ]{.number} Working with parents
 -----------------------------------
@@ -1003,8 +1186,8 @@ list](https://www.gov.uk/government/publications/coronavirus-covid-19-maintainin
 
 </div>
 
-Schools should speak to parents/carers to identify who requires a school
-place.
+Schools should speak to parents and carers to identify who requires a
+school place.
 
 If required, we recommend asking for simple evidence that the parent in
 question is a critical worker, such as confirmation from their employer
@@ -1059,77 +1242,27 @@ Schools should work with local authorities to monitor the welfare of
 vulnerable children who are not attending school, and other pupils they
 might wish to keep in touch with, for safeguarding purposes.
 
-[9. ]{.number} Safeguarding
----------------------------
-
-### [9.1 ]{.number} Should my school still have a Designated Safeguarding Lead (DSL)?
-
-The optimal scenario for any school providing care for children is to
-have a trained DSL or deputy available on site. Where this is not
-possible schools should either arrange for a trained DSL or deputy from
-the school to be available to be contacted via phone or online video
-(for example working from home) or share trained DSLs or deputies with
-other schools. Further advice on DSL arrangements can be found at
-[Safeguarding in schools, colleges and other
-providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers){.govuk-link}.
-
-### [9.2 ]{.number} Does my school still have to follow Keeping Children Safe in Education (KCSIE)?
-
-Yes. KCSIE is statutory safeguarding guidance that schools should
-continue to have regard to. Advice to support schools to do this is
-available at [Safeguarding in schools, colleges and other
-providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers){.govuk-link}.
-
-### [9.3 ]{.number} How does my school support parents and carers keep their children safe online?
+### [8.4 ]{.number} How does my school support parents and carers keep their children safe online?
 
 In their regular communications with parents and carers, schools should
 emphasise the importance of parents and carers securing any online
 support for their children from a reputable organisation/individual who
 can provide evidence that they are safe and can be trusted to have
-access to children. Further guidance is available at:
+access to children. Read further [guidance to keeping children safe
+online](https://www.gov.uk/government/publications/coronavirus-covid-19-keeping-children-safe-online){.govuk-link}.
 
--   [Further information for parents and
-    carers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers){.govuk-link}.
+[9. ]{.number} Safeguarding
+---------------------------
 
--   [Safeguarding in
-    schools](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers){.govuk-link}.
+### [9.1 ]{.number} Do safeguarding duties remain the same during the COVID response period?
 
--   [Safeguarding and remote education during
-    coronavirus](https://www.gov.uk/guidance/safeguarding-and-remote-education-during-coronavirus-covid-19){.govuk-link}
-
-### [9.4 ]{.number} What about children with mental health issues?
-
-Leaders of educational settings and designated safeguarding leads know
-who their most vulnerable children and young people are and will have
-the flexibility to offer a place to those children and young people.
-
-All NHS mental health trusts are setting up 24/7 helplines and seeking
-to use digital and virtual channels to continue delivering support
-during the outbreak.
-
-Social connections, alongside exercise, sleep, diet and routine, are
-important protective factors for mental health. Resources to promote and
-support mental wellbeing are included in the list of [online
-resources](https://www.gov.uk/government/publications/coronavirus-covid-19-online-education-resources/coronavirus-covid-19-list-of-online-education-resources-for-home-education/){.govuk-link}
-we have published to help children to learn at home. Public Health
-England have also published [wider
-guidance](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing){.govuk-link}
-on supporting children and young people’s mental health and Department
-for Health and Social Care (DHSC) is providing £5m of additional funding
-for mental health charities (to support adults and children).
-
-Digital support includes:
-
--   [an educational resource](https://www.minded.org.uk/){.govuk-link}
-    for adults about children and young people’s mental health, which is
-    relevant for teachers, other professionals working with children,
-    volunteers, parents and carers
--   The [Every Mind Matters
-    platform](https://www.nhs.uk/oneyou/every-mind-matters/){.govuk-link}
-    about looking after your mental health (from Public Health England)
--   [Rise Above](https://riseabove.org.uk/){.govuk-link}, targeted at
-    young people, which also has [schools-facing lesson
-    plans](https://campaignresources.phe.gov.uk/schools/topics/rise-above/overview){.govuk-link}
+Yes, schools’ safeguarding duties remain the same. They must continue to
+have regard to the statutory safeguarding guidance, Keeping Children
+Safe in Education (KCSIE). The department has published [safeguarding
+guidance](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers){.govuk-link}
+to support schools and colleges continue to have appropriate regard to
+KCSIE and suggest where schools and colleges might consider safeguarding
+policy and process differently when compared to business as usual.
 
 [10. ]{.number} Workforce
 -------------------------
@@ -1180,38 +1313,37 @@ it is advised that they should only attend work if stringent social
 distancing can be adhered to. If stringent social distancing cannot be
 adhered to, they should be supported to work from home.
 
-### [10.4 ]{.number} Are education and childcare workers eligible for coronavirus testing?
+### [10.4 ]{.number} What should school leaders do if staff do not want to come into school?
 
-Yes.
+Our [guidance on implementing protective
+measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
+explains who should and shouldn’t attend education and childcare
+settings and sets out the measures that should be followed for staff
+that are either clinically vulnerable or clinically extremely
+vulnerable, or who live with someone in either of these groups.
 
-The government has announced that all essential workers, and members of
-their households who are showing symptoms of coronavirus can now be
-tested. This list of essential workers includes education and childcare
-staff, support and teaching staff, social workers and specialist
-education professionals in addition to social care staff.
+Whilst other staff should be able to come into school, it is natural
+that some employees will be worried about doing so even if the risks for
+them are very low. In agreeing the best approaches for their schools,
+headteachers and school leaders should work closely with employees and
+unions, where appropriate. School leaders will be in the best position,
+knowing their staff and school circumstances, to decide how to proceed
+in individual cases. We are working in an unprecedented context, and
+more reassurance and discussion than usual may be required. It is always
+best, if at all possible, to work out a sensible way forward in
+individual cases that acknowledges any specific anxieties but which also
+enables the school’s responsibilities to be effectively discharged. If
+you need support in finding a solution, speak to your local authority or
+trust.
 
-Booking is done through a new online system. Employers can register and
-refer self-isolating staff, and employees are able to book a test
-directly for themselves or members of their household who are exhibiting
-symptoms.
-
-Employees can choose to visit one of the drive-through testing sites
-across the country, or to receive a home testing kit.
-
-To obtain a login to the employer referral portal, employers of
-essential workers should contact <portalservicedesk@dhsc.gov.uk>.
-
-When settings open to the wider cohort of children and young people, all
-those children and young people eligible to attend, and members of their
-households, will also have access to testing if they display symptoms of
-coronavirus. This will enable them to get back into childcare or
-education, and their parents or carers to get back to work, if the test
-proves to be negative. To access testing parents will be able to use the
-111 online coronavirus service if their child is 5 or over. Parents will
-be able to call 111 if their child is aged under 5.
-
-For further information, read the guidance on [getting
-tested](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested){.govuk-link}.
+On 2 June, Public Health England published a [review of the disparities
+in the risk and outcomes from
+coronavirus](https://www.gov.uk/government/publications/covid-19-review-of-disparities-in-risks-and-outcomes){.govuk-link},
+including disparities associated with age, ethnicity, gender and
+geography. This review will inform the Government’s approach. When
+considering their preparations for wider opening, schools should be
+especially sensitive to the needs and worries of individuals who may be
+more severely affected by coronavirus.
 
 [11. ]{.number} Staffing levels and deployment
 ----------------------------------------------
@@ -1223,16 +1355,24 @@ pupils each school is supporting and their individual needs. Schools
 should make an assessment of the capacity required and, when in doubt,
 discuss this with their local authority or trust when making decisions.
 
-From 1 June, as eligible pupils return to education settings, one of the
-protective measures schools can take to reduce transmission is to have
-smaller group and class sizes.
+For primary schools, classes should be split in half, with no more than
+15 pupils per small group. The [planning guide for
+primaries](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-primary-schools){.govuk-link}
+provides further information on creating and staffing these small
+groups.
 
-In mainstream schools and college settings the basic principle is that
-classes should be halved. Normally one teacher should be allocated to a
-group but if there are any teacher shortages then support staff may be
-used to lead groups, under the direction of a teacher. More detail is
-provided in our guidance on [Implementing protective measures in
-education and childcare
+From 15 June in mainstream secondary schools, the basic principle is
+that classes should be no more than half their usual size, with mixing
+between different groups of pupils kept to a minimum. We recognise that
+the range of subjects taught in secondary schools means that some mixing
+may be unavoidable to provide pupils with face-to-face support from
+subject teachers, but we expect that groups should be kept smaller than
+normal.
+
+Normally one teacher should be allocated to a group but if there are any
+teacher shortages then support staff may be used to lead groups, under
+the direction of a teacher. More detail is provided in our guidance on
+[Implementing protective measures in education and childcare
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-social-distancing-in-education-and-childcare-settings){.govuk-link}.
 
 Each setting’s circumstances will be slightly different. Any setting
@@ -1242,14 +1382,21 @@ the flexibility to focus first on continuing to provide places for
 priority groups and then, to support children’s early learning, settings
 should prioritise groups of children as follows:
 
--   Early years settings – 3 and 4 year olds followed by younger age
+-   early years settings - 3 and 4 year olds followed by younger age
     groups
 
--   Infant schools - nursery (where applicable) and Reception
+-   infant schools - nursery (where applicable) and Reception
 
--   Primary schools – nursery (where applicable), Reception and year 1
+-   primary schools - nursery (where applicable), Reception and year 1
 
-### [11.2 ]{.number} Should schools be using temporary workers?
+### [11.2 ]{.number} Are teachers still entitled to planning, preparation and assessment (PPA) time?
+
+Yes, teachers have a right, through their terms and conditions, to their
+PPA time. Headteachers and school leaders will want to take this into
+consideration when assessing staff availability and risk assessments in
+advance of wider opening.
+
+### [11.3 ]{.number} Should schools be using temporary workers?
 
 If schools think they may struggle to meet demand for places, they
 should liaise with their local authority or trust over their
@@ -1264,7 +1411,7 @@ solutions might include bringing additional teachers in to help, who may
 be supply teachers, teachers on temporary loan from other schools, or
 teachers provided by the trust or local authority.
 
-### [11.3 ]{.number} Will teachers and other school staff be asked to work in alternative settings?
+### [11.4 ]{.number} Will teachers and other school staff be asked to work in alternative settings?
 
 Staff may be asked by their employer to work in different locations to
 help maintain the required provision during this challenging period. In
@@ -1280,14 +1427,14 @@ to establish whether there is a need to move any pupils, teachers or
 other school staff to an alternative setting.
 
 Schools and local authorities should have regard to DfE’s guidance on
-[Protective
+[protective
 measures](https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people){.govuk-link}
 when making these arrangements.
 
 Teachers and other school staff should continue to be paid by their
 employer as normal, regardless of where they are working.
 
-### [11.4 ]{.number} Do teachers and other school staff require new DBS checks to work in an alternative setting?
+### [11.5 ]{.number} Do teachers and other school staff require new DBS checks to work in an alternative setting?
 
 Where members of the school workforce are already engaging in regulated
 activity, and already have the appropriate DBS check, there is no
@@ -1306,12 +1453,12 @@ set out in part 3 of KCSIE, in the above scenario this can be achieved,
 if the receiving setting chooses to, via seeking assurance from the
 current employer rather than requiring new checks.
 
-### [11.5 ]{.number} Will there be changes to the way DBS checks are carried out as a result of social distancing guidance?
+### [11.6 ]{.number} Will there be changes to the way DBS checks are carried out as a result of social distancing guidance?
 
 Yes. Please refer to the guidance on [changes to DBS ID checking
 guidelines](https://www.gov.uk/government/news/covid-19-changes-to-dbs-id-checking-guidelines){.govuk-link}.
 
-### [11.6 ]{.number} Will there be enough support staff to provide support for pupils with EHC plans?
+### [11.7 ]{.number} Will there be enough support staff to provide support for pupils with EHC plans?
 
 Local authorities and health commissioning bodies are responsible for
 securing provision for pupils with EHC plans. The Secretary of State for
@@ -1328,7 +1475,7 @@ deployment of support staff, in line with [guidance on vulnerable
 children and young
 people](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}.
 
-### [11.7 ]{.number} What are the expectations on school staff working from home?
+### [11.8 ]{.number} What are the expectations on school staff working from home?
 
 We would expect school staff to continue to support the education of
 pupils, and wider work of the school, in appropriate ways agreed with
@@ -1336,13 +1483,13 @@ their school leadership team, but school leaders should be mindful of
 staff wellbeing and practical circumstances when designing these
 arrangements.
 
-### [11.8 ]{.number} Can schools use volunteers to support the care and supervision of children?
+### [11.9 ]{.number} Can schools use volunteers to support the care and supervision of children?
 
 DBS-checked volunteers may be used to support the work of the school, as
 would usually be the case. It is important that they are properly
 supported and given appropriate roles.
 
-### [11.9 ]{.number} What advice is available for teachers from overseas?
+### [11.10 ]{.number} What advice is available for teachers from overseas?
 
 Staff from overseas who have immigration concerns should follow
 [government guidance about visas and
@@ -1464,8 +1611,8 @@ proceed with such matters during this period. This should be considered
 on a case by case basis and in discussion with the members of staff
 involved. Where a case does continue, employers should consider how best
 to conduct the process remotely using available technology. Governing
-bodies of maintained schools should also refer to reg. 7 of the [School
-Staffing (England) Regulations
+bodies of maintained schools should also refer to regulation 7 of the
+[School Staffing (England) Regulations
 2009](http://www.legislation.gov.uk/uksi/2009/2680/contents/made){.govuk-link}.
 
 [14. ]{.number} Pay
@@ -1491,12 +1638,14 @@ Pay and Conditions Document
 (STPCD)](https://www.gov.uk/government/publications/school-teachers-pay-and-conditions){.govuk-link},
 which includes the requirement to ensure that all pay progression for
 teachers is linked to performance management. However, we would expect
-schools to use their discretion and take pragmatic steps, consistent
-with the Education (School Teachers’ Appraisal) (England) Regulations
-2012 to adapt performance management and appraisal arrangements to take
-account of the current circumstances, for example, by basing performance
-on the period schools were open, adjusting, if necessary, for expected
-trajectory had there been no closures.
+schools to use their discretion and take pragmatic steps, to adapt
+performance management and appraisal arrangements to take account of the
+current circumstances.
+
+Schools must ensure that teachers are not penalised during the appraisal
+process or in respect of any subsequent pay progression decisions as a
+result of partial school closures, where this has impacted on the
+ability of the teacher to meet fully their objectives.
 
 ### [14.4 ]{.number} Should appraisals and performance management processes for support staff continue during this period?
 
@@ -1693,7 +1842,7 @@ Scheme](https://www.gov.uk/guidance/claim-for-wage-costs-through-the-coronavirus
 
 We understand that these are extraordinary times. The most important
 thing is that children of critical workers, and vulnerable children, are
-supervised and properly cared for in education settings. Schools have
+supervised and properly cared for in educational settings. Schools have
 flexibility to provide support, activities and education in the way they
 see fit at this time.
 
@@ -1703,7 +1852,7 @@ Years Foundation Stage. No school will be penalised if they are unable
 to provide learning and development activities across all 7 areas of
 learning for children in their early years provision.
 
-### [16.2 ]{.number} What are the expectations for children returning to school on 1 June?
+### [16.2 ]{.number} What are the expectations for children returning to primary school from 1 June?
 
 Where year groups are returning to school, we would expect leaders and
 teachers to:
@@ -1730,7 +1879,7 @@ EHC plans) do not automatically meet the definition of ‘vulnerable
 children’. Local authorities and schools/colleges have the flexibility
 to consider whether other children have vulnerabilities that mean they
 are safer at school/college than at home. However, we recommend that
-these decisions are taken based on risk assessment involving education
+these decisions are taken based on risk assessment involving educational
 settings, local authorities and parents. Further information can be
 found in the guidance on [supporting vulnerable children and young
 people during the coronavirus
@@ -1738,10 +1887,10 @@ outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-guidan
 
 Pupils on SEN support who remain at home will continue to have ongoing
 learning needs. Ensuring there are good communication channels between
-education settings and parents during this period is essential, as well
-as aiming to ensure that schools and colleges provide access to
-appropriate teaching materials wherever possible. Special Educational
-Needs Co-ordinators (SENCOs) in particular may be able to act as a
+educational settings and parents during this period is essential, as
+well as aiming to ensure that schools and colleges provide access to
+appropriate teaching materials wherever possible. Special educational
+needs co-ordinators (SENCOs) in particular may be able to act as a
 contact point for families of children on SEN support. SENCOs will
 typically lead on ensuring that children and young people with SEN have
 access to materials they can use to learn and consolidate their learning
@@ -1798,7 +1947,7 @@ DfE is sharing [remote learning case
 studies](https://www.gov.uk/guidance/remote-education-practice-for-schools-during-coronavirus-covid-19){.govuk-link}
 and advice from across the sector.
 
-2 DfE grant-funded organisations, Jisc and the Education and Training
+Two DfE grant-funded organisations, Jisc and the Education and Training
 Foundation (ETF), are well-placed to advise and support colleges and
 staff regarding remote education. Support available includes free
 content, blogs, and community support. The ETF’s Enhance Digital
@@ -1807,6 +1956,23 @@ technology to support the continuity of teaching and learning. ETF is
 also running [webinars for FE
 providers](https://www.et-foundation.co.uk/news/new-series-of-free-webinars-to-support-online-learning/){.govuk-link}
 on how to make the most of online learning.
+
+### [16.5 ]{.number} How should schools respond to requests for children and young people to repeat a year?
+
+Once a child has been admitted to a school it is for the head teacher to
+decide how best to educate them. This may, on occasion, include deciding
+that a child should be educated in a year group other than the one
+indicated by their age. Such decisions should be based on sound
+educational reasons and in consultation with parents.
+
+We do not currently anticipate that children and young people will need
+to repeat a school year as a consequence of the coronavirus outbreak. We
+continue to look at all options to make sure children and young people
+get the support they need to continue their education during the
+coronavirus outbreak and make up for time spent out of school.
+
+However, it remains possible for headteachers to agree this in
+individual cases, if they think it is appropriate.
 
 [17. ]{.number} Practicalities
 ------------------------------
@@ -1834,7 +2000,22 @@ reducing burdens on educational and care
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-reducing-burdens-on-educational-and-care-settings){.govuk-link}.
 If you have any questions, email <managing.burdens@education.gov.uk>.
 
-### [17.2 ]{.number} Are schools still required to have a designated first aider on site?
+### [17.2 ]{.number} Is there still a requirement for schools to produce annual reports for parents?
+
+It is important for parents to receive reports about their children’s
+education. Schools will understandably have less information than usual
+on which to base this year’s reports and the availability of staff to
+produce the reports may also be impacted. Schools should take a
+proportionate decision on the level of detail that can reasonably be
+included.
+
+[Guidance on preparing annual reports for
+parents](https://www.gov.uk/guidance/school-reports-on-pupil-performance-guide-for-headteachers){.govuk-link}
+has been updated to support teachers following partial school closures
+and the cancellation of this year’s summer exam series and primary
+assessments.
+
+### [17.3 ]{.number} Are schools still required to have a designated first aider on site?
 
 Under the Health and Safety (First Aid) Regulations 1981, employers are
 responsible for providing adequate and appropriate equipment, facilities
@@ -1859,7 +2040,7 @@ years settings please read the department’s guidance on [actions for
 early years and childcare providers during the coronavirus
 outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-early-years-and-childcare-closures/coronavirus-covid-19-early-years-and-childcare-closures){.govuk-link}.
 
-### [17.3 ]{.number} Are schools still required to follow standard procedures for health and safety and general estate management?
+### [17.4 ]{.number} Are schools still required to follow standard procedures for health and safety and general estate management?
 
 Employers still have a statutory duty and responsibility to ensure the
 health safety and welfare of their workforce. This includes ensuring
@@ -1887,7 +2068,7 @@ to those bodies responsible for the maintenance of school buildings.
 Schools should consult with these bodies where they have further
 questions.
 
-### [17.4 ]{.number} Are statutory inspections of equipment still required?
+### [17.5 ]{.number} Are statutory inspections of equipment still required?
 
 The Health and Safety Executive (HSE) have confirmed that there is still
 a requirement for statutory inspection of plant and equipment. Read
@@ -1899,7 +2080,7 @@ giving additional operational health and safety information. Read
 guidance on [Managing schools premises which are partially
 open](https://www.gov.uk/government/publications/managing-school-premises-during-the-coronavirus-outbreak/managing-school-premises-which-are-partially-open-during-the-coronavirus-outbreak#further-information){.govuk-link}.
 
-### [17.5 ]{.number} How should schools manage educational visits?
+### [17.6 ]{.number} How should schools manage educational visits?
 
 The government advises against any overseas or domestic visits for
 children under 18 organised by educational settings and the Foreign and
@@ -1912,6 +2093,17 @@ continue to review this position based on FCO and PHE advice.
 
 For more information, read [coronavirus travel advice for educational
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-travel-advice-for-educational-setting){.govuk-link}.
+
+### [17.7 ]{.number} Should schools allow external visitors?
+
+Schools should limit the external visitors to the school during school
+hours.
+
+Parents should come into school buildings only when strictly necessary,
+by appointment, and ideally only one at a time (unless for example, an
+interpreter or other support is required). Any such meetings should take
+place at a safe distance, and so the use of small offices may not be
+suitable, for example.
 
 [18. ]{.number} Admissions
 --------------------------
@@ -1980,7 +2172,7 @@ Head teachers retain the power to exclude pupils on disciplinary
 grounds. Any decision to exclude should be lawful (with respect to the
 legislation relating directly to exclusions and a school’s wider legal
 duties, including the European Convention on Human Rights and the
-Equality Act 2010); rational; reasonable; fair; and proportionate.
+Equality Act 2010), rational, reasonable, fair and proportionate.
 Permanent exclusion should only be used as a last resort, in response to
 a serious breach, or persistent breaches of the school’s behaviour
 policy, and where allowing the pupil to remain in school would seriously
@@ -2000,22 +2192,20 @@ vulnerable children and young people.
 
 ### [19.4 ]{.number} What is the effect of coronavirus on governing boards’ duties to consider reinstatement of excluded pupils, and the process for independent review panels (IRPs)?
 
-The timeframes set out in the School Discipline (Pupil Exclusions and
-Reviews) (England) Regulations 2012 remain in force. This applies to all
-exclusions, including those that were issued before 23 March.
+The government appreciates that it may not have been possible to meet
+the timeframes set out in the School Discipline (Pupil Exclusions and
+Reviews) (England) Regulations 2012 for governing board meetings and
+IRPs over recent months, due to the disruption caused by the coronavirus
+outbreak.
 
-The government appreciates that it may not be possible to meet the
-timeframes set out in regulations for review meetings and IRPs, due to
-the disruption caused by the coronavirus outbreak and the health risks
-of holding meetings. The Regulations themselves envisage that the
-timeframes may not always be met, which is why they specify that
-meetings and panel hearings must still go ahead even if the relevant
-deadline has been missed. It is for the governing board or arranging
-authority to assess the facts of the case and decide whether the
-statutory deadlines are achievable or whether, in the circumstances, the
-meeting has to be delayed. Governing boards and arranging authorities
-should continue to take reasonable steps to ensure meetings are arranged
-for a time when all parties are able to attend.
+We have amended the arrangements for governing board and IRP meetings in
+relation to exclusions occurring from 1 June 2020, and for some
+exclusions that occurred before that date, to make provision for such
+meetings to be held virtually provided certain conditions are met, and
+to extend time limits in some circumstances. [Guidance to support
+governing boards and IRPs on these
+changes](https://www.gov.uk/government/publications/school-exclusion/changes-to-the-school-exclusion-process-during-the-coronavirus-outbreak){.govuk-link}
+is available.
 
 [20. ]{.number} School meals
 ----------------------------
@@ -2059,7 +2249,7 @@ undertaken in the academic year 2019 to 2020.
 The progress check at age 2 will not need to be undertaken during the
 coronavirus outbreak.
 
-### [21.3 ]{.number} Have plans changed for the EYFS and reception year?
+### [21.3 ]{.number} What will happen to the proposed changes to the statutory framework for the EYFS and reception year?
 
 We are planning to proceed with the reforms to the early years
 foundation stage, and are considering when to publish the government
@@ -2128,7 +2318,7 @@ as routine inspections have been suspended.
 
 No. We supported several schools to become academies both on 1 April and
 1 May. For future months, we will support schools to become academies
-where this will provide more benefits than downsides – such as certainty
+where this will provide more benefits than downsides - such as certainty
 and clarity to all school staff about their employment status.
 
 We will also continue to make decisions about changes to academy trusts
@@ -2180,12 +2370,13 @@ PRUs, and to keep them open where it is feasible to do so.
 
 From 1 June AP settings should follow the same principles and guidance
 as mainstream schools and welcome back all children in Reception, year 1
-and year 6. AP settings do not have a year 12, so they should also offer
-some face-to-face contact for students in year 10 and year 11 to
-supplement their remote education, as they are approaching key
-transition points. In line with the advice for mainstream provision,
-settings should keep students in small groups as set out in our guidance
-on [Implementing protective measures in education and childcare
+and year 6. From 15 June, AP settings should also offer some
+face-to-face contact for students in year 10 and year 11 (as they do not
+have a year 12) to supplement their remote education, as they are
+approaching key transition points. In line with the advice for
+mainstream provision, settings should keep students in small groups as
+set out in our guidance on [Implementing protective measures in
+education and childcare
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-social-distancing-in-education-and-childcare-settings){.govuk-link}.
 
 ### [24.2 ]{.number} Will this apply to special schools?
@@ -2220,33 +2411,194 @@ on managing the setting, in the case of self-isolation or infection.
 
 Special schools, special post-16 institutions and hospital schools
 should work towards welcoming back as many children and young people as
-can be safely catered for in their setting from 1 June. They may want to
-prioritise attendance based on key transitions and the impact on life
-chances and development, and to consider creating part-time attendance
-rotas so that as many children as possible can benefit from attending
-their setting. Special settings should work with local authorities and
-families to ensure that decisions about attendance are informed by
-existing risk assessments for their children and young people, which
-should be kept up to date.
+can be safely catered for in their setting from 1 June or 15 June,
+depending on whether they cater for primary or secondary pupils. They
+may want to prioritise attendance based on key transitions and the
+impact on life chances and development, and to consider creating
+part-time attendance rotas so that as many children as possible can
+benefit from attending their setting. Special settings should work with
+local authorities and families to ensure that decisions about attendance
+are informed by existing risk assessments for their children and young
+people, which should be kept up to date.
 
 ### [24.3 ]{.number} Will this apply to academies, free schools and independent schools?
 
-Yes, between 23 March and 1 June , we expect all schools to be open to
-priority groups. To ensure this is done as efficiently as possible, we
-expect all schools to work with local authorities and regional school
-commissioners as necessary.
+Yes. From 1 June and 15 June, for primary and secondary settings
+respectively, we expect independent schools, as well as all mainstream
+schools (including academies and free schools) to welcome back those
+children and young people in eligible year groups.
 
-From 1 June we expect independent schools, as well as all mainstream
-schools and colleges to welcome back those children and young people in
-eligible year groups.
+To ensure this is done as efficiently as possible, we expect all schools
+to work with local authorities and regional school commissioners as
+necessary.
 
-### [24.4 ]{.number} How should boarding and residential schools manage this new operating model?
+### [24.4 ]{.number} Will this apply to out of school settings?
 
-Most boarding schools will need to keep their residential provision
-open, and decisions will have to happen on a case by case basis.
+While we have set out that schools should be preparing to welcome back
+some of their pupils on a phased basis from the week commencing 1 June,
+this is not the case for out of school settings.
 
-Read further information on [Isolation for residential educational
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}.
+Out of school settings covers ‘any institution that provides tuition,
+training, instruction or activities for children in England, without
+their parents’ or carers’ supervision, that is not a school, college, 16
+to 19 academy or provider caring for children under 8 years old, which
+is registered with Ofsted or a childminder agency’, and would include
+for example settings such as supplementary schools, community
+activities, after school clubs and tuition, as well as holiday clubs.
+
+It should also be noted that where providers, with the exception of
+childminders who may continue to look after children in their care, are
+caring for children over 5 and are registered with Ofsted (either on the
+compulsory or voluntary part of the General Childcare register), they
+should also not be preparing to welcome back pupils where they are
+either operating outside of school premises, or caring for children from
+more than one school.
+
+### [24.5 ]{.number} What does this mean for school-based wraparound provision?
+
+School-based wraparound providers, such as breakfast and after school
+clubs, can operate for children in eligible year groups (those in
+Reception, year 1 and year 6) or those within priority groups (such as
+children of critical workers and vulnerable children) if they are:
+
+-   operating on the same premises as the school those children are
+    attending, and
+-   only caring for children of that school and no others
+
+Those who do open should ensure they are following the same protective
+measures being taken by schools during the day and work with schools to
+follow their arrangements, such as keeping children in the same small
+consistent groups that they are in during the school day.
+
+If wraparound providers are unable to implement the same protective
+measures as the school, they should remain closed for the time being.
+
+### [24.6 ]{.number} How should boarding schools deliver education to those attending?
+
+Boarding schools should follow the guidance on [implementing protective
+measures in education and childcare
+settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
+on how to reduce class sizes and keep children in small consistent
+groups and avoid mixing with other groups.
+
+Schools and colleges continue to be best placed to make decisions about
+how to support and educate all their pupils during this period, based on
+the local context and staff capacity.
+
+### [24.7 ]{.number} How should boarding schools manage their boarding houses when more pupils return?
+
+The government’s [guidance on isolation for residential
+schools](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}
+applies to mainstream boarding schools. This guidance recognises that
+what constitutes a household may be complex. Sharing kitchens, bathrooms
+and sleeping spaces are important considerations. The guidance states
+that it is important to decide whether the whole setting should be
+treated as a single household or as multiple households. For example,
+where residential provision is spread across several, separate
+buildings, the school may wish to treat these as different households.
+
+The guidance provides advice on how to manage isolation in the case of
+symptomatic student or staff member. In addition it provides some
+general advice on maintaining staff ratios at a safe level to protect
+children and young people, considering the maximum number of children or
+young people that can safely be accommodated in each setting, and
+managing visitors. These households, in contrast with other households,
+will almost always need to have staff and other professionals arriving
+and leaving.
+
+Boarding schools should also take into account the [guidance on
+implementing protective
+measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
+when considering how to group pupils and, where possible, ensure that
+children from the same boarding house remain in the same group for
+classes during the day.
+
+### [24.8 ]{.number} Do boarding schools need PPE?
+
+Boarding schools should refer to [guidance on safe working in education,
+childcare and children’s social care settings, including the use of
+personal protective equipment
+(PPE)](https://www.gov.uk/government/publications/safe-working-in-education-childcare-and-childrens-social-care/safe-working-in-education-childcare-and-childrens-social-care-settings-including-the-use-of-personal-protective-equipment-ppe#how-to-work-safely-in-specific-situations-including-where-ppe-may-be-required){.govuk-link}.
+
+The majority of staff in education, childcare and children’s social care
+settings will not require PPE beyond what they would normally need for
+their work, even if they are not always able to maintain distance of 2
+metres from others.
+
+PPE is only needed in a very small number of cases:
+
+-   children, young people and students whose care routinely already
+    involves the use of PPE due to their intimate care needs should
+    continue to receive their care in the same way
+-   PPE should be worn if a distance of 2 metres cannot be maintained
+    from any pupil displaying coronavirus symptoms
+
+Where PPE is recommended, this means that:
+
+-   a facemask should be worn if a distance of 2 metres cannot be
+    maintained from someone with symptoms of coronavirus
+-   if contact is necessary, then gloves, an apron and a facemask should
+    be worn.
+-   if a risk assessment determines that there is a risk of fluids
+    entering the eye from, for example, coughing, spitting or vomiting,
+    then eye protection should also be worn
+
+When PPE is used, it is essential that it is used properly. This
+includes scrupulous hand hygiene and following [guidance on how to put
+it on and take it off
+safely](https://www.gov.uk/government/publications/covid-19-personal-protective-equipment-use-for-non-aerosol-generating-procedures){.govuk-link}
+in order to reduce self-contamination.
+
+### [24.9 ]{.number} What if a case of coronavirus occurs in a boarding school?
+
+When a child, young person or staff member develops symptoms compatible
+with coronavirus, they should self-isolate for 7 days. Their fellow
+household members should self-isolate for 14 days. Boarding schools
+should follow the [guidance on isolation in residential
+settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}
+and decide whether the whole setting should be treated as a single
+household or as multiple households.
+
+All staff and students who are attending an education or childcare
+setting will have access to a test if they display symptoms of
+coronavirus, and are encouraged to get tested in this scenario.
+
+Where the child, young person or staff member tests negative, they can
+return to their setting and the fellow household members can end their
+self-isolation.
+
+Where the child, young person or staff member tests positive, they
+should continue to self-isolate for 7 days and their household should
+self-isolate for 14 days.
+
+As part of the national Test and Trace programme, if other cases are
+detected within the household or in the wider setting, Public Health
+England’s local health protection teams will conduct a rapid
+investigation and will advise boarding schools on the most appropriate
+action to take. In some cases, a larger number of other children, young
+people may be asked to self-isolate as a precautionary measure - perhaps
+the whole class, site or year group. Where settings are observing
+guidance on infection prevention and control, which will reduce risk of
+transmission, closure of the whole setting will not generally be
+necessary.
+
+### [24.10 ]{.number} When can international students return from abroad?
+
+Once international travel resumes, international boarders should follow
+the rules on self-isolation for international travellers that are in
+force at the time they arrive. The Government will continue to monitor
+worldwide border, travel and public health restrictions. Further
+guidance on this will be set out in due course.
+
+### [24.11 ]{.number} Can pupils attending boarding schools play sport?
+
+Children who have had limited opportunities for exercise should be
+encouraged to exert themselves physically, making use of supervised
+non-touch running games within their small group.
+
+Physical education lessons and sports may continue to take place
+providing they are strictly non-contact and do not involve more than any
+one small group.
 
 </div>
 

@@ -2,14 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Coronavirus (COVID-19): implementing protective measures in
-    education and childcare
-    settings](/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -44,7 +42,7 @@ Coronavirus (COVID-19): implementing protective measures in education and childc
 
 </div>
 
-Updated 12 May 2020
+Updated 1 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -76,8 +74,8 @@ Contents {#contents .gem-c-contents-list__title}
     sizes](#class-or-group-sizes){.gem-c-contents-list__link
     .govuk-link}
 8.  [How to implement protective measures in an education setting before
-    wider opening on 1
-    June](#how-to-implement-protective-measures-in-an-education-setting-before-wider-opening-on-1-june){.gem-c-contents-list__link
+    wider opening from 1
+    June](#how-to-implement-protective-measures-in-an-education-setting-before-wider-opening-from-1-june){.gem-c-contents-list__link
     .govuk-link}
 9.  [When open](#when-open){.gem-c-contents-list__link .govuk-link}
 10. [Additional
@@ -90,7 +88,7 @@ Contents {#contents .gem-c-contents-list__title}
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
@@ -121,9 +119,10 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-We will update this guidance before 1 June 2020 to reflect the
-[announcements made on 24 May
-2020](https://www.gov.uk/government/news/pm-confirms-schools-colleges-and-nurseries-on-track-to-begin-phased-reopening){.govuk-link}.
+Updates: This guidance has been updated to reflect the announcement by
+the Prime Minister that the government’s 5 tests have been met and the
+decision, based on all the evidence, to move forward with wider opening
+of education and childcare settings
 
 </div>
 
@@ -131,16 +130,14 @@ Background
 ----------
 
 As a result of the huge efforts everyone has made to adhere to strict
-social distancing measures, the transmission rate of coronavirus
-(COVID-19) has decreased. We therefore anticipate, with further
-progress, that we may be able, from the week commencing 1 June, to
-welcome back more children to early years, school and further education
-settings. We will only do this provided that the 5 key tests set by
-government justify the changes at the time, including that the rate of
-infection is decreasing and the enabling programmes set out in the
-roadmap are operating effectively. As a result we are asking schools,
-colleges and childcare providers to plan on this basis, ahead of
-confirmation that these tests are met.
+social distancing measures, the government’s 5 tests have been met,
+meaning we can move forward with modifying measures which have been in
+place. Based on all the evidence, from the week commencing 1 June, we
+can welcome back more children to early years and primary school
+settings, and from 15 June to secondary school and further education
+settings. Schools, colleges and childcare providers have been planning
+on this basis, and confirmation that this could go ahead was provided by
+the Prime Minister on 28 May.
 
 Education and childcare settings are already open to priority groups
 ([vulnerable
@@ -158,21 +155,22 @@ vulnerable children of all year groups continue to be expected and
 encouraged to attend educational provision where it is appropriate for
 them to do so.
 
-From the week commencing 1 June at the earliest, we will be asking
-primary schools to welcome back children in nursery, reception, year 1
-and year 6, alongside priority groups. We will ask secondary schools,
+From the week commencing 1 June, we are asking primary schools to
+welcome back children in nursery, reception, year 1 and year 6,
+alongside priority groups. From 15 June we are asking secondary schools,
 sixth form and further education colleges to offer some face-to-face
-support to supplement the remote education of year 10 and year 12
-students who are due to take key exams next year, alongside the full
-time provision they are offering to priority groups.
+support to supplement the remote education of year 10, year 12, and 16
+to 19 students who are due to take key exams next year, alongside the
+full time provision they are offering to priority groups.
 
 We are also asking nurseries and other early years providers, including
 childminders, to begin welcoming back all children. Alternative
 provision settings should mirror the approach being taken for mainstream
 schools and also offer some face-to-face support for years 10 and 11
-students (as they have no year 12). Special schools, special post-16
-institutions and hospital schools will work towards a phased return of
-more children and young people without a focus on specific year groups.
+students (as they have no year 12) from 15 June. Special schools,
+special post-16 institutions and hospital schools will work towards a
+phased return of more children and young people without a focus on
+specific year groups.
 
 We want to get all children and young people back into education as soon
 as the scientific advice allows because it is the best place for them to
@@ -187,18 +185,17 @@ latest scientific advice. By returning pupils gradually, settings can
 initially reduce the number of children and young people in classrooms
 compared to usual and put protective measures in place to reduce risks.
 
-In childcare settings, providers will be asked to welcome back all
-children below statutory school age from the week commencing 1 June.
-Demand for childcare is likely to be lower than usual at first, and
-existing space requirements and staff to child ratios for these age
-groups should allow for small group working. Where the physical layout
-of a setting does not allow small groups of children to be kept at a
-safe distance apart, we expect practitioners to exercise judgement in
-ensuring the highest standards of safety are maintained. In some cases,
-it may be necessary for providers to introduce a temporary cap on
-numbers to ensure that safety is prioritised. From 1 June, childminders
-can look after children of all ages, in line with usual limits on the
-number of children they can care for.
+In childcare settings, providers can welcome back all children from the
+week commencing 1 June. Demand for childcare is likely to be lower than
+usual at first, and existing space requirements and staff to child
+ratios for these age groups should allow for small group working. Where
+the physical layout of a setting does not allow small groups of children
+to be kept at a safe distance apart, we expect practitioners to exercise
+judgement in ensuring the highest standards of safety are maintained. In
+some cases, it may be necessary for providers to introduce a temporary
+cap on numbers to ensure that safety is prioritised. From 1 June,
+childminders can look after children of all ages, in line with usual
+limits on the number of children they can care for.
 
 Our ambition is to bring all primary year groups back to school before
 the summer holidays, for a month if feasible, though this will be kept
@@ -214,35 +211,36 @@ virus spreading within education and childcare settings. At the point
 that we think it is appropriate for more children and young people to
 return to schools and colleges, we will revise this guidance.
 
-We will be publishing more detailed guidance on the operation of early
-years settings shortly.
+We have published more detailed guidance on [preparing for the wider
+opening of early years and childcare
+settings](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-early-years-and-childcare-settings-from-1-june){.govuk-link}.
 
-Settings operating between now and 1 June should read this guidance in
-conjunction with [Actions for schools during the coronavirus
+Settings should read this guidance in conjunction with [Actions for
+schools during the coronavirus (COVID-19)
 outbreak](https://www.gov.uk/government/publications/covid-19-school-closures){.govuk-link}.
 
-This advice will be updated as required.
+This guidance will be updated as required.
 
 Effective infection protection and control
 ------------------------------------------
 
 There are important actions that children and young people, their
 parents and those who work with them can take during the coronavirus
-outbreak, to help prevent the spread of the virus.
+(COVID-19) outbreak, to help prevent the spread of the virus.
 
 In all education, childcare and social care settings, preventing the
-spread of coronavirus involves dealing with direct transmission (for
-instance, when in close contact with those sneezing and coughing) and
-indirect transmission (via touching contaminated surfaces). A range of
-approaches and actions should be employed to do this. These can be seen
-as a hierarchy of controls that, when implemented, creates an inherently
-safer system, where the risk of transmission of infection is
-substantially reduced. These include:
+spread of coronavirus (COVID-19) involves dealing with direct
+transmission (for instance, when in close contact with those sneezing
+and coughing) and indirect transmission (via touching contaminated
+surfaces). A range of approaches and actions should be employed to do
+this. These can be seen as a hierarchy of controls that, when
+implemented, creates an inherently safer system, where the risk of
+transmission of infection is substantially reduced. These include:
 
 -   minimising contact with individuals who are unwell by ensuring that
-    those who have coronavirus symptoms, or who have someone in their
-    household who does, do not attend childcare settings, schools or
-    colleges
+    those who have coronavirus (COVID-19) symptoms, or who have someone
+    in their household who does, do not attend childcare settings,
+    schools or colleges
 -   cleaning hands more often than usual - wash hands thoroughly for 20
     seconds with running water and soap and dry them thoroughly or use
     alcohol hand rub or sanitiser ensuring that all parts of the hands
@@ -267,7 +265,7 @@ some shops. This does not apply to schools or other education settings.
 Schools and other education or childcare settings should therefore not
 require staff, children and learners to wear face coverings. Changing
 habits, cleaning and hygiene are effective measures in controlling the
-spread of the virus. Face coverings (or any form of medical mask where
+spread of the virus. Face coverings (or any form of medical mask unless
 instructed to be used for specific clinical reasons) should not be worn
 in any circumstance by those who may not be able to handle them as
 directed (for example, young children, or those with special educational
@@ -283,20 +281,33 @@ needed in a very small number of cases including:
     involves the use of PPE due to their intimate care needs should
     continue to receive their care in the same way
 -   if a child, young person or other learner becomes unwell with
-    symptoms of coronavirus while in their setting and needs direct
-    personal care until they can return home. A fluid-resistant surgical
-    face mask should be worn by the supervising adult if a distance of 2
-    metres cannot be maintained. If contact with the child or young
-    person is necessary, then disposable gloves, a disposable apron and
-    a fluid-resistant surgical face mask should be worn by the
+    symptoms of coronavirus (COVID-19) while in their setting and needs
+    direct personal care until they can return home. A fluid-resistant
+    surgical face mask should be worn by the supervising adult if a
+    distance of 2 metres cannot be maintained. If contact with the child
+    or young person is necessary, then disposable gloves, a disposable
+    apron and a fluid-resistant surgical face mask should be worn by the
     supervising adult. If a risk assessment determines that there is a
     risk of splashing to the eyes, for example from coughing, spitting,
     or vomiting, then eye protection should also be worn
 
-Education, childcare and children’s social care settings and providers
-should use their local supply chains to obtain PPE. Where this is not
-possible, and there is unmet urgent need for PPE in order to operate
-safely, they may approach their nearest local resilience forum.
+Education and childcare settings and providers should use their local
+supply chains to obtain PPE.
+
+If education or childcare settings cannot obtain the PPE they need they
+should approach their local authority (LA). Local authorities should
+support them to access local PPE markets and available stock locally,
+including through coordinating the redistribution of available supplies
+between settings according to priority needs.
+
+If the local authority is not able to meet the PPE needs of education
+and childcare providers, the LA should approach their nearest local
+resilience forum (LRF) which will allocate stock if it is available once
+the needs of other vital services locally have been met. If neither the
+LA or LRF is able to respond to an education or childcare setting’s
+unmet urgent need for PPE, the setting will need to make their own
+judgement in line with their risk assessment as to whether it is safe to
+continue to operate.
 
 Read the guidance on [safe working in education, childcare and
 children’s social
@@ -307,18 +318,18 @@ including the use of PPE.
 Shielded and clinically vulnerable children and young people
 ------------------------------------------------------------
 
-For the vast majority of children and young people, coronavirus is a
-mild illness. Children and young people (0 to 18 years of age) who have
-been [classed as clinically extremely vulnerable due to pre-existing
-medical
+For the vast majority of children and young people, coronavirus
+(COVID-19) is a mild illness. Children and young people (0 to 18 years
+of age) who have been [classed as clinically extremely vulnerable due to
+pre-existing medical
 conditions](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/covid-19-guidance-on-protecting-people-most-likely-to-get-unwell-from-coronavirus-shielding-young-peoples-version){.govuk-link}
 have been advised to shield. We do not expect these children to be
 attending school or college, and they should continue to be supported at
 home as much as possible. Clinically vulnerable (but not clinically
 extremely vulnerable) people are those considered to be at a higher risk
-of severe illness from coronavirus. A small minority of children will
-fall into this category, and parents should follow medical advice if
-their child is in this category.
+of severe illness from coronavirus (COVID-19). A small minority of
+children will fall into this category, and parents should follow medical
+advice if their child is in this category.
 
 Shielded and clinically vulnerable adults
 -----------------------------------------
@@ -327,18 +338,18 @@ Clinically extremely vulnerable individuals are advised not to work
 outside the home. We are strongly advising people, including education
 staff, who are clinically extremely vulnerable (those with serious
 underlying health conditions which put them at very high risk of severe
-illness from coronavirus and have been advised by their clinician or
-through a letter) to rigorously follow shielding measures in order to
-keep themselves safe. Staff in this position are advised not to attend
-work. Read [COVID-19: guidance on shielding and protecting people
-defined on medical grounds as extremely
+illness from coronavirus (COVID-19) and have been advised by their
+clinician or through a letter) to rigorously follow shielding measures
+in order to keep themselves safe. Staff in this position are advised not
+to attend work. Read [COVID-19: guidance on shielding and protecting
+people defined on medical grounds as extremely
 vulnerable](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link}
 for more advice.
 
 Clinically vulnerable individuals who are at higher risk of severe
 illness (for example, people with some pre-existing conditions as set
 out in the [Staying at home and away from others (social distancing)
-guidance](https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing#clinically-vulnerable-people){.govuk-link}
+guidance](https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing#clinically-vulnerable-people){.govuk-link})
 have been advised to take extra care in observing social distancing and
 should work from home where possible. Education and childcare settings
 should endeavour to support this, for example by asking staff to support
@@ -388,6 +399,18 @@ through the hierarchy of measures set out above:
 -   regular cleaning of settings
 -   minimising contact and mixing
 
+As well as the measures above, secondary schools and colleges should:
+
+-   ensure that only a quarter of pupils in year 10 and year 12 are in
+    school at any one time
+-   aim to practise social distancing in line with the measures the
+    government is asking everyone to adopt in public and in workplaces,
+    including keeping pupils 2 metres apart from each other where
+    possible
+-   plan that classes are no more than half their usual size, to allow
+    sufficient distancing between pupils (this may vary due to
+    individual school circumstances)
+
 It is still important to reduce contact between people as much as
 possible, and we can achieve that and reduce transmission risk by
 ensuring children, young people and staff where possible, only mix in a
@@ -420,8 +443,12 @@ workers in other year groups should also be split into small groups of
 no more than 15. Desks should be spaced as far apart as possible.
 
 For secondary schools and colleges, the same principle of halving
-classes will normally apply. It is also sensible to rearrange classrooms
-and workshops with sitting positions 2 metres apart. Where very small
+classes will normally apply. We recognise that the range of subjects and
+courses taught in secondary schools and colleges means that some mixing
+may be unavoidable to provide pupils with face-to-face support from
+subject/specialist teachers. We would expect that these groups are still
+smaller than normal. It is also sensible to rearrange classrooms and
+workshops with sitting positions 2 metres apart. Where very small
 classes might result from halving, it would be acceptable to have more
 than half in a class, provided the space has been rearranged. Again,
 support staff may be drawn on in the event there are teacher shortages,
@@ -445,8 +472,8 @@ learning, settings should prioritise groups of children as follows:
 We will revisit this advice when the science indicates it is safe to
 invite more children back to schools and colleges.
 
-How to implement protective measures in an education setting before wider opening on 1 June
--------------------------------------------------------------------------------------------
+How to implement protective measures in an education setting before wider opening from 1 June
+---------------------------------------------------------------------------------------------
 
 ### Planning and organising
 
@@ -503,8 +530,9 @@ Consider the following steps:
 
 -   tell children, young people, parents, carers or any visitors, such
     as suppliers, not to enter the education or childcare setting if
-    they are displaying any symptoms of coronavirus (following the
-    [COVID-19: guidance for households with possible coronavirus
+    they are displaying any symptoms of coronavirus (COVID-19)
+    (following the [COVID-19: guidance for households with possible
+    coronavirus (COVID-19)
     infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link})
 -   tell parents that if their child needs to be accompanied to the
     education or childcare setting, only one parent should attend
@@ -564,7 +592,7 @@ For cleaning and hygiene:
 -   ensure that all adults and children:
     -   frequently wash their hands with soap and water for 20 seconds
         and dry thoroughly. Review the [guidance on hand
-        cleaning](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public){.govuk-link}
+        cleaning](https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands/){.govuk-link}
     -   clean their hands on arrival at the setting, before and after
         eating, and after sneezing or coughing
     -   are encouraged not to touch their mouth, eyes and nose
@@ -577,8 +605,9 @@ For cleaning and hygiene:
 -   ensure that bins for tissues are emptied throughout the day
 -   where possible, all spaces should be well ventilated using natural
     ventilation (opening windows) or ventilation units
--   prop doors open, where safe to do so (bearing in mind fire safety
-    and safeguarding), to limit use of door handles and aid ventilation
+-   prop doors open only if they are not fire doors, and where it is
+    safe to do so (bearing in mind fire safety and safeguarding), to
+    limit use of door handles and aid ventilation
 -   get in touch with public sector buying organisation partners (for
     example ESPO, YPO, NEPO) about proportionate supplies of soap,
     anti-bacterial gel and cleaning products if needed
@@ -656,6 +685,7 @@ Adjust transport arrangements where necessary including:
     and finish times
 -   making sure transport providers do not work if they or a member of
     their household are displaying any symptoms of coronavirus
+    (COVID-19)
 -   making sure transport providers, as far as possible, follow hygiene
     rules and try to keep distance from their passengers
 -   taking appropriate actions to reduce risk if hygiene rules and
@@ -680,18 +710,18 @@ Additional questions
 
 ### Will contact tracing be in place in educational and childcare settings?
 
-The government is developing a new national test and trace programme.
+The government has launched a new national test and trace programme.
 This will bring together an app, expanded web and phone-based contact
-tracing, and swab testing for those with potential coronavirus symptoms.
-This programme will play an important role in helping to minimise the
-spread of coronavirus in the future. It will also include more
-traditional methods of contact tracing if a child, young person or
-parent tests positive. This could include, for example, direct
-discussion with parents and schools or colleges on recent contacts. The
-government is recruiting 18,000 contact tracers to support contact
-tracing and will recruit more if needed. They will play an important
-part in tracing the contacts of those with coronavirus, including
-children.
+tracing, and swab testing for those with potential coronavirus
+(COVID-19) symptoms. This programme will play an important role in
+helping to minimise the spread of coronavirus (COVID-19) in the future.
+It will also include more traditional methods of contact tracing if a
+child, young person or parent tests positive. This could include, for
+example, direct discussion with parents and schools or colleges on
+recent contacts. The government is recruiting 18,000 contact tracers to
+support contact tracing and will recruit more if needed. They will play
+an important part in tracing the contacts of those with coronavirus
+(COVID-19), including children.
 
 ### What happens if someone becomes unwell at an educational or childcare setting?
 
@@ -699,7 +729,7 @@ If anyone in an education or childcare setting becomes unwell with a
 new, continuous cough or a high temperature, or has a loss of, or change
 in, their normal sense of taste of smell (anosmia), they must be sent
 home and advised to follow the [COVID-19: guidance for households with
-possible coronavirus infection
+possible coronavirus (COVID-19) infection
 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
 
 If a child is awaiting collection, they should be moved, if possible, to
@@ -725,22 +755,27 @@ hospital.
 If a member of staff has helped someone with symptoms, they do not need
 to go home unless they develop symptoms themselves (and in which case, a
 test is available) or the child subsequently tests positive (see ‘What
-happens if there is a confirmed case of coronavirus in a setting?’
-below). They should wash their hands thoroughly for 20 seconds after any
-contact with someone who is unwell. Cleaning the affected area with
-normal household disinfectant after someone with symptoms has left will
-reduce the risk of passing the infection on to other people. See the
-[COVID-19: cleaning of non-healthcare settings
+happens if there is a confirmed case of coronavirus (COVID-19) in a
+setting?’ below). They should wash their hands thoroughly for 20 seconds
+after any contact with someone who is unwell. Cleaning the affected area
+with normal household disinfectant after someone with symptoms has left
+will reduce the risk of passing the infection on to other people. See
+the [COVID-19: cleaning of non-healthcare settings
 guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
-### What happens if there is a confirmed case of coronavirus in a setting?
+### What happens if there is a confirmed case of coronavirus (COVID-19) in a setting?
 
 When a child, young person or staff member develops symptoms compatible
-with coronavirus, they should be sent home and advised to self-isolate
-for 7 days. Their fellow household members should self-isolate for 14
-days. All staff and students who are attending an education or childcare
+with coronavirus (COVID-19), they should be sent home and advised to
+self-isolate for 7 days and arrange to have a test to see if they have
+COVID-19. They can do this by visiting
+[NHS.UK](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}
+to arrange or contact NHS 119 via telephone if they do not have internet
+access. Their fellow household members should self-isolate for 14 days.
+All staff and students who are attending an education or childcare
 setting will have access to a test if they display symptoms of
-coronavirus, and are encouraged to get tested in this scenario.
+coronavirus (COVID-19), and are encouraged to get tested in this
+scenario.
 
 Where the child, young person or staff member tests negative, they can
 return to their setting and the fellow household members can end their
@@ -768,35 +803,36 @@ setting will not generally be necessary.
 
 Parents, carers and settings do not need to take children’s temperatures
 every morning. Routine testing of an individual’s temperature is not a
-reliable method for identifying coronavirus. Educational and childcare
-settings should reiterate to parents the need to follow the standard
-national advice on the kind of symptoms to look out for that might be
-due to coronavirus, and where to get further advice.If anyone in the
-household develops a fever, or a new continuous cough, or a loss of, or
-change in, their normal sense of taste or smell (anosmia), they are
-advised to follow the [COVID-19: guidance for households with possible
-coronavirus infection
+reliable method for identifying coronavirus (COVID-19). Educational and
+childcare settings should reiterate to parents the need to follow the
+standard national advice on the kind of symptoms to look out for that
+might be due to coronavirus (COVID-19), and where to get further
+advice.If anyone in the household develops a fever, or a new continuous
+cough, or a loss of, or change in, their normal sense of taste or smell
+(anosmia), they are advised to follow the [COVID-19: guidance for
+households with possible coronavirus (COVID-19) infection
 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
 (which states that the ill person should remain in isolation for 7 days
 and the rest of the household in isolation for 14 days).
 
 ### Will children and young people be eligible for testing?
 
-When settings open to the wider cohort of children and young people, all
-those children and young people eligible to attend, and members of their
-households, will have access to testing if they display symptoms of
-coronavirus. This will enable them to get back into childcare or
-education, and their parents or carers to get back to work, if the test
-proves to be negative. To access testing parents will be able to use the
-111 online coronavirus service if their child is 5 or over. Parents will
-be able to call 111 if their child is aged under 5.
+All children and young people eligible to attend education and childcare
+settings, and members of their households, will have access to testing
+if they display symptoms of coronavirus (COVID-19). This will enable
+them to get back into childcare or education, and their parents or
+carers to get back to work, if the test proves to be negative. Parents
+will have a number of routes to access testing for them and their
+children. Visit the [guidance on coronavirus (COVID-19) testing and how
+to arrange to have a
+test](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}.
 
 ### Will teachers and other staff be able to get tested if they have symptoms?
 
-Access to testing is already available to all essential workers. This
-includes anyone involved in education, childcare or social work –
-including both public and voluntary sector workers, as well as foster
-carers. See the [full list of essential
+Access to priority testing is already available to all essential
+workers. This includes anyone involved in education, childcare or social
+work – including both public and voluntary sector workers, as well as
+foster carers. See the [full list of essential
 workers](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested#essential-workers){.govuk-link}.
 Education settings as employers can book tests through an online digital
 portal. There is also an option for employees to book tests directly on
@@ -830,6 +866,8 @@ people with a social worker, our expectation is that they should attend
 their educational setting unless a risk assessment concludes they will
 be safer at home.
 
+\*\[LRF): local resiliance forum
+
 <div class="footnotes">
 
 1.  <div id="fn:1">
@@ -841,7 +879,7 @@ be safer at home.
     this
     link](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}
     and in the relevant section below; and those who are ‘clinically
-    vulnerable’ to coronavirus. [↩](#fnref:1){.govuk-link}
+    vulnerable’ to coronavirus (COVID-19). [↩](#fnref:1){.govuk-link}
 
 </div>
 
