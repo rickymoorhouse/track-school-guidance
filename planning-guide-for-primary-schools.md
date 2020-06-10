@@ -2,13 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Preparing for the wider opening of schools from 1
-    June](/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -43,7 +42,7 @@ Planning guide for primary schools {#planning-guide-for-primary-schools .gem-c-t
 
 </div>
 
-Updated 25 May 2020
+Updated 4 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -123,7 +122,7 @@ Contents {#contents .gem-c-contents-list__title}
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
@@ -152,6 +151,15 @@ data-module="govspeak">
 
 <div class="govspeak">
 
+<div class="call-to-action">
+
+This guidance has been updated to reflect the announcement by the Prime
+Minister that the government’s 5 tests have been met and the decision,
+based on all the evidence, to move forward with wider opening of
+education and childcare settings.
+
+</div>
+
 Purpose of this document
 ------------------------
 
@@ -161,7 +169,7 @@ children](https://www.gov.uk/government/publications/actions-for-educational-and
 to school from the week commencing 1 June.
 
 We have created a [planning
-framework](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020/opening-schools-for-more-children-and-young-people-initial-planning-framework-for-schools-in-england){.govuk-link}
+framework](https://www.gov.uk/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020){.govuk-link}
 to help school leaders to prepare and decide arrangements for more
 children returning to school. It’s a starting point from which schools
 may choose to develop their own plans. This planning guide builds on
@@ -186,28 +194,27 @@ important work, to support their own decision-making.
 ### Timeframe this document covers
 
 This guide covers the first phase of wider opening from the week
-commencing 1 June. The government’s ambition is for all primary school
-children to return to school before the summer for a month if feasible.
-This position will be kept under review, and further advice will be
-provided as and when needed.
+commencing 1 June.
 
 Options for delivery
 --------------------
 
 Schools should not plan on the basis of a rota system, either daily or
-weekly. This guide sets out other options for schools if they are unable
-to cater for all of the vulnerable children, children of critical
-workers, nursery children (where applicable – any pre-existing, standard
-rotas may remain unchanged), reception pupils, year 1s and year 6s with
-their available staff or in their available space.
+weekly, as they do not provide the consistency of education and care
+required for the youngest children, who also require more support with
+remote education. This guide sets out other options for schools if they
+are unable to cater for all of the vulnerable children, children of
+critical workers, nursery children (where applicable – any pre-existing,
+standard rotas may remain unchanged), reception pupils, year 1s and year
+6s with their available staff or in their available space.
 
 In most cases the preparation for wider opening will be undertaken by
 the headteacher and senior colleagues. However, relevant bodies (such as
 local authorities, academy trusts or governing bodies, depending on the
-school type) them should support and work with the headteacher, and
-should particularly assure themselves that risk assessments of the
-school opening more widely, before pupils and staff return, are carried
-out appropriately and measures put in place to address identified risks.
+school type) should support and work with the headteacher, and should
+particularly assure themselves that risk assessments of the school
+opening more widely, before pupils and staff return, are carried out
+appropriately and measures put in place to address identified risks.
 
 We expect schools and trusts to work closely with:
 
@@ -216,9 +223,10 @@ We expect schools and trusts to work closely with:
 -   their local authorities to determine what services they require and
     agree on any specific arrangements during this period
 
-A similar guide for early years settings will be published shortly.
-Schools with nursery classes, 2-year-old provision and maintained
-nursery schools, may wish to consult this guidance.
+A similar guide for [early years
+settings](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-early-years-and-childcare-settings-from-1-june){.govuk-link}
+has been published. Schools with nursery classes, 2-year-old provision
+and maintained nursery schools, should consult this guidance.
 
 Much of this will be relevant and useful for special schools and
 alternative provision (AP) providers, though it has not been developed
@@ -241,20 +249,19 @@ Background
 ----------
 
 As a result of the huge efforts everyone has made to adhere to strict
-social distancing measures, the transmission rate of coronavirus
-(COVID-19) has decreased. We therefore anticipate, with further
-progress, that we may be able, from the week commencing 1 June 2020 to
-welcome back more children to early years settings, schools and
-colleges. Primary schools are being asked to welcome back all children
-currently in nursery, reception, year 1 and year 6. This guide is
-designed to support schools’ planning for this phase of return.
+social distancing measures, the government’s 5 tests have been met,
+meaning we can move forward with modifying measures which have been in
+place. Based on all the evidence, we are therefore able, from the week
+commencing 1 June 2020, to welcome back more children to early years
+settings and primary schools. Primary schools are being asked to welcome
+back all children currently in nursery, reception, year 1 and year 6.
+This guide is designed to support schools’ planning for this phase of
+return.
 
-From 1 June at the earliest, secondary schools will also be asked to
-provide some face-to-face support for pupils in year 10 and year 12
-facing exams next year to supplement their remote education. We will be
-working with sector representatives over the coming week to develop
-models of how this could operate, and this will be published along with
-further guidance for secondary schools shortly.
+We are able to welcome back more children to secondary school and
+further education settings from 15 June 2020. We have published
+[guidance for secondary school
+provision](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-secondary-schools){.govuk-link}.
 
 [1. ]{.number} Preparing the site
 ---------------------------------
@@ -269,6 +276,7 @@ about this if you are unsure whether you need it or how to commission
 it.
 
 Read more about [managing school premises during the coronavirus
+(COVID-19)
 outbreak](https://www.gov.uk/government/publications/managing-school-premises-during-the-coronavirus-outbreak){.govuk-link}.
 
 You might also need to make adjustments to your fire drill and practise
@@ -309,7 +317,7 @@ You may also wish to consider your plans for:
     the ‘catch it, bin it, kill it’ approach in each classroom and
     enough to top up regularly
 
-See [annex d: list of things to consider
+See [Annex D: list of things to consider
 acquiring](#annex-d-list-of-things-to-consider-acquiring){.govuk-link}
 for other things you may need to get.
 
@@ -340,7 +348,7 @@ You should be mindful to minimise the number of resources in order to
 make sure they can be wiped clean. Wherever possible, resources which
 are not easily washable or wipeable should be removed.
 
-Display the posters in [annex c](#annex-c-posters){.govuk-link} (or
+Display the posters in [Annex C](#annex-c-posters){.govuk-link} (or
 others you think are suitable) in every classroom to be used, at the
 main entrance or front office, in places visible to those at the school
 gate if possible, in the staffroom and in all toilets.
@@ -362,14 +370,14 @@ settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implem
 contains information about clinically vulnerable and clinically
 extremely vulnerable adults.
 
-**Clinically extremely vulnerable individuals** are advised not to work
-outside the home. We are strongly advising people, including education
-staff, who are clinically extremely vulnerable (those with serious
-underlying health conditions which put them at very high risk of severe
-illness from coronavirus and have been advised by their clinician or
-through a letter) to rigorously follow shielding measures in order to
-keep themselves safe. Staff in this position are advised not to attend
-work.
+**Clinically extremely vulnerable individuals** are currently advised
+not to work outside the home. We are strongly advising people, including
+education staff, who are clinically extremely vulnerable (those with
+serious underlying health conditions which put them at very high risk of
+severe illness from coronavirus (COVID-19) and have been advised by
+their clinician or through a letter) to rigorously follow shielding
+measures in order to keep themselves safe. Staff in this position are
+advised not to attend work.
 
 Read [guidance on shielding and protecting people defined on medical
 grounds as extremely
@@ -399,9 +407,9 @@ If a **member of staff lives with someone who is clinically vulnerable**
 (but not clinically extremely vulnerable), which includes those who are
 pregnant, they can attend work.
 
-If a **staff member lives in a household with someone who is extremely
-clinically vulnerable**, as set out in the [guidance on shielding and
-protecting people defined on medical grounds as extremely
+If a **staff member lives in a household with someone who is clinically
+extremely vulnerable**, as set out in the [guidance on shielding and
+protecting people defined on medical grounds as clinically extremely
 vulnerable](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link},
 it is advised they only attend work if stringent social distancing can
 be adhered to. If stringent social distancing cannot be adhered to, we
@@ -436,9 +444,10 @@ person temporarily to cover 5, 6, 7 or 8. In some cases, staff members
 may be prepared to undertake a different role to their normal role
 temporarily.
 
-Keep your staffing arrangements as consistent as possible. In instances
-where you do need to use staff from other schools, ensure cover is
-agreed on a weekly basis, not daily, to limit contacts.
+Keep your staffing arrangements as consistent as possible. Wherever
+possible keep them with the same pupil group and in the same settings.
+In instances where you do need to use staff from other schools, ensure
+cover is agreed on a weekly basis, not daily, to limit contacts.
 
 [3. ]{.number} Familiarise yourself with the maximum safe group size
 --------------------------------------------------------------------
@@ -546,14 +555,17 @@ should prioritise groups of children as follows:
 -   primary schools - nursery (where applicable), reception and year 1
 
 Schools should not plan on the basis of a rota system, either daily or
-weekly.
+weekly, as they do not provide the consistency of education and care
+required for the youngest children, who also require more support with
+remote education.
 
 ### Attendance reporting
 
 Prepare to resume taking the attendance register and continue completing
-the daily data returns using the DfE portal (further guidance on what
-attendance and absence codes to use at this time will be published
-shortly).
+the daily data returns using the DfE portal (further guidance on [what
+attendance and absence codes to
+use](https://www.gov.uk/government/publications/coronavirus-covid-19-attendance-recording-for-educational-settings){.govuk-link}
+at this time has been published).
 
 You should also prepare to continue with any arrangements that have been
 made with the local authority with the aim of safeguarding vulnerable
@@ -635,9 +647,8 @@ with the local authority and parents, and confirm what special provision
 can reasonably be provided.
 
 We have published guidance on [conducting a SEND risk assessment during
-the coronavirus
-outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-send-risk-assessment-guidance){.govuk-link}
-– this will be reviewed ahead of 1 June.
+the coronavirus (COVID-19)
+outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-send-risk-assessment-guidance){.govuk-link}.
 
 Headteachers should also be aware that there may be additional pupils,
 including those with SEND, who display symptoms of stress or anxiety and
@@ -652,8 +663,8 @@ behaviour policy to reflect the new rules and routines, and communicate
 these changes to staff, pupils and parents.
 
 Think about if and how your school rules need to change. There are some
-example new school rules given in [annex
-a](#annex-a-behaviour-principles){.govuk-link} which you could adopt or
+example new school rules given in [Annex
+A](#annex-a-behaviour-principles){.govuk-link} which you could adopt or
 adapt. Any revised rules will need to be referenced in the revised
 behaviour policy with sanctions.
 
@@ -666,11 +677,11 @@ and parents/carers. Best practice suggests this includes:
     the policy, as well as positively reinforcing well-executed rules
     through encouragement and rewards
 
-Display the posters in [annex c](#annex-c-posters){.govuk-link}, which
+Display the posters in [Annex C](#annex-c-posters){.govuk-link}, which
 are suitable for reception, years 1 and 6.
 
-Prepare guidance for staff (see a model in [annex
-b](#annex-b-principles-for-staff){.govuk-link}) and ensure all staff are
+Prepare guidance for staff (see a model in [Annex
+B](#annex-b-principles-for-staff){.govuk-link}) and ensure all staff are
 trained in the new rules and routines, including the use of sanctions
 and rewards, so that they can support pupils to understand them and
 enforce them consistently.
@@ -739,7 +750,7 @@ arrangements.
 [9. ]{.number} Communicating with parents
 -----------------------------------------
 
-You should communicate with parents to make sure they know :
+You should communicate with parents to make sure they know:
 
 -   whether their child will be able to attend from the week commencing
     1 June
@@ -747,20 +758,16 @@ You should communicate with parents to make sure they know :
     place for their child
 -   what you need them to do (such as on drop off and collection)
 
-A model letter will be available shortly on preparing for the wider
-opening of schools from 1 June, which you can use if useful and adapt as
-you wish.
-
 You may also want to consider senior leaders calling parents in eligible
 groups to discuss with them directly, where this is feasible.
 
 [10. ]{.number} Managing pupil and staff wellbeing and mental health
 --------------------------------------------------------------------
 
-The coronavirus outbreak may have caused significant mental health or
-wellbeing difficulties for some children. It is important to recognise
-that while ‘getting back to normal’ is important and will be reassuring
-for many, school staff will need to consider how to support:
+The coronavirus (COVID-19) outbreak may have caused significant mental
+health or wellbeing difficulties for some children. It is important to
+recognise that while ‘getting back to normal’ is important and will be
+reassuring for many, school staff will need to consider how to support:
 
 -   individual children who have found the long period at home hard to
     manage
@@ -792,7 +799,11 @@ Staff may wish to provide:
 As part of the introduction of health education during 2020 to 2021, we
 are producing some training materials for teachers on teaching about
 mental wellbeing and these may be a useful source of information for
-teachers and headteachers.
+teachers and headteachers. Public Health England has also published
+[advice for parents and carers on looking after the mental health and
+wellbeing of children or young people during the coronavirus (COVID-19)
+outbreak](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing){.govuk-link},
+which may be a useful resource.
 
 The different experiences all pupils will have had at home will
 naturally play a large part in how easily they re-adapt to attending
@@ -851,9 +862,9 @@ modifying of a number of requirements within the early years foundation
 stage (EYFS), which covers children in reception, giving settings
 flexibility to respond to changes in workforce availability and
 potential fluctuations in demand. These temporary changes came into
-force on 24 April 2020. During the coronavirus outbreak, schools should
-use reasonable endeavours to meet the existing [EYFS learning and
-development
+force on 24 April 2020. During the coronavirus (COVID-19) outbreak,
+schools should use reasonable endeavours to meet the existing [EYFS
+learning and development
 requirements](https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2/early-years-foundation-stage-coronavirus-disapplications){.govuk-link}.
 As far as possible, children should benefit from a broad range of
 educational opportunities, but this also provides schools with the
@@ -876,7 +887,7 @@ for children to discuss this as it may be a source of anxiety or
 sadness. Though visits to secondary schools for induction will not take
 place this year, some secondary schools may have capacity to undertake
 remote induction briefings or other types of sessions for pupils, for
-example to meet form tutors, heads of year, or other key staff, or have
+example, to meet form tutors, heads of year, or other key staff, or have
 a tour of the school virtually. You should discuss the options with your
 secondary schools.
 
@@ -918,6 +929,7 @@ suitable online access and where possible would benefit from printed
 resources.
 
 We have produced guidance on [remote education during the coronavirus
+(COVID-19)
 outbreak](https://www.gov.uk/guidance/remote-education-during-coronavirus-covid-19){.govuk-link},
 including an initial list of educational resources and case studies.
 
@@ -950,12 +962,10 @@ body, trust board or local authority) informed of arrangements being
 made and key strategic decisions should be taken by them. This process
 can provide very helpful support for headteachers.
 
-### Some parents have children in, for example, reception and year 1 so staged start times are not practical for them. What should I do? {#some-parents-have-children-in-for-example-reception-and-year-1-so-staged-start-times-are-not-practical-for-them-what-should-i-do}
+### Some parents have children in, for example, reception and year 1 so staggered start times are not practical for them. What should I do? {#some-parents-have-children-in-for-example-reception-and-year-1-so-staggered-start-times-are-not-practical-for-them-what-should-i-do}
 
 You are encouraged to contact parents where this is the case and agree a
-start time for both or all children concerned. A model letter will be
-available shortly on preparing for the wider opening of schools from 1
-June, which you can use if useful and adapt as you wish.
+start time for both or all children concerned.
 
 ### What if parents do not observe social distancing at the school gate? Is it my job to enforce social distancing outside the school gates?
 
@@ -971,16 +981,29 @@ be useful as well from time to time.
 We have published guidance on [implementing protective measures in
 education and childcare
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
-The guidance states that it is not necessary for staff to wear masks,
-gloves and aprons unless they are carrying out activities that would
-usually require the use of personal protective equipment (PPE) or if a
-child, young person or other learner becomes unwell with symptoms of
-coronavirus while in their setting and needs supervision until they can
-return home.
+The guidance states that personal protective equipment (PPE) is only
+needed in a very small number of cases and it is not necessary for staff
+to wear masks, gloves and aprons unless they are carrying out activities
+that would usually require the use of PPE or if a child, young person or
+other learner becomes unwell with symptoms of coronavirus (COVID-19)
+while in their setting and needs supervision until they can return home.
 
-You should use your local supply chains to obtain PPE. Where this is not
-possible, and there is an unmet urgent need for PPE in order to operate
-safely, you may approach your nearest local resilience forum.
+Education settings should use their local supply chains to obtain PPE.
+
+If education settings cannot obtain the PPE they need they should
+approach their local authority. Local authorities should support them to
+access local PPE markets and available stock locally, including through
+coordinating the redistribution of available supplies between settings
+according to priority needs.
+
+If the local authority is not able to meet the PPE needs of education
+providers, the local authority should approach their nearest Local
+Resilience Forum (LRF) which will allocate stock if it is available once
+the needs of other vital services locally have been met. If neither the
+local authority or LRF is able to respond to an education setting’s
+unmet urgent need for PPE, they will need to make their own judgement in
+line with their risk assessment as to whether it is safe to continue to
+operate.
 
 ### Can I direct staff to come into school?
 
@@ -1015,6 +1038,7 @@ Areas schools may wish to add to their behaviour policy are:
     it, bin it, kill it’) and avoiding touching your mouth, nose and
     eyes with hands
 -   tell an adult if you are experiencing symptoms of coronavirus
+    (COVID-19)
 -   rules about sharing any equipment or other items including drinking
     bottles
 -   amended expectations about breaks or play times, including where
@@ -1032,9 +1056,12 @@ with more challenging behaviour.
 Annex B: Principles for staff
 -----------------------------
 
-1.  Do not come to work if you have coronavirus symptoms, or go home as
-    soon as these develop (informing your manager), and access a test as
-    soon as possible.
+1.  Do not come to work if you have coronavirus (COVID-19) symptoms, or
+    go home as soon as these develop (informing your manager), and
+    access a test as soon as possible. You can do this by visiting the
+    [NHS website to ask for a
+    test](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}
+    or calling the NHS on 119 if you do not have internet access.
 2.  Clean your hands more often than usual - with running water and soap
     and dry them thoroughly or use alcohol hand rub or sanitiser
     ensuring that all parts of the hands are covered.
@@ -1066,7 +1093,7 @@ Annex C: Posters
 ----------------
 
 [e-Bug](https://e-bug.eu/eng_home.aspx?cc=eng&ss=1&t=Information%20about%20the%20Coronavirus){.govuk-link}
-has produced a series of helpful coronavirus posters:
+has produced a series of helpful coronavirus (COVID-19) posters:
 
 -   [Horrid
     hands](https://e-bug.eu/junior_pack_ks1.aspx?cc=eng&ss=2&t=Horrid%20Hands){.govuk-link}

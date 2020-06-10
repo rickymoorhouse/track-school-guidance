@@ -149,13 +149,6 @@ group they are in.**
 
 **The definition of critical workers remains unchanged.**
 
-Our ambition is to bring all primary year groups back to school before
-the summer holidays, for a month if feasible, though this will be kept
-under review. Schools will only welcome back additional year groups if
-the most up-to-date assessment of the risk posed by the virus indicates
-it is appropriate to have larger numbers of children within schools. The
-safety of children and staff is our utmost priority.
-
 Any setting that cannot achieve these increases at any point because:
 
 -   there are not enough classrooms or spaces available in the setting

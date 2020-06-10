@@ -197,13 +197,6 @@ cap on numbers to ensure that safety is prioritised. From 1 June,
 childminders can look after children of all ages, in line with usual
 limits on the number of children they can care for.
 
-Our ambition is to bring all primary year groups back to school before
-the summer holidays, for a month if feasible, though this will be kept
-under review. We will only welcome back additional year groups if the
-most up-to-date assessment of the risk posed by the virus indicates it
-is appropriate to have larger numbers of children within schools. The
-safety of children and staff is our utmost priority.
-
 This advice seeks to support staff working in schools, colleges and
 childcare settings, to deliver this approach in the safest way possible,
 focusing on measures they can put in place to help limit risk of the

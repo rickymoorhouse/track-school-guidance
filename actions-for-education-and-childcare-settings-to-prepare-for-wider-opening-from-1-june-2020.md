@@ -2,14 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Actions for educational and childcare settings to prepare for wider
-    opening from 1 June
-    2020](/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -44,7 +42,7 @@ Actions for education and childcare settings to prepare for wider opening from 1
 
 </div>
 
-Updated 12 May 2020
+Updated 1 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -62,12 +60,10 @@ Contents {#contents .gem-c-contents-list__title}
 3.  [What the latest science tells
     us](#what-the-latest-science-tells-us){.gem-c-contents-list__link
     .govuk-link}
-4.  [Approach: First phase of wider opening of educational and childcare
-    settings (from 1 June 2020 depending on the most up-to-date
-    assessment of the risk posed by the
-    virus)](#approach-first-phase-of-wider-opening-of-educational-and-childcare-settings-from-1-june-2020-depending-on-the-most-up-to-date-assessment-of-the-risk-posed-by-the-virus){.gem-c-contents-list__link
+4.  [Approach: first phase of wider opening of educational and childcare
+    settings](#approach-first-phase-of-wider-opening-of-educational-and-childcare-settings){.gem-c-contents-list__link
     .govuk-link}
-5.  [Implementation: Managing risk and rate of
+5.  [Implementation: managing risk and rate of
     transmission](#implementation-managing-risk-and-rate-of-transmission){.gem-c-contents-list__link
     .govuk-link}
 6.  [Key issues](#key-issues){.gem-c-contents-list__link .govuk-link}
@@ -78,7 +74,7 @@ Contents {#contents .gem-c-contents-list__title}
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
@@ -109,9 +105,10 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-We will update this guidance before 1 June 2020 to reflect the
-[announcements made on 24 May
-2020](https://www.gov.uk/government/news/pm-confirms-schools-colleges-and-nurseries-on-track-to-begin-phased-reopening){.govuk-link}.
+This guidance has been updated to reflect the announcement by the Prime
+Minister that the government’s 5 tests have been met and the decision,
+based on all the evidence, to move forward with wider opening of
+education and childcare settings.
 
 </div>
 
@@ -138,55 +135,53 @@ support staff, childcare workers, social workers and others, who have
 worked tirelessly to support the education and welfare of young people.
 
 As a result of the huge efforts everyone has made to adhere to strict
-social distancing measures, the transmission rate of coronavirus has
-decreased. We therefore anticipate, with further progress, that we may
-be able, from the week commencing 1 June 2020 to welcome back more
-children to early years, school and further education settings. We will
-only do this provided that the five key tests set by government justify
-the changes at the time, including that the rate of infection is
-decreasing and the enabling programmes set out in [the UK Government’s
-COVID-19 recovery
-strategy](https://www.gov.uk/government/publications/our-plan-to-rebuild-the-uk-governments-covid-19-recovery-strategy){.govuk-link}
-are operating effectively. As a result we are asking schools, colleges
-and childcare providers to plan on this basis, ahead of confirmation
-that these tests are met.
+social distancing measures, the government’s 5 tests have been met,
+meaning we can move forward with modifying measures which have been in
+place. Based on all the evidence, from 1 June 2020 we can welcome back
+more children to early years and primary school settings, and from 15
+June 2020 to secondary school and further education settings. Schools,
+colleges and childcare providers have been planning on this basis, and
+confirmation that this could go ahead was provided by the Prime Minister
+on 28 May.
 
 We have worked closely with the sector, and will continue to do so over
 the coming weeks to support the wider opening of schools, colleges and
 childcare settings. In this document we are setting out the overarching
 aims and principles of this next phase, including information about
-protective measures which will be in place. We will work with the
-profession to produce more detailed guidance ahead of 1 June 2020.
+protective measures which will be in place. We have worked with the
+profession to produce more detailed guidance to support planning.
 
 Next steps
 ----------
 
 Education and childcare settings are already open to priority groups.
 Now that we have made progress in reducing the transmission of
-coronavirus we are encouraging all eligible children to attend – it is
-no longer necessary for parents of eligible children to keep them at
-home if they can. In particular, as per the [existing guidance on
-vulnerable children and young
+coronavirus (COVID-19) we are encouraging all eligible children to
+attend – it is no longer necessary for parents of eligible children to
+keep them at home if they can. In particular, as per the [existing
+guidance on vulnerable children and young
 people](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link},
 vulnerable children of all year groups continue to be expected and
 encouraged to attend educational provision where it is appropriate for
 them to do so.
 
-From the week commencing 1 June 2020 at the earliest, we will be asking
-primary schools to welcome back children in Nursery, Reception, year 1
-and year 6, alongside priority groups. We will ask secondary schools,
-sixth form and further education colleges to offer some face-to-face
-support to supplement the remote education of year 10 and year 12
-students who are due to take key exams next year, alongside the full
-time provision they are offering to priority groups.
+From the week commencing 1 June 2020, we are asking primary schools to
+welcome back children in nursery, Reception, year 1 and year 6,
+alongside priority groups. From 15 June, we are asking secondary
+schools, sixth form and further education colleges to offer some
+face-to-face support to supplement the remote education of year 10 and
+year 12 students and 16 to 19 learners in the first year of their course
+who are due to take key exams next year, alongside the full time
+provision they are offering to priority groups.
 
 We are also asking nurseries and other early years providers, including
-childminders, to begin welcoming back all children. Alternative
-provision settings should mirror the approach being taken for mainstream
-schools and also offer some face-to-face support for year 10 and 11
-students (as they have no year 12). Special schools, special post-16
-institutions and hospital schools will work towards a phased return of
-more children and young people without a focus on specific year groups.
+childminders, to begin welcoming back children of all ages from 1 June.
+Alternative provision settings should mirror the approach being taken
+for mainstream schools and also offer some face-to-face support for year
+10 and 11 students (as they have no year 12) from 15 June. Special
+schools, special post-16 institutions and hospital schools will work
+towards a phased return of more children and young people without a
+focus on specific year groups.
 
 We want to get all children and young people back into education as soon
 as the scientific advice allows because it is the best place for them to
@@ -200,39 +195,33 @@ people attending schools and colleges. This decision is based on the
 latest scientific advice. By returning pupils gradually, settings can
 initially reduce the number of children and young people in classrooms
 compared to usual and put protective measures in place to reduce risks.
-Children will need to stay within their new class/group wherever
-possible and we will ask settings to [implement a range of protective
+Children and young people will need to stay within their new class/group
+wherever possible and we will ask settings to [implement a range of
+protective
 measures](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
 including increased cleaning, reducing ‘pinch points’ (such as parents
 dropping children off at the start and end of the day), and utilising
 outdoor space. Staff and pupils in all settings will be eligible for
 testing if they become ill with coronavirus symptoms, as will members of
-their households. A negative test will enable children to get back to
-childcare or education, and their parents to get back to work. A
-positive test will ensure rapid action to protect their classmates and
-staff in their setting. Those who are clinically vulnerable, or are
-living with someone who is, should follow our [protective measures
+their households. A negative test will enable children and young people
+to get back to childcare or education, and their parents to get back to
+work. A positive test will ensure rapid action to protect their
+classmates and staff in their setting. Those who are clinically
+vulnerable, or are living with someone who is, should follow our
+[protective measures
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
 
-In childcare settings, providers will be asked to welcome back all
-children below statutory school age from the week commencing 1 June
-2020. Demand for childcare is likely to be lower than usual at first,
-and existing space requirements and staff to child ratios for these age
-groups should allow for small group working. Where the physical layout
-of a setting does not allow small groups of children to be kept at a
-safe distance apart, we expect practitioners to exercise judgement in
-ensuring the highest standards of safety are maintained. In some cases,
-it may be necessary for providers to introduce a temporary cap on
-numbers to ensure that safety is prioritised. From 1 June 2020,
+In childcare settings, providers can welcome back all children from the
+week commencing 1 June 2020. Demand for childcare is likely to be lower
+than usual at first, and existing space requirements and staff to child
+ratios for these age groups should allow for small group working. Where
+the physical layout of a setting does not allow small groups of children
+to be kept at a safe distance apart, we expect practitioners to exercise
+judgement in ensuring the highest standards of safety are maintained. In
+some cases, it may be necessary for providers to introduce a temporary
+cap on numbers to ensure that safety is prioritised. From 1 June 2020,
 childminders can look after children of all ages, in line with usual
 limits on the number of children they can care for.
-
-Our ambition is to bring all primary year groups back to school before
-the summer holidays, for a month if feasible, though this will be kept
-under review. We will only welcome back additional year groups if the
-most up-to-date assessment of the risk posed by the virus indicates it
-is appropriate to have larger numbers of children within schools. The
-safety of children and staff is our utmost priority.
 
 Year groups in first phase of wider opening
 -------------------------------------------
@@ -248,34 +237,37 @@ are finishing Key Stage 2 and are preparing for the transition to
 secondary school, and will benefit immensely from time with their
 friends and teachers to ensure they are ready.
 
-We will prioritise younger children in the first phases of wider
+We are prioritising younger children in the first phases of wider
 opening, for several reasons. Firstly, because there is moderately high
 scientific confidence in evidence suggesting younger children are less
-likely to become unwell if infected with coronavirus; and secondly
-because evidence shows the particularly detrimental impact which time
-spent out of education can have upon them. In addition, older children
-are more likely to have higher numbers of contacts outside of school so
-pose a greater transmission risk, and they are typically better able to
-learn at home.
+likely to become unwell if infected with coronavirus (COVID-19); and
+secondly because evidence shows the particularly detrimental impact
+which time spent out of education can have upon them. In addition, older
+children are more likely to have higher numbers of contacts outside of
+school so pose a greater transmission risk, and they are typically
+better able to learn at home.
 
 The two year groups in mainstream secondary schools and colleges have
 been prioritised because they are preparing for key examinations next
 year, and are most at risk of falling behind due to time out of school
-or college. From 1 June 2020, we expect that secondary schools and
-colleges will be able to offer some face to face contact with year 10
-and year 12 pupils. This will not be a return to full timetables or
-pupils back in school or college full time, rather some support to
-supplement pupils’ remote education. In line with implementing
-protective measures and reducing contacts, schools and colleges should
-limit the attendance of the year 10 and 12 cohort in the setting at any
-one time and to keep students in small groups as [set out in our
-guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
-Schools and colleges should also ensure that the use of public transport
-for travel to and from school/college is minimised, especially at peak
-times. We will be consulting with sector representatives over the coming
-week in order to develop some suggested models to demonstrate how this
-could operate, which will be published along with further guidance for
-secondary schools in the coming weeks.
+or college. From 15 June 2020, secondary schools and colleges will be
+able to offer some face-to-face contact with year 10 and year 12 pupils
+or 16 to 19 learners in the first year of a two-year study programme.
+This will supplement their remote education, which should remain the
+predominant mode of education during this term. Our assessment, based on
+the latest scientific and medical advice, is that we need to continue to
+control the numbers attending school or further education settings to
+reduce the risk of increasing transmission. Therefore, schools are able
+to have a quarter of the year 10 and year 12 cohort (for schools with
+sixth forms) in school at any one time, and should refer to our guidance
+for advice on minimising risk. Likewise, for colleges and other FE
+settings, a quarter of 16 to 19 learners in the first year of a two-year
+study programme may attend at any one time. Schools and colleges should
+also ensure that the use of public transport for travel to and from
+school or college is minimised as far as possible. Where it is totally
+necessary, this should not be during peak times. Schools should
+introduce staggered start and end times as appropriate to help achieve
+this.
 
 Our approach is in line with other countries across Europe, who have
 begun to bring pre-school and school-age children back in a phased way
@@ -291,11 +283,13 @@ for children in this year group.
 Any educational or childcare settings which have closed should work
 towards reopening from the week commencing 1 June 2020 to cater for
 children in nurseries, Reception, year 1, year 6 and priority groups,
-and to provide some face to face support to pupils in years 10 and 12.
+and, from 15 June, to provide some face-to-face support to pupils in
+years 10 and 12, and 16 to 19 learners in the first year of their
+course.
 
-We will provide all educational and childcare settings with further
-guidance and support to help them to prepare for wider opening over the
-coming weeks and continue to work closely with the sector.
+We have provided all educational and childcare settings with further
+guidance and support to help them to prepare for wider opening and
+continue to work closely with the sector.
 
 What the latest science tells us
 --------------------------------
@@ -307,28 +301,30 @@ above 1. We have factored in:
 
 -   severity of disease in children – there is high scientific
     confidence that children of all ages have less severe symptoms than
-    adults if they contract coronavirus
+    adults if they contract coronavirus (COVID-19)
 -   the age of children – there is moderately high scientific confidence
     that younger children are less likely to become unwell if infected
-    with coronavirus
+    with coronavirus (COVID-19)
 -   numbers of children going back – which needs to be limited initially
     then increased gradually as the science permits
 -   systems to reduce the size of the groups coming into contact with
     each other – such as smaller class sizes spread out across settings
 
-Approach: First phase of wider opening of educational and childcare settings (from 1 June 2020 depending on the most up-to-date assessment of the risk posed by the virus)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Approach: first phase of wider opening of educational and childcare settings
+----------------------------------------------------------------------------
 
-From the week commencing 1 June 2020 at the earliest, we are asking
-nurseries and other early years settings to open to all children;
-primary schools to welcome back pupils to Nursery, Reception, year 1 and
-year 6 (including in middle schools); secondary schools and colleges to
-offer some face to face support for children and young people in year 10
-and year 12 to supplement their remote education; alternative provision
-to mirror the approach being taken for mainstream schools and also offer
-some face-to-face support for year 10 and year 11 students (as they have
-no year 12); and special schools, special post-16 institutions and
-hospital schools to welcome back more pupils and students.
+From the week commencing 1 June 2020, we are asking nurseries and other
+early years settings to open to children of all ages, and primary
+schools to welcome back pupils to nursery, Reception, year 1 and year 6
+(including in middle schools). From 15 June, we are asking secondary
+schools and colleges to offer some face-to-face support for children and
+young people in year 10 and year 12, and 16 to 19 learners in the first
+year of their course, to supplement their remote education, alternative
+provision to mirror the approach being taken for mainstream schools and
+also offer some face-to-face support for year 10 and year 11 students
+(as they have no year 12), and special schools, special post-16
+institutions and hospital schools to welcome back more pupils and
+students.
 
 We will assess the impact of these changes closely, working with medical
 and scientific advisers as well as sector leaders. When the most
@@ -355,9 +351,9 @@ settings:
     to be supported to learn or work at home as much as possible.
     Clinically vulnerable (but not clinically extremely vulnerable)
     people are those considered to be at a higher risk of severe illness
-    from coronavirus. Few if any children will fall into this category,
-    but parents should follow medical advice if their child is in this
-    category. Staff in this category should work from home where
+    from coronavirus (COVID-19). Few if any children will fall into this
+    category, but parents should follow medical advice if their child is
+    in this category. Staff in this category should work from home where
     possible, and refer to the detail in our protective measures
     guidance
 -   a child/young person or a member of staff who lives with someone who
@@ -382,7 +378,7 @@ settings:
     far as is possible, to ensure that the risk of transmission is
     reduced
 
-Implementation: Managing risk and rate of transmission
+Implementation: managing risk and rate of transmission
 ------------------------------------------------------
 
 Scientific advice indicates that a phased return that limits the number
@@ -394,9 +390,9 @@ There are a number of immediate issues which educational and childcare
 settings will need to consider. The following list of issues are the
 ones we have identified as the top priorities. We recognise that each
 setting and community is different, and that leaders will need to make
-their own judgements on the most important issues for them. Further
-guidance on these, and other important areas, will be developed with the
-sector in the coming days and weeks.
+their own judgements on the most important issues for them. We have
+published further advice for early years, primary schools, secondary
+schools and further education settings to help them prepare.
 
 Key issues
 ----------
@@ -404,11 +400,11 @@ Key issues
 ### Risk assessment
 
 Every setting should carry out a risk assessment before opening. The
-assessment should directly address risks associated with coronavirus, so
-that sensible measures can be put in place to control those risks for
-children and staff. All employers have a duty to consult employees on
-health and safety, and they are best placed to understand the risks in
-individual settings.
+assessment should directly address risks associated with coronavirus
+(COVID-19), so that sensible measures can be put in place to control
+those risks for children and staff. All employers have a duty to consult
+employees on health and safety, and they are best placed to understand
+the risks in individual settings.
 
 ### Class sizes and staff availability
 
@@ -424,7 +420,19 @@ set out in our
 -   avoiding contact with anyone with symptoms
 -   frequent hand cleaning and good hygiene practices
 -   regular cleaning of settings
--   and minimising contact and mixing
+-   and minimising contact and mixing as far as possible
+
+As well as the measures above, secondary schools and colleges should:
+
+-   ensure that only a quarter of pupils in year 10 and year 12 are in
+    school at any one time
+-   aim to practise social distancing in line with the measures the
+    government is asking everyone to adopt in public and in workplaces,
+    including keeping pupils 2 metres apart from each other where
+    possible
+-   plan that classes are no more than half their usual size, to allow
+    sufficient distancing between pupils. However, this may vary due to
+    individual school circumstances
 
 It is still important to reduce contact between children and staff as
 far as possible, and settings can take steps to achieve that and reduce
@@ -432,11 +440,15 @@ transmission risk by ensuring children, and staff where possible, mix in
 a small group and keep that small group away from other people and
 groups. For pre-school children in early years settings, the staff to
 child ratios within Early Years Foundation Stage continue to apply, and
-we recommend using these to group children. In mainstream schools and
-college settings the basic principle is that classes should be halved.
-Normally one teacher should be allocated to a group but if there are any
-teacher shortages then support staff may be used to lead groups, under
-the direction of a teacher. More detail is provided in our [protective
+we recommend using these to group children. In mainstream primary
+schools the basic principle is that classes should be halved. Normally
+one teacher should be allocated to a group but if there are any teacher
+shortages then support staff may be used to lead groups, under the
+direction of a teacher. In mainstream secondary schools and colleges, we
+recognise that the range of subjects and courses taught means that some
+mixing may be unavoidable to provide pupils with face-to-face support
+from subject/specialist teachers. We would expect that these groups are
+still smaller than normal. More detail is provided in our [protective
 measures
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
 
@@ -468,12 +480,6 @@ children as follows:
 -   infant schools - nursery (where applicable) and reception
 -   primary schools – nursery (where applicable), reception and year 1
 
-Our ambition is to bring all primary year groups back to school before
-the summer holidays, for a month if feasible, though this will be kept
-under review. We will review this advice on class sizes as and when the
-science indicates it is safe to invite more children back to childcare
-settings, schools and colleges.
-
 ### Protective measures in education and childcare settings
 
 The DfE guidance on [Implementing Protective Measures in Education and
@@ -484,24 +490,25 @@ contains detailed advice for settings on:
 -   cleaning, including supplies of cleaning and handwashing products
 -   testing and tracing
 -   personal protective equipment (PPE)
--   what settings should do in response to a case of COVID-19 being
-    confirmed
+-   what settings should do in response to a case of coronavirus
+    (COVID-19) being confirmed
 
 ### Attendance
 
 No one with symptoms should attend a setting for any reason. Eligible
-children – including priority groups - are strongly encouraged to attend
-their education setting, unless they are self-isolating or they are
-clinically vulnerable (in which case they should follow medical advice).
-If someone in their household is extremely clinically vulnerable, they
-should only attend if stringent social distancing can be adhered to, and
-the child is able to understand and follow those instructions. Families
-should notify their nursery/school/college as normal if their child is
-unable to attend so that staff can explore the reason with them and
-address barriers together. Parents will not be fined for non-attendance
-at this time, and schools and colleges will not be held to account for
-attendance levels. Schools and colleges should continue to inform social
-workers where children with a social worker do not attend.
+children and young people - including priority groups - are strongly
+encouraged to attend their education setting, unless they are
+self-isolating or they are clinically vulnerable (in which case they
+should follow medical advice). If someone in their household is
+extremely clinically vulnerable, they should only attend if stringent
+social distancing can be adhered to, and the child is able to understand
+and follow those instructions. Families should notify their
+nursery/school/college as normal if their child is unable to attend so
+that staff can explore the reason with them and address barriers
+together. Parents will not be fined for non-attendance at this time, and
+schools and colleges will not be held to account for attendance levels.
+Schools and colleges should continue to inform social workers where
+children with a social worker do not attend.
 
 Schools and colleges should resume taking their attendance register and
 continue to complete the online Educational Setting Status form which
@@ -509,8 +516,9 @@ gives the Department for Education daily updates on how many children
 and staff are attending. The Department will continue to monitor
 attendance at early years settings, via local authorities. This is to
 ensure that we have up-to-date information on available early years and
-childcare provision during the coronavirus outbreak, which children are
-accessing it and to monitor sufficiency in particular areas.
+childcare provision during the coronavirus (COVID-19) outbreak, which
+children are accessing it and to monitor sufficiency in particular
+areas.
 
 ### Vulnerable children and young people
 
@@ -550,12 +558,12 @@ Vulnerable children and young people in this context include those who:
 Alternative Provision (AP) settings should follow the same principles
 and guidance as mainstream schools and welcome back, from 1 June 2020,
 all children in Reception, year 1 and year 6. AP settings do not have a
-year 12, so they should also offer some face to face support for
-students in year 10 and year 11 to supplement their remote education, as
-they are approaching key transition points. In line with the advice
-above for mainstream provision, settings should limit the numbers in
-attendance at any one time and aim to keep students in small groups as
-[set out in our
+year 12, so, from 15 June, they they should also offer some face to face
+support for students in year 10 and year 11 to supplement their remote
+education, as they are approaching key transition points. In line with
+the advice above for mainstream provision, settings should limit the
+numbers in attendance at any one time and aim to keep students in small
+groups as [set out in our
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}.
 Settings should also consider ways to minimise use of public transport
 to get to and from school at peak times, in consultation with local
@@ -577,16 +585,15 @@ to date.
 
 ### Sixth form and further education (FE) colleges
 
-Sixth form colleges should offer some face to face support to students
-in year 12 to supplement their remote education, alongside their offer
-to priority groups.
-
-Further education (FE) colleges should also offer some face to face
-support to students who are in the equivalent of year 10 and year 12,
-who are studying for key examinations next academic year, along with
-those in priority groups. We will work with the sector to provide
-additional guidance for FE colleges on provision for these and other
-disproportionately affected learners.
+From 15 June, further education settings (including general further
+education colleges, sixth form colleges, and other providers) can offer
+face-to-face support to 16 to 19 learners. Remote education should
+remain the predominant mode of learning during this time. To help reduce
+the coronavirus (COVID-19) transmission risk, the number of learners
+attending at any one time will be limited to a quarter of those on the
+first year of a two-year 16 to 19 study programme. Further guidance is
+available
+[here](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-further-education-provision/maintaining-education-and-skills-training-provision-further-education-providers){.govuk-link}.
 
 ### Curriculum
 
@@ -695,14 +702,14 @@ funding allocations – as determined by the local authority for
 maintained schools and through the general annual grant (GAG) for
 academies. FE colleges continue to receive funding in line with the
 flexibilities that have been announced in recent weeks including payment
-on profile for 16-19 study programmes without reconciliation. In
+on profile for 16 to 19 study programmes without reconciliation. In
 addition, we have announced a fund for schools to cover specific
-additional costs as a result of the COVID-19 outbreak – this remains
-open and should be used by schools as appropriate. Access to the wider
-business support schemes, including Coronavirus Job Retention Scheme
-(CJRS), can continue to be used for staff typically paid for through
-private income, on condition that the principles in Department for
-Education’s [sector specific
+additional costs as a result of the coronavirus (COVID-19) outbreak –
+this remains open and should be used by schools as appropriate. Access
+to the wider business support schemes, including Coronavirus Job
+Retention Scheme (CJRS), can continue to be used for staff typically
+paid for through private income, on condition that the principles in
+Department for Education’s [sector specific
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-financial-support-for-education-early-years-and-childrens-social-care/coronavirus-covid-19-financial-support-for-education-early-years-and-childrens-social-care){.govuk-link}
 continue to be met.
 
@@ -732,16 +739,19 @@ We have published:
     settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-link}
 -   [guidance for parents and
     carers](https://www.gov.uk/government/publications/closure-of-educational-settings-information-for-parents-and-carers){.govuk-link}
+-   [a planning guide for early years and childcare
+    settings](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-early-years-and-childcare-settings-from-1-june){.govuk-link}
+-   [a planning guide for primary
+    schools](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-primary-schools){.govuk-link}
+-   [guidance for secondary school
+    provision](https://www.gov.uk/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june/planning-guide-for-secondary-schools){.govuk-link}
+-   [guidance for further education
+    providers](https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-further-education-provision){.govuk-link}
 
 This complements the [existing guidance for schools and educational
 settings](https://www.gov.uk/government/collections/coronavirus-covid-19-guidance-for-schools-and-other-educational-settings){.govuk-link}
 that continues to be relevant (and which will be updated in due course
 where needed).
-
-We will publish further guidance for senior leaders to enable them to
-work through the actions they need to take to get ready for 1 June 2020.
-This will be co-produced with experienced school and trust leaders and
-sector representatives.
 
 <div class="footnotes">
 
@@ -754,7 +764,7 @@ sector representatives.
     this
     link](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-vulnerable-children-and-young-people){.govuk-link}
     and in the relevant section below; and those who are ‘clinically
-    vulnerable’ to coronavirus. [↩](#fnref:1){.govuk-link}
+    vulnerable’ to coronavirus (COVID-19). [↩](#fnref:1){.govuk-link}
 
 </div>
 

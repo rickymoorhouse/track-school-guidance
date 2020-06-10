@@ -2,14 +2,12 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
-1.  [Home](/){.govuk-breadcrumbs__link}
-2.  [Actions for educational and childcare settings to prepare for wider
-    opening from 1 June
-    2020](/government/publications/actions-for-educational-and-childcare-settings-to-prepare-for-wider-opening-from-1-june-2020){.govuk-breadcrumbs__link}
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
+during
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
 
 </div>
 
@@ -44,7 +42,7 @@ Opening schools for more children and young people: initial planning framework f
 
 </div>
 
-Updated 12 May 2020
+Updated 1 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -53,7 +51,7 @@ data-module="sticky-element-container">
 
 <div class="print-meta-data">
 
-![](https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
+![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
 © Crown copyright 2020
 
