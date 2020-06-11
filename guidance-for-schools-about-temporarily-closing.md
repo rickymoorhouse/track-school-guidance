@@ -2092,7 +2092,7 @@ work with their tour operator and/or insurance company. DfE will
 continue to review this position based on FCO and PHE advice.
 
 For more information, read [coronavirus travel advice for educational
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-travel-advice-for-educational-setting){.govuk-link}.
+settings](https://www.gov.uk/government/publications/coronavirus-covid-19-travel-advice-for-educational-settings){.govuk-link}.
 
 ### [17.7 ]{.number} Should schools allow external visitors?
 
