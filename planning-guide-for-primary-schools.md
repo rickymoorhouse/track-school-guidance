@@ -42,7 +42,7 @@ Planning guide for primary schools {#planning-guide-for-primary-schools .gem-c-t
 
 </div>
 
-Updated 4 June 2020
+Updated 15 June 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -71,48 +71,52 @@ Contents {#contents .gem-c-contents-list__title}
     maximum safe group
     size]{.gem-c-contents-list__numbered-text}](#familiarise-yourself-with-the-maximum-safe-group-size){.gem-c-contents-list__link
     .govuk-link}
-7.  [[4. ]{.gem-c-contents-list__number}[Creating and staffing your
+7.  [[4. ]{.gem-c-contents-list__number}[Inviting back additional
+    pupils, where there is
+    capacity]{.gem-c-contents-list__numbered-text}](#inviting-back-additional-pupils-where-there-is-capacity){.gem-c-contents-list__link
+    .govuk-link}
+8.  [[5. ]{.gem-c-contents-list__number}[Creating and staffing your
     temporary teaching
     groups]{.gem-c-contents-list__numbered-text}](#creating-and-staffing-your-temporary-teaching-groups){.gem-c-contents-list__link
     .govuk-link}
-8.  [[5. ]{.gem-c-contents-list__number}[Practical steps to reduce
+9.  [[6. ]{.gem-c-contents-list__number}[Practical steps to reduce
     risk]{.gem-c-contents-list__numbered-text}](#practical-steps-to-reduce-risk){.gem-c-contents-list__link
     .govuk-link}
-9.  [[6. ]{.gem-c-contents-list__number}[External support for SEND and
+10. [[7. ]{.gem-c-contents-list__number}[External support for SEND and
     behaviour]{.gem-c-contents-list__numbered-text}](#external-support-for-send-and-behaviour){.gem-c-contents-list__link
     .govuk-link}
-10. [[7. ]{.gem-c-contents-list__number}[Changes to routines for staff
+11. [[8. ]{.gem-c-contents-list__number}[Changes to routines for staff
     and
     pupils]{.gem-c-contents-list__numbered-text}](#changes-to-routines-for-staff-and-pupils){.gem-c-contents-list__link
     .govuk-link}
-11. [[8. ]{.gem-c-contents-list__number}[Communicating with
+12. [[9. ]{.gem-c-contents-list__number}[Communicating with
     staff]{.gem-c-contents-list__numbered-text}](#communicating-with-staff){.gem-c-contents-list__link
     .govuk-link}
-12. [[9. ]{.gem-c-contents-list__number}[Communicating with
+13. [[10. ]{.gem-c-contents-list__number}[Communicating with
     parents]{.gem-c-contents-list__numbered-text}](#communicating-with-parents){.gem-c-contents-list__link
     .govuk-link}
-13. [[10. ]{.gem-c-contents-list__number}[Managing pupil and staff
+14. [[11. ]{.gem-c-contents-list__number}[Managing pupil and staff
     wellbeing and mental
     health]{.gem-c-contents-list__numbered-text}](#managing-pupil-and-staff-wellbeing-and-mental-health){.gem-c-contents-list__link
     .govuk-link}
-14. [[11. ]{.gem-c-contents-list__number}[Planning what to teach, and
+15. [[11. ]{.gem-c-contents-list__number}[Planning what to teach, and
     how]{.gem-c-contents-list__numbered-text}](#planning-what-to-teach-and-how){.gem-c-contents-list__link
     .govuk-link}
-15. [[12. ]{.gem-c-contents-list__number}[Remote education during wider
+16. [[13. ]{.gem-c-contents-list__number}[Remote education during wider
     opening]{.gem-c-contents-list__numbered-text}](#remote-education-during-wider-opening){.gem-c-contents-list__link
     .govuk-link}
-16. [Frequently asked
+17. [Frequently asked
     questions](#frequently-asked-questions){.gem-c-contents-list__link
     .govuk-link}
-17. [Annex A: Behaviour
+18. [Annex A: Behaviour
     principles](#annex-a-behaviour-principles){.gem-c-contents-list__link
     .govuk-link}
-18. [Annex B: Principles for
+19. [Annex B: Principles for
     staff](#annex-b-principles-for-staff){.gem-c-contents-list__link
     .govuk-link}
-19. [Annex C: Posters](#annex-c-posters){.gem-c-contents-list__link
+20. [Annex C: Posters](#annex-c-posters){.gem-c-contents-list__link
     .govuk-link}
-20. [Annex D: List of things to consider
+21. [Annex D: List of things to consider
     acquiring](#annex-d-list-of-things-to-consider-acquiring){.gem-c-contents-list__link
     .govuk-link}
 
@@ -153,10 +157,9 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-This guidance has been updated to reflect the announcement by the Prime
-Minister that the government’s 5 tests have been met and the decision,
-based on all the evidence, to move forward with wider opening of
-education and childcare settings.
+This guidance has been updated to provide information on how primary
+schools can use flexibility to welcome back additional pupils this term,
+where they have capacity.
 
 </div>
 
@@ -417,9 +420,10 @@ do not expect those individuals to attend. They should be supported to
 work at home.
 
 Your staffing picture may change so you should update your audit
-frequently. Ask staff to update you immediately if their situation
-changes as you will need to base decisions on your most recent staff
-availability audit.
+frequently, including if you have capacity and you are considering
+inviting additional children back. Ask staff to update you immediately
+if their situation changes as you will need to base decisions on your
+most recent staff availability audit.
 
 #### What to consider when working out staff ratios {#section-2}
 
@@ -482,7 +486,69 @@ Vulnerable children and children of critical workers in other year
 groups should also be split into small groups of no more than 15. Where
 desks are used, they should be spaced as far apart as possible.
 
-[4. ]{.number} Creating and staffing your temporary teaching groups
+[4. ]{.number} Inviting back additional pupils, where there is capacity
+-----------------------------------------------------------------------
+
+We know that in some schools, there will be capacity to welcome more
+children back, in group sizes of no more than 15, before the summer
+holidays. This may be because take-up amongst eligible children is lower
+than expected, or because there is additional space still available
+within the school and available staff to teach and supervise. There is
+no expectation on primary schools to welcome back additional children
+where they do not have capacity to do so.
+
+Primary schools should only welcome back additional children where:
+
+-   they have already made provision available for children of critical
+    workers, vulnerable children, and children in nursery, reception,
+    year 1 and year 6 and have ensured as many as possible are able to
+    attend (especially for those who would particularly benefit from
+    being in school because of other disadvantage)
+-   they can accommodate more children while still following the
+    approaches set out in the protective measures guidance and their own
+    risk assessment
+-   they do not require additional funding, staff or classrooms to do
+    so. If schools have access to space on other school sites (for
+    example, local secondary schools, if that is feasible alongside the
+    secondary offer) they may use this, taking care to ensure children
+    stay in allocated groups. However, other community buildings (such
+    as village halls) should not be used to expand capacity this term,
+    while they remain closed in line with the government’s roadmap
+
+Where schools have capacity, they may choose to welcome back additional
+pupils. It is up to schools to decide which pupils to prioritise, based
+on their knowledge of their children and communities. They may choose to
+welcome back pupils in another year group. Where middle schools choose
+to invite year 8 pupils back, they should be confident they can manage
+this within the strict measures we have asked primary schools to adopt
+(including no more than 15 in a class, and consistency of these groups).
+
+We would encourage middle schools to ensure that the use of public
+transport to travel to and from school is minimised as far as possible,
+and where it is totally necessary, this should not be during peak times.
+They should also consider the potential risks inherent in broader social
+mixing outside school and communicate with pupils about not socialising
+with each other in groups outside school. They may also want to consider
+staggered starts and finishes.
+
+When deciding how to welcome additional pupils back before the summer,
+schools should consider how they will communicate to parents, including
+those with children in reception, year 1 or 6 who have not yet taken up
+their offer of a place. Schools should ascertain if those parents want
+to take up the offer, making it clear that if they indicate that they do
+not, or do not respond, schools may offer this capacity to another pupil
+in which case they won’t subsequently be able to take up a place this
+term. They should ensure they are still able to accommodate vulnerable
+children and children of critical workers.
+
+We know that many primary schools are keen to invite in pupils who are
+not returning to school at this time for face-to-face meetings, before
+the end of term. This time can be used to check-in on pupils, and ensure
+they are supported before a planned return to school from September.
+Where this happens, this contact needs to be in line with the current
+guidance on protective measures.
+
+[5. ]{.number} Creating and staffing your temporary teaching groups
 -------------------------------------------------------------------
 
 If you have answered yes to questions 4, 5, 6 and 7 in [section
@@ -583,7 +649,7 @@ You should encourage parents whose children have been invited in to call
 you each day if they are not coming in as normal, so you understand why
 and can discuss it with them if needed.
 
-[5. ]{.number} Practical steps to reduce risk
+[6. ]{.number} Practical steps to reduce risk
 ---------------------------------------------
 
 You should plan for putting in place protective measures to reduce
@@ -631,7 +697,7 @@ such that it can be eaten in the small group setting (for example taking
 cold or ‘packed’ lunches to children in the areas they are in for the
 day).
 
-[6. ]{.number} External support for SEND and behaviour
+[7. ]{.number} External support for SEND and behaviour
 ------------------------------------------------------
 
 Schools may normally work with external agencies to support pupils with
@@ -655,7 +721,7 @@ including those with SEND, who display symptoms of stress or anxiety and
 additional support may be needed for them. Schools should check with
 local authorities on their capacity to support with this.
 
-[7. ]{.number} Changes to routines for staff and pupils
+[8. ]{.number} Changes to routines for staff and pupils
 -------------------------------------------------------
 
 Ahead of opening for more pupils, schools will need to update their
@@ -733,7 +799,7 @@ by appointment, and ideally only one (unless for example, an interpreter
 or other support is required). Any such meetings should take place at a
 safe distance (and so the use of small offices may not be suitable).
 
-[8. ]{.number} Communicating with staff
+[9. ]{.number} Communicating with staff
 ---------------------------------------
 
 Undertake an online staff meeting before wider opening from the week
@@ -747,8 +813,8 @@ available to pick up on any issues or problems.
 Arrange regular opportunities to get feedback from staff on the new
 arrangements.
 
-[9. ]{.number} Communicating with parents
------------------------------------------
+[10. ]{.number} Communicating with parents
+------------------------------------------
 
 You should communicate with parents to make sure they know:
 
@@ -761,7 +827,11 @@ You should communicate with parents to make sure they know:
 You may also want to consider senior leaders calling parents in eligible
 groups to discuss with them directly, where this is feasible.
 
-[10. ]{.number} Managing pupil and staff wellbeing and mental health
+You may also need to communicate with parents if you have capacity and
+wish to invite additional children back (as covered in [section
+4](#inviting-back-additional-pupils-where-there-is-capacity){.govuk-link}).
+
+[11. ]{.number} Managing pupil and staff wellbeing and mental health
 --------------------------------------------------------------------
 
 The coronavirus (COVID-19) outbreak may have caused significant mental
@@ -907,7 +977,7 @@ Physical education lessons may continue to take place providing they are
 strictly non-contact and do not involve more than any one temporary
 group.
 
-[12. ]{.number} Remote education during wider opening
+[13. ]{.number} Remote education during wider opening
 -----------------------------------------------------
 
 Many schools will have been able to offer high-quality remote education
@@ -946,6 +1016,12 @@ to set the work, or teach via video link, while another adult, for
 example, your year 2 teacher(s), supervises the class. Any qualified
 teacher is qualified to teach any year group in a primary school,
 including reception.
+
+If you have capacity, only after you have made provision available for
+children of critical workers, vulnerable children, and children in
+nursery, reception, year 1 and 6, you can consider inviting additional
+children back, providing you can do so in line with the existing
+protective measures guidance.
 
 ### We normally run breakfast and after school clubs as part of our ‘wrap-around’ provision. Are we required to re-start them? {#we-normally-run-breakfast-and-after-school-clubs-as-part-of-our-wrap-around-provision--are-we-required-to-re-start-them}
 
