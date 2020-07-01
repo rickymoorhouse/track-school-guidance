@@ -2,6 +2,20 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
+<div
+class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+data-module="track-click">
+
+1.  [Home](/){.govuk-breadcrumbs__link}
+2.  [Coronavirus
+    (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
+3.  [Education and childcare during
+    coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
+4.  [Preparing for the wider opening of schools from 1
+    June](/government/publications/preparing-for-the-wider-opening-of-schools-from-1-june){.govuk-breadcrumbs__link}
+
+</div>
+
 <div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
@@ -923,9 +937,9 @@ be discouraged from sharing these.
 Children should be taught to wash their hands frequently, but
 particularly after using wheeled bikes, trikes and other large, movable
 toys. Children should be encouraged where possible not to touch their
-faces or to put objects in their mouths. Sharing stories, singing and
-playing outdoor games will help all children to socialise and resettle
-into familiar everyday classroom routines.
+faces or to put objects in their mouths. Sharing stories and playing
+outdoor games will help all children to socialise and resettle into
+familiar everyday classroom routines.
 
 We have amended legislation to allow for the temporary disapplying and
 modifying of a number of requirements within the early years foundation
