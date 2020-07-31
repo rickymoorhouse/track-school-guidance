@@ -2,12 +2,28 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
+<div
+class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+data-module="track-click">
+
+1.  [Home](/){.govuk-breadcrumbs__link}
+2.  [Coronavirus
+    (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
+3.  [Education and childcare during
+    coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
+4.  [Coronavirus (COVID-19): implementing protective measures in
+    education and childcare
+    settings](/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings){.govuk-breadcrumbs__link}
+
+</div>
+
 <div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
 [Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
 during
-coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title
+.govuk-link}
 
 </div>
 
@@ -758,17 +774,20 @@ guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in
 
 ### What happens if there is a confirmed case of coronavirus (COVID-19) in a setting?
 
-When a child, young person or staff member develops symptoms compatible
-with coronavirus (COVID-19), they should be sent home and advised to
-self-isolate for 7 days and arrange to have a test to see if they have
-COVID-19. They can do this by visiting
-[NHS.UK](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/ask-for-a-test-to-check-if-you-have-coronavirus/){.govuk-link}
-to arrange or contact NHS 119 via telephone if they do not have internet
-access. Their fellow household members should self-isolate for 14 days.
-All staff and students who are attending an education or childcare
-setting will have access to a test if they display symptoms of
-coronavirus (COVID-19), and are encouraged to get tested in this
-scenario.
+When a child, young person or staff member develops symptoms of
+coronavirus (COVID-19): a high temperature, new and persistent cough or
+a loss of, or change in, normal sense of taste or smell (anosmia),
+however mild, they must self-isolate for at least 10 days from when the
+symptoms started; or if they are not experiencing symptoms but have
+tested positive for coronavirus (COVID-19) they must self-isolate for at
+least 10 days starting from the day the test was taken.
+
+If they have tested positive whilst not experiencing symptoms, but
+develop symptoms during the isolation period, they must restart the 10
+day isolation period from the day they develop symptoms.
+
+This only applies to those who begin their isolation on or after 30 July
+2020.
 
 Where the child, young person or staff member tests negative, they can
 return to their setting and the fellow household members can end their
@@ -805,8 +824,8 @@ cough, or a loss of, or change in, their normal sense of taste or smell
 (anosmia), they are advised to follow the [COVID-19: guidance for
 households with possible coronavirus (COVID-19) infection
 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
-(which states that the ill person should remain in isolation for 7 days
-and the rest of the household in isolation for 14 days).
+(which states that the ill person should remain in isolation for at
+least 10 days and the rest of the household in isolation for 14 days).
 
 ### Will children and young people be eligible for testing?
 

@@ -2,12 +2,29 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
+<div
+class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+data-module="track-click">
+
+1.  [Home](/){.govuk-breadcrumbs__link}
+2.  [Coronavirus
+    (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
+3.  [Education and childcare during
+    coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
+4.  [Closures, exams and managing a school or early years setting during
+    coronavirus](/coronavirus-taxon/closures-exams-managing-school){.govuk-breadcrumbs__link}
+5.  [Safe working in education, childcare and children’s social
+    care](/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.govuk-breadcrumbs__link}
+
+</div>
+
 <div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
 data-module="track-click">
 
 [Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
 during
-coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
+coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title
+.govuk-link}
 
 </div>
 
@@ -42,7 +59,7 @@ Safe working in education, childcare and children’s social care settings, incl
 
 </div>
 
-Published 14 May 2020
+Updated 21 July 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -53,10 +70,12 @@ class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
 Contents {#contents .gem-c-contents-list__title}
 --------
 
-1.  [Effective infection protection and
+1.  [Main changes to previous
+    guidance](#main-changes-to-previous-guidance){.gem-c-contents-list__link
+    .govuk-link}
+2.  [Effective infection protection and
     control](#effective-infection-protection-and-control){.gem-c-contents-list__link
     .govuk-link}
-2.  [Testing](#testing){.gem-c-contents-list__link .govuk-link}
 3.  [How to work safely in specific situations, including where PPE may
     be
     required](#how-to-work-safely-in-specific-situations-including-where-ppe-may-be-required){.gem-c-contents-list__link
@@ -82,16 +101,17 @@ Contents {#contents .gem-c-contents-list__title}
     complex medical needs, such as
     tracheostomies?](#what-specific-steps-should-be-taken-to-care-for-children-with-complex-medical-needs-such-as-tracheostomies){.gem-c-contents-list__link
     .govuk-link}
-10. [How should I care for children who regularly
-    spit?](#how-should-i-care-for-children-who-regularly-spit){.gem-c-contents-list__link
+10. [How should I care for children who regularly spit or require
+    physical
+    contact?](#how-should-i-care-for-children-who-regularly-spit-or-require-physical-contact){.gem-c-contents-list__link
     .govuk-link}
 11. [In non-residential settings, what should be done if a child, young
     person or other learner becomes unwell with symptoms of coronavirus
-    and needs to be cared for until they can return
-    home?](#in-non-residential-settings-what-should-be-done-if-a-child-young-person-or-other-learner-becomes-unwell-with-symptoms-of-coronavirus-and-needs-to-be-cared-for-until-they-can-return-home){.gem-c-contents-list__link
+    (COVID-19) and needs to be cared for until they can return
+    home?](#in-non-residential-settings-what-should-be-done-if-a-child-young-person-or-other-learner-becomes-unwell-with-symptoms-of-coronavirus-covid-19-and-needs-to-be-cared-for-until-they-can-return-home){.gem-c-contents-list__link
     .govuk-link}
-12. [What protection is needed when transporting
-    children?](#what-protection-is-needed-when-transporting-children){.gem-c-contents-list__link
+12. [What protection is needed when settings organise transport for
+    children?](#what-protection-is-needed-when-settings-organise-transport-for-children){.gem-c-contents-list__link
     .govuk-link}
 13. [What care should be taken in early years
     settings?](#what-care-should-be-taken-in-early-years-settings){.gem-c-contents-list__link
@@ -100,12 +120,20 @@ Contents {#contents .gem-c-contents-list__title}
     care for
     babies?](#is-ppe-required-for-tasks-involving-changing-nappies-or-general-care-for-babies){.gem-c-contents-list__link
     .govuk-link}
-15. [How should I care for young children or children with special
+15. [Does coronavirus (COVID-19) mean that PPE is needed for
+    administering first
+    aid?](#does-coronavirus-covid-19-mean-that-ppe-is-needed-for-administering-first-aid){.gem-c-contents-list__link
+    .govuk-link}
+16. [Does coronavirus (COVID-19) mean that air conditioning should not
+    be
+    used?](#does-coronavirus-covid-19-mean-that-air-conditioning-should-not-be-used){.gem-c-contents-list__link
+    .govuk-link}
+17. [How should I care for young children or children with special
     educational needs who do not understand why they must stay apart or
     who ignore distancing
     guidelines?](#how-should-i-care-for-young-children-or-children-with-special-educational-needs-who-do-not-understand-why-they-must-stay-apart-or-who-ignore-distancing-guidelines){.gem-c-contents-list__link
     .govuk-link}
-16. [How should PPE and face coverings be disposed
+18. [How should PPE and face coverings be disposed
     of?](#how-should-ppe-and-face-coverings-be-disposed-of){.gem-c-contents-list__link
     .govuk-link}
 
@@ -144,70 +172,110 @@ data-module="govspeak">
 
 <div class="govspeak">
 
-This guidance applies to staff working in education, childcare and
-children’s social care settings in England, the children, young people
-and learners who attend these settings and their parents or carers.
+This guidance applies to:
+
+-   staff working in education, childcare and children’s social care
+    settings in England
+-   children, young people and learners who attend these settings
+-   their parents or carers
 
 It explains the strategy for infection prevention and control, including
-the specific circumstances PPE should be used, and thus work safely
-during the coronavirus (COVID-19) outbreak.
+the specific circumstances in which PPE should be used, to enable safe
+working during the coronavirus (COVID-19) outbreak. If something is
+essential for public health reasons, as advised by Public Health England
+(PHE), this guidance uses the term ‘must’. This guidance does not create
+any new legal obligations.
+
+Main changes to previous guidance
+---------------------------------
+
+We have updated this guidance to:
+
+-   align with updates to guidance for schools, further education
+    institutions and early years providers on the system of controls
+-   provide guidance on sourcing PPE via public sector buying
+    organisations and the Crown Commercial Service (CCS) PPE website in
+    addition to local procurement routes
+-   reflect updated content on the NHS test and trace system and include
+    a link to information on how to contact local Public Health England
+    health protection teams
+-   clarify that where a fluid-resistant mask is referenced relating to
+    PPE, this means a type IIR mask
+-   clarify that the same standard of PPE should be used where a child
+    has tested positive for coronavirus (COVID-19) and needs to continue
+    to be cared for within a setting
+-   clarify the need and whose responsibility it is to book a test when
+    an individual displays symptoms of coronavirus (COVID-19)
+-   clarify that there are no additional PPE requirements because of
+    coronavirus (COVID-19) for non-symptomatic children in residential
+    settings who have been in contact with a positive case of COVID-19
+-   provide further guidance on aerosol generating procedures (AGPs)
+-   link to Health and Safety Executive guidance on air conditioning and
+    ventilation
+-   align with updates to guidance on waste disposal and cleaning of
+    non-healthcare settings
 
 Effective infection protection and control
 ------------------------------------------
 
 There are important actions that children and young people, their
-guardians and those who work with them can take during the coronavirus
-outbreak to help prevent the spread of the virus.
+parents and carers, and those who work with them, can take during the
+coronavirus (COVID-19) outbreak to help prevent the spread of the virus.
 
-Transmission of coronavirus mainly occurs via respiratory droplets
-generated during breathing, talking, coughing and sneezing. These
-droplets can directly infect the respiratory tracts of other people if
-there is close contact. They also infect others indirectly. This happens
-when the droplets get onto and contaminate surfaces which are then
-touched and introduced into the mouth or eyes of an uninfected person.
-Another route of transmission is via aerosols (extremely small
-droplets), but this is only relevant to medical procedures for a very
-small number of children in education and social care settings.
+Transmission of coronavirus (COVID-19) mainly occurs through respiratory
+droplets generated during breathing, talking, coughing and sneezing.
+These droplets can directly infect the respiratory tracts of other
+people if there is close contact. They also infect others indirectly.
+This happens when the droplets get onto and contaminate surfaces, which
+are then touched and introduced into the mouth or eyes of an uninfected
+person. Another route of transmission is through aerosols (extremely
+small droplets), but this is only relevant to medical procedures for a
+very small number of children in education and social care settings.
 
 In all education, childcare and children’s social care settings,
-preventing the spread of coronavirus involves preventing:
+preventing the spread of coronavirus (COVID-19) involves preventing:
 
 -   direct transmission, for instance, when in close contact with those
     sneezing and coughing
 -   indirect transmission, for instance, touching contaminated surfaces
 
-A range of approaches and actions should be employed. These can be seen
-as a hierarchy of controls that, when implemented, creates an inherently
-safer system where the risk of transmission of infection is
-substantially reduced. These include:
+A range of protective measures must be employed to reduce the risk of
+transmission of the infection. These can be seen as a system of controls
+that, when implemented, creates an inherently safer system in which the
+risk of transmission of infection is substantially reduced. These
+controls are as follows.
 
 ### [1. ]{.number} Minimise contact with individuals who are unwell
 
-If you have, or are showing symptoms of, coronavirus (a new continuous
-cough, or fever, or a loss of, or change in, your normal sense of taste
-or smell (anosmia)), or have someone in your household who is, you
-should not be in a childcare setting, school or college. You should be
-at home, in line with the [guidance for households with possible
-coronavirus
-infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link},
-and [arrange to have a test to check if you have
-coronavirus](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}.
+If you have, or are showing symptoms of, coronavirus (COVID-19) (a new
+continuous cough, a high temperature, or a loss of, or change in, your
+normal sense of taste or smell - anosmia), or have someone in your
+household who is, you should not be in a childcare setting, school or
+college. You should be at home, in line with the [guidance for
+households with possible coronavirus
+infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
 
-When working with children in residential schools and homes, you should
-follow the [guidance on isolation for residential educational
+Children in residential schools and care homes who develop symptoms
+should be cared for in line with the [guidance on isolation for
+residential educational
 settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}.
 
-### [2. ]{.number} Clean your hands often
+If you have symptoms you should arrange to have a test to check if you
+have coronavirus.
+
+### [2. ]{.number} Clean your hands thoroughly more often than usual
 
 Clean your hands more often than usual, particularly after arriving at
-your setting, touching your face, blowing your nose, sneezing or
-coughing, and before eating or handling food.
+your setting, when returning from breaks, when changing rooms, and
+before and after eating or handling food, as well as after touching your
+face, blowing your nose and sneezing or coughing.
 
-To clean your hands you should wash your hands thoroughly for 20 seconds
-with running water and soap and dry them thoroughly, or use alcohol hand
-rub/sanitiser ensuring that all parts of the hands are covered.
+To clean your hands, you should wash your hands thoroughly for 20
+seconds with running water and soap and dry them thoroughly, or use
+alcohol hand rub/sanitiser ensuring that all parts of the hands are
+covered.
 
-### [3. ]{.number} Respiratory hygiene (catch it, bin it, kill it)
+### [3. ]{.number} Ensure good respiratory hygiene by promoting the ‘catch it, bin it, kill it’ approach
 
 Avoid touching your mouth, eyes and nose. Cover your mouth and nose with
 disposable tissues when you cough or sneeze. If one is not available,
@@ -215,118 +283,152 @@ sneeze into the crook of your elbow, not into your hand. Dispose of
 tissues into a disposable rubbish bag and immediately clean your hands
 with soap and water or use a hand sanitiser.
 
-### [4. ]{.number} Clean surfaces that are touched frequently
+### [4. ]{.number} Introduce enhanced cleaning, including cleaning frequently touched surfaces often using standard products, such as detergents and bleach
 
-To prevent the indirect spread of the virus from person to person,
-regularly clean frequently-touched surfaces, such as:
+Cleaning should be generally enhanced, including:
 
--   door handles
--   handrails
--   table tops
--   play equipment
--   toys
--   electronic devices (such as phones)
+-   more frequent cleaning of rooms or shared areas that are used by
+    different groups
+-   cleaning frequently touched surfaces more often than normal, such
+    as:
+    -   door handles
+    -   handrails
+    -   table tops
+    -   play equipment
+    -   toys
+    -   electronic devices (such as phones)
 
-When cleaning, use the usual products, like detergents and bleach, as
-these will be very effective at getting rid of the virus on surfaces.
+When cleaning, use the usual products, like detergents and bleach,
+because these are very effective at getting rid of the virus on
+surfaces.
 
 All education, childcare and children’s social care settings should
-follow the Public Health England (PHE) [guidance on cleaning for
-non-healthcare
+follow the [PHE guidance on cleaning for non-healthcare
 settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
-### [5. ]{.number} Minimise contact and mixing
+### [5. ]{.number} Minimise contact between individuals and maintain distancing wherever possible
 
 You should, as much as possible, alter the environment of your setting
 (such as classroom layout) and your timetables (such as staggered break
 time) to minimise contact and mixing.
 
-### [6. ]{.number} Personal protective equipment (PPE)
+### [6. ]{.number} Where necessary, wear PPE
 
-The majority of staff in education, childcare and children’s social care
-settings will not require PPE beyond what they would normally need for
-their work, even if they are not always able to maintain distance of 2
+Most staff in education, childcare and children’s social care settings
+will not require PPE beyond what they would normally need for their
+work, even if they are not always able to maintain a distance of 2
 metres from others.
 
-PPE is only needed in a very small number of cases:
+PPE is only needed in a very small number of cases if:
 
--   children, young people and learners whose care routinely already
-    involves the use of PPE due to their intimate care needs should
-    continue to receive their care in the same way
--   PPE should be worn if a distance of 2 metres cannot be maintained
-    from any child, young person or other learner displaying coronavirus
-    symptoms
+-   an individual child, young person or other learner becomes ill with
+    coronavirus (COVID-19) symptoms and only then if a distance of 2
+    metres cannot be maintained
+-   a child, young person or learner already has routine intimate care
+    needs that involve the use of PPE, in which case the same PPE should
+    continue to be used
 
 Education, childcare and children’s social care settings and providers
-should use their local supply chains to obtain PPE.
+are responsible for sourcing their own PPE. Read [technical
+specifications for personal protective equipment
+(PPE)](https://www.gov.uk/government/publications/technical-specifications-for-personal-protective-equipment-ppe){.govuk-link}.
 
-If education or childcare settings cannot obtain the PPE they need they
-should approach their local authority (LA). Local authorities should
-support them to access local PPE markets and available stock locally,
-including through coordinating the redistribution of available supplies
-between settings according to priority needs.
+In addition to existing procurement routes, settings and local
+authorities can source PPE and cleaning products through the [Crown
+Commercial Service (CCS) safer working supplies
+website](https://www.crowncommercial.gov.uk/covid-19/covid-19-buyer-information/safer-working-supplies/){.govuk-link}.
+Suppliers and products listed on this website meet standards set out by
+the Department of Health and Social Care. Products purchased through
+this route will not detract from supply available to medical settings.
+In addition, public sector buying organisations have pre-existing
+experience and relationships across the education, childcare and
+children’s social care sectors. Some of these organisations have
+e-catalogues offering PPE and cleaning products. They include:
 
-If the LA is not able to meet the PPE needs of education and childcare
-providers, the LA should approach their nearest local resilience forum
-(LRF) which will allocate stock if it is available once the needs of
-other vital services locally have been met. If neither the LA or LRF is
-able to respond to an education or childcare setting’s unmet urgent need
-for PPE, they will need to make their own judgement in line with their
-risk assessment as to whether it is safe to continue to operate.
+-   [ESPO](https://www.espo.org/catalogue){.govuk-link}
+-   [YPO](https://www.ypo.co.uk/products){.govuk-link}
+-   [NEPO](https://www.nepo.org/associate-membership){.govuk-link}
+
+If education or childcare settings cannot obtain the PPE, they need they
+should approach their local authority. Local authorities should support
+them to access PPE suppliers and available stock locally, including
+through coordinating the redistribution of available supplies between
+settings according to priority needs.
+
+If the local authority is not able to meet the PPE needs of education
+and childcare providers, it should approach its nearest local resilience
+forum (LRF), which will allocate stock if it is available once the needs
+of other vital services locally have been met. If neither the local
+authority or LRF are able to respond to an education or childcare
+setting’s unmet urgent need for PPE, they will need to make their own
+judgement in line with their risk assessment as to whether it is safe to
+continue to operate.
 
 If children’s homes, secure children’s homes, residential special
 schools, or other children’s social care settings have an unmet urgent
 need for PPE in order to operate safely they should approach their local
 resilience forum.
 
-Testing
--------
+#### 7. Engage with the NHS test and trace process and respond rapidly to confirmed cases
 
-Access to [testing is already available to all essential
-workers](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested#essential-workers){.govuk-link}.
-This includes anyone involved in education, childcare or social work -
-including both public and voluntary sector workers, as well as foster
-carers. Education settings, as employers, can [book tests through an
-online digital
-portal](https://www.gov.uk/apply-coronavirus-test){.govuk-link}. There
-is also an option for employees to book tests directly on the portal.
+Education, childcare and children’s social care settings and providers
+must ensure they understand the [NHS test and trace
+process](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}
+so that they know how to respond if anyone within the setting is
+suspected or confirmed to have coronavirus (COVID-19). They must also
+know how to contact their local [PHE health protection
+team](https://www.gov.uk/guidance/contacts-phe-health-protection-teams){.govuk-link},
+and do so as soon as they have a confirmed case or an overall rise in
+suspected cases.
 
-When settings open to wider cohorts of children and young people, all
-children, young people and other learners eligible to attend their
-education or childcare setting, and all children in social care
-settings, as well as their households, will have access to a test if
-they display symptoms of coronavirus. Visit the [guidance on coronavirus
-testing and how to arrange to have a
-test](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}.
+Anyone who displays symptoms of coronavirus (COVID-19) can and should
+get a test. Tests can be booked on the [NHS testing and tracing for
+coronavirus
+website](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}
+or ordered by telephone via NHS 119. Essential workers, which includes
+anyone involved in education, childcare or social work, and their
+households, have [priority access to
+testing](https://www.gov.uk/apply-coronavirus-test-essential-workers){.govuk-link}.
 
-If they develop symptoms, they should be tested. If they test negative,
-they can return to their setting and their fellow household members can
-end their self-isolation. If they test positive, education and childcare
-settings should follow [guidance on implementing protective measures in
-education and childcare
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings/coronavirus-covid-19-implementing-protective-measures-in-education-and-childcare-settings#additional-questions){.govuk-link}.
-Residential settings should follow [isolation guidance for residential
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}.
+Settings must take swift action when they become aware that someone who
+has attended has tested positive for coronavirus (COVID-19). Based on
+the advice from their local [PHE health protection
+team](https://www.gov.uk/guidance/contacts-phe-health-protection-teams){.govuk-link},
+settings must ask those people who have been in close contact with the
+person who has tested positive to self-isolate for 14 days since they
+were last in close contact with that person when they were infectious.
+
+Further guidance is available on [NHS test and
+trace](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/){.govuk-link},
+and there is specific guidance for [schools, further education
+institutions](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools){.govuk-link}
+and [early years
+providers](https://www.gov.uk/government/publications/coronavirus-covid-19-early-years-and-childcare-closures/coronavirus-covid-19-early-years-and-childcare-closures){.govuk-link}.
 
 How to work safely in specific situations, including where PPE may be required
 ------------------------------------------------------------------------------
 
 Reference to PPE in the following situations means:
 
--   fluid-resistant surgical face masks
+-   fluid-resistant surgical face masks (also known as Type IIR)
 -   disposable gloves
 -   disposable plastic aprons
 -   eye protection (for example a face visor or goggles)
 
-Where PPE is recommended, this means that:
+The PPE that should be used in the following situations when caring for
+someone with symptoms of coronavirus (COVID-19) is:
 
--   a facemask should be worn if a distance of 2 metres cannot be
-    maintained from someone with symptoms of coronavirus
--   if contact is necessary, then gloves, an apron and a facemask should
-    be worn
--   if a risk assessment determines that there is a risk of fluids
-    entering the eye from, for example, coughing, spitting or vomiting,
-    then eye protection should also be worn
+-   a face mask should be worn if a distance of 2 metres cannot be
+    maintained
+-   if contact is necessary, then gloves, an apron and a face mask
+    should be worn
+-   eye protection if a risk assessment determines that there is a risk
+    of fluids entering the eye, for example, from coughing, spitting or
+    vomiting
+
+If a child tests positive for coronavirus (COVID-19) and needs to remain
+in a residential setting, the same type and level of PPE as above should
+be used.
 
 When PPE is used, it is essential that it is used properly. This
 includes scrupulous hand hygiene and following guidance on [how to put
@@ -347,51 +449,86 @@ Face masks must:
 What care should be taken in residential settings, including residential schools, residential special schools and children’s care homes?
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Residential settings in which no one is showing symptoms should respond
-to coronavirus like any other domestic household. However, it is
-important that soft toys are not shared between children.
+Residential settings in which no one is showing symptoms should operate
+like any other domestic household. However, it is important that soft
+toys are not shared between children.
 
-Where a child in a residential setting develops symptoms of coronavirus:
+If a child in a residential setting develops symptoms of coronavirus
+(COVID-19):
 
+-   a test should be booked immediately to confirm whether the child has
+    coronavirus (COVID-19)
+-   the [isolation guidance for residential
+    settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}
+    should be followed, including being clear on what a ‘household’ is
+    in your residential setting
+-   they should self-isolate, avoiding contact with other members of the
+    ‘household’ as much as possible
+-   all other children living in the ‘household’ should also
+    self-isolate in line with [guidance for households with possible or
+    confirmed coronavirus (COVID-19)
+    infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection){.govuk-link}
 -   staff can continue to enter and leave the home as required,
     consistent staff rotas should be used where possible and staff
     should follow good infection prevention control
--   the [isolation guidance for residential
-    settings](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-on-isolation-for-residential-educational-settings){.govuk-link}
-    should be followed
 -   staff should wear PPE for activities requiring close contact
--   staff should adhere to social distancing guidelines as far as they
-    are able to, but should take account of children’s emotional needs
+-   staff should adhere to distancing guidelines as far as they are able
+    to but should take account of children’s emotional needs
+
+If a child with symptoms gets a test and the result is positive:
+
+-   the setting should contact their local [PHE health protection
+    team](https://www.gov.uk/guidance/contacts-phe-health-protection-teams){.govuk-link}
+    immediately and follow their advice
+-   staff should wear PPE for activities requiring close contact
+
+If a child who has been in close contact with someone who has tested
+positive for coronavirus (COVID-19) is self-isolating within a
+residential setting, no additional PPE is required to be worn by staff
+caring for the child unless the child themselves develops symptoms and
+close contact is necessary.
 
 What care should be taken in foster care settings?
 --------------------------------------------------
 
-Foster homes in which no one is showing symptoms of coronavirus should
-respond to coronavirus like any other domestic household. This should
-not prevent the delivery of care to children.
+Foster homes in which no one is showing symptoms of coronavirus
+(COVID-19) should behave like any other domestic household.
 
 If foster carers are caring for a child who develops symptoms of
-coronavirus, their fostering service should:
+coronavirus (COVID-19), they should self-isolate in line with [guidance
+for households with possible or confirmed coronavirus (COVID-19)
+infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection){.govuk-link}
+and notify the child’s social worker. The social worker should liaise
+with the fostering service to:
 
 -   assess the ability of the carer to continue to deliver care to the
     child
--   ensure the foster home follows the [guidance for
+-   ensure that the foster home follows the [guidance for
     households](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
     to avoid the spread of infection
 -   consult the foster carer on how best to protect themselves and the
     child
+-   arrange for the child to get tested through [essential workers: get
+    a test today to check if you have
+    coronavirus](https://www.gov.uk/apply-coronavirus-test-essential-workers){.govuk-link},
+    which gives priority access to tests for essential workers and their
+    households
 
-If foster carers develop symptoms of coronavirus, their fostering
-service should:
+If foster carers develop symptoms of coronavirus (COVID-19), their
+fostering service should:
 
 -   assess the ability of the carer to continue to deliver care to the
     child
--   ensure the foster home follows the [guidance for
+-   ensure that the foster home follows the [guidance for
     households](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
     to avoid the spread of infection
 -   if additional support is needed for the carer or child, ensure that
     staff providing this care are provided with PPE prior to entering
     the home and follow the guidance below on home visiting
+-   direct the foster carer to book a test through [essential workers:
+    get a test today to check if you have
+    coronavirus](https://www.gov.uk/apply-coronavirus-test-essential-workers){.govuk-link},
+    which gives priority access to tests for essential workers
 
 Foster carers are able to request PPE from their fostering service
 provider, if needed, in line with [guidance for local authorities on
@@ -401,9 +538,16 @@ care](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-f
 What care should staff visiting families in their own homes take?
 -----------------------------------------------------------------
 
-Social workers, other children’s social care staff and anyone else
-considering the need for a home visit should follow the [children’s
-social care services
+We expect social workers to make face to face visits wherever possible.
+
+An initial risk assessment by telephone may be helpful.
+
+In cases where households are being required to self-isolate due to a
+case, or suspected case, of coronavirus (COVID-19), or contact with
+someone who has tested positive for coronavirus (COVID-19), social
+workers, other children’s social care staff and anyone else considering
+the need for a home visit should follow the [children’s social care
+services
 guidance](https://www.gov.uk/government/publications/coronavirus-covid-19-guidance-for-childrens-social-care-services){.govuk-link}
 and make a judgement about visiting which balances considerations of
 the:
@@ -417,33 +561,23 @@ the:
 Staff and their managers are best placed to make professional judgements
 of risk in each case and decide what form of contact they need.
 
-There are many ways to keep in touch with a child, young person or
-family without physical face-to-face contact. It is expected that these
-will be utilised appropriately and proportionately, including in
-response to any risk assessment undertaken for the child on a case by
-case basis.
-
-Prior to undertaking a visit, an attempt should be made to ascertain
-whether any member of the household is suffering from symptoms of
-coronavirus. An initial [risk
-assessment](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-personal-protective-equipment-ppe#section-7){.govuk-link},
-where possible, should take place by telephone.
-
-Where households report no coronavirus symptoms, no PPE is required, but
-a distance of 2 metres should be maintained where possible. Where this
-is not possible, you should undertake a [risk
+If households report no coronavirus (COVID-19) symptoms, no PPE is
+required, but a distance of 2 metres should be maintained where
+possible. If this is not possible, you should undertake a [risk
 assessment](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-personal-protective-equipment-ppe#section-7){.govuk-link}.
 Good basic hygiene should be followed, such as handwashing or use of
 sanitiser before and after the visit, and not touching your face during
 the visit.
 
-Where households are reporting coronavirus symptoms, PPE should be worn
-if a distance of 2 metres cannot be maintained.
+If households are reporting coronavirus (COVID-19) symptoms, PPE should
+be worn if a distance of 2 metres cannot be maintained. Anyone
+displaying symptoms should be encouraged to [book a
+test](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested){.govuk-link}.
 
-Where it is not possible to ascertain whether any member of the
-household is suffering from symptoms of coronavirus prior to face to
-face contact, steps should be taken where practical, to mitigate risk.
-These steps include but are not restricted to:
+If it is not possible to find out whether any member of the household is
+suffering from symptoms of coronavirus (COVID-19) before face to face
+contact, steps should be taken where practical to mitigate risk. These
+steps include but are not restricted to:
 
 -   knocking on the front door or ringing the doorbell and then stepping
     back to a distance of 2 metres in adherence to social distancing
@@ -453,17 +587,32 @@ These steps include but are not restricted to:
 Should social care visits to extremely clinically vulnerable children and young people continue?
 ------------------------------------------------------------------------------------------------
 
-Extra care should be taken visiting children and young people who are
-extremely clinically vulnerable and so are at very high risk of severe
-illness from coronavirus because of an underlying health condition. They
-should follow [shielding
-guidelines](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link}
-and stay at home at all times and avoid face-to-face contact where
-possible.
+From 1 August 2020, the vast majority of children and young people who
+have been previously identified as ‘clinically extremely vulnerable’
+will no longer need to shield. However, there will be a small number of
+children and young people who will still be shielding because they are
+following clinical advice after consultation with their specialist
+health professional.
 
-Coronavirus brings additional risk and complexity to social work
-practice and may necessitate some different ways of working which should
-always be risk-based.
+Read [guidance on shielding and protecting people who are clinically
+extremely vulnerable from
+COVID-19](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19){.govuk-link}.
+
+Any social care workers who need to visit and support a clinically
+vulnerable child or young person in their home can continue to visit
+unless they have any of the symptoms of coronavirus (COVID-19).
+
+Extra care should be taken in the event that a social care visit is
+required to a child or young person who is extremely clinically
+vulnerable and so are at very high risk of severe illness from
+coronavirus (COVID-19) because of an underlying health condition.
+
+Good basic hygiene should be followed, such as handwashing or use of
+sanitiser before and after the visit, and not touching your face during
+the visit.
+
+Staff should also follow social distancing guidance where this is
+possible.
 
 Visits to provide essential support such as social care or personal care
 should continue only following a robust risk assessment.
@@ -481,52 +630,87 @@ What specific steps should be taken to care for children with complex medical ne
 There are a small number of medical procedures which increase the risk
 of transmission through aerosols (tiny droplets) being transferred from
 the patient to the care giver. These are known as aerosol generating
-procedures (AGPs). Within education and children’s social care settings
+procedures (AGPs). Within education and children’s social care settings,
 these are only undertaken for a very small number of children with
 complex medical needs, such as those receiving tracheostomy care.
 
-Staff performing AGPs in these settings should follow Public Health
-England’s [personal protective equipment (PPE) guidance on aerosol
-generating
+Staff performing AGPs in these settings should follow PHE’s [personal
+protective equipment (PPE) guidance on aerosol generating
 procedures](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-personal-protective-equipment-ppe#ppe-guidance-by-healthcare-context){.govuk-link},
-and wear the correct PPE which is:
+and wear the correct PPE, which is:
 
 -   a FFP2/3 respirator
 -   gloves
 -   a long-sleeved fluid repellent gown
 -   eye protection
 
-The respirator required for AGPs must be fitted correctly (known as ‘fit
-testing’) by an individual trained to do this. Staff in education and
-children’s social care settings that need support with fit testing
-should contact the appropriate health lead for the child/young person.
-This could be either via the Designated Clinical Officer for SEND for
-support from the local Clinical Commissioning Group, or via the lead
-nursing team in the health provider.
+The respirator required for AGPs must be fitted by someone trained to do
+so. This is known as ‘fit testing’. Staff in education and children’s
+social care settings who need support with fit testing should contact
+the appropriate health lead for the child or young person. This could be
+through either the Designated Clinical Officer for SEND for support from
+the local clinical commissioning group, or the lead nursing team at the
+health provider.
 
-How should I care for children who regularly spit?
---------------------------------------------------
+Children and young people should be taken from the classroom or shared
+area for any AGP to be carried out in a designated room with the doors
+closed and any windows open. If this is not possible, for example in
+children and young people who require sporadic care, such as urgent
+tracheostomy tube suction, individual risk assessments should be carried
+out. In all instances, efforts should be made to:
+
+-   ensure that only staff who are needed to undertake the procedure are
+    present and that no other children or young people are in the room
+-   minimise clutter to make the process of cleaning the room as
+    straightforward as possible
+-   clean all surfaces and ventilate the room following a procedure and
+    before anyone not wearing appropriate PPE enters. Clearance of
+    infectious particles after an AGP is dependent on the ventilation
+    and air change within the room. For a room without ventilation, this
+    may take an hour
+
+How should I care for children who regularly spit or require physical contact?
+------------------------------------------------------------------------------
 
 If non-symptomatic children present behaviours which may increase the
-risk of droplet transmission (such as spitting), they should continue to
-receive care in the same way, including any existing routine use of PPE.
+risk of droplet transmission (such as biting, licking, kissing or
+spitting) or require care that cannot be provided without close hands-on
+contact, they should continue to receive care in the same way, including
+any existing routine use of PPE.
 
-To reduce the risk of coronavirus transmission, no additional PPE is
-necessary, but additional space and frequent cleaning of surfaces,
-objects and toys will be required. Cleaning arrangements should be
-increased in all settings, with a specific focus on surfaces which are
-touched a lot. Read [guidance on cleaning for non-healthcare
+The issues will be specific to each child or young person and individual
+responses will be required. Staff should review and update existing risk
+assessments.
+
+In these circumstances, to reduce the risk of coronavirus (COVID-19)
+transmission, no additional PPE is necessary because these are
+non-symptomatic children in a non-healthcare setting and so the risk of
+viral transmission is very low. However, additional space and frequent
+cleaning of surfaces, objects and toys will be required. Cleaning
+arrangements should be increased in all settings, with a specific focus
+on surfaces which are touched a lot.
+
+Read guidance on [cleaning for non-healthcare
 settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
-In non-residential settings, what should be done if a child, young person or other learner becomes unwell with symptoms of coronavirus and needs to be cared for until they can return home?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In non-residential settings, what should be done if a child, young person or other learner becomes unwell with symptoms of coronavirus (COVID-19) and needs to be cared for until they can return home?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If anyone in an education, childcare or non-residential children social
-care setting becomes unwell with a new, continuous cough or a high
-temperature, or has a loss of, or change in, their normal sense of taste
-of smell, they must be sent home and advised to follow the [guidance for
-households with possible coronavirus
-infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}.
+care setting develops symptoms of coronavirus (COVID-19): a high
+temperature, new and persistent cough or a loss of, or change in, normal
+sense of taste or smell (anosmia), however mild, they must self-isolate
+for at least 10 days from when the symptoms started; or if they are not
+experiencing symptoms but have tested positive for coronavirus
+(COVID-19) they must self-isolate for at least 10 days starting from the
+day the test was taken.
+
+If they have tested positive whilst not experiencing symptoms, but
+develop symptoms during the isolation period, they must restart the 10
+day isolation period from the day they develop symptoms.
+
+This only applies to those who begin their isolation on or after 30 July
+2020.
 
 If a child is awaiting collection, they should be moved, if possible, to
 a room where they can be isolated behind a closed door, with appropriate
@@ -549,30 +733,41 @@ In an emergency, call 999 if they are seriously ill or injured or their
 life is at risk. Do not visit the GP, pharmacy, urgent care centre or a
 hospital.
 
-If a member of staff has helped someone with symptoms they do not need
-to go home unless they develop symptoms themselves. They should wash
-their hands thoroughly for 20 seconds after any contact with someone who
-is unwell. Cleaning the affected area with normal household disinfectant
-after someone with symptoms has left will reduce the risk of passing the
-infection on to other people. Read [guidance about cleaning
-non-healthcare
-settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+Any member of staff who has helped someone with symptoms, and any
+children or young people who have been in close contact with them, do
+not need to go home to self-isolate unless they develop symptoms
+themselves or they are later advised to do so by NHS test and trace or
+the local [PHE health protection
+team](https://www.gov.uk/guidance/contacts-phe-health-protection-teams){.govuk-link}.
 
-What protection is needed when transporting children?
------------------------------------------------------
+Everyone should wash their hands thoroughly for 20 seconds after any
+contact with someone who is unwell. Cleaning the affected area with
+normal household disinfectant after someone with symptoms has left will
+reduce the risk of passing the infection on to other people.
+
+Read [COVID-19: cleaning of non-healthcare settings
+guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+
+What protection is needed when settings organise transport for children?
+------------------------------------------------------------------------
 
 If the children or young people being transported do not have symptoms
-of coronavirus, there is no need for a driver to use PPE.
+of coronavirus (COVID-19), there is no need for a driver to use PPE.
+Read [COVID-19: safer transport guidance for
+operators](https://www.gov.uk/government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators/coronavirus-covid-19-safer-transport-guidance-for-operators#personal-protective-equipment){.govuk-link}
+for further guidance on PPE and face coverings.
 
 In non-residential settings, any child, young person or other learner
-who starts displaying coronavirus symptoms while at their setting should
-wherever possible be collected by a member of their family or household.
-In exceptional circumstances, where this is not possible, and the
-setting needs to take responsibility for transporting them home, or
-where a symptomatic child or young person needs to be transported
-between residential settings, you should do one of the following:
+who starts displaying coronavirus (COVID-19) symptoms while at their
+setting should, wherever possible, be collected by a member of their
+family or household. In exceptional circumstances, if this is not
+possible, and the setting needs to take responsibility for transporting
+them home, or if a symptomatic child or young person needs to be
+transported between residential settings, you should do one of the
+following:
 
--   use a vehicle with a bulkhead
+-   use a vehicle with a bulkhead or partition that separates the driver
+    and passenger
 -   the driver and passenger should maintain a distance of 2 metres from
     each other
 -   the driver should use PPE, and the passenger should wear a face mask
@@ -585,8 +780,9 @@ Because it is challenging to reduce contact between young children in
 early years settings, regular cleaning and disinfection of surfaces,
 objects and toys, as well as handwashing, are particularly important.
 The use of soft toys and toys with intricate parts or that are otherwise
-hard to clean should be avoided. Read [guidance on cleaning for
-non-healthcare
+hard to clean should be avoided.
+
+Read guidance on [cleaning for non-healthcare
 settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
 Settings should manage risks by keeping children in small groups and
@@ -601,10 +797,30 @@ Is PPE required for tasks involving changing nappies or general care for babies?
 
 Staff should follow their normal practice when changing nappies and
 caring for babies more generally, provided the child is not showing
-symptoms of coronavirus. This includes continuing to use the PPE that
-they would normally wear in these situations, for example aprons and
-gloves. If a child shows symptoms, they should not attend a childcare
-setting and should be at home.
+symptoms of coronavirus (COVID-19). This includes continuing to use the
+PPE that they would normally wear in these situations, for example,
+aprons and gloves. If a child shows symptoms, they should not attend a
+childcare setting. They should be at home and get tested.
+
+Does coronavirus (COVID-19) mean that PPE is needed for administering first aid?
+--------------------------------------------------------------------------------
+
+Children, young people or learners who require first aid should continue
+to receive care in the same way. No additional PPE is needed because of
+coronavirus (COVID-19) for anyone who does not have coronavirus
+(COVID-19) symptoms.
+
+Does coronavirus (COVID-19) mean that air conditioning should not be used?
+--------------------------------------------------------------------------
+
+You can continue using most types of air conditioning system as normal.
+However, if you use a centralised ventilation system that removes and
+circulates air to different rooms, it is recommended that you turn off
+recirculation and use a fresh air supply.
+
+Read guidance on [air conditioning and ventilation during the
+coronavirus
+outbreak](https://www.hse.gov.uk/coronavirus/equipment-and-machinery/air-conditioning-and-ventilation.htm){.govuk-link}.
 
 How should I care for young children or children with special educational needs who do not understand why they must stay apart or who ignore distancing guidelines?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -630,37 +846,44 @@ How should PPE and face coverings be disposed of?
 Used PPE and any disposable face coverings that staff, children, young
 people or other learners arrive wearing should be placed in a refuse bag
 and can be disposed of as normal domestic waste unless the wearer has
-symptoms of coronavirus, in line with the [guidance on cleaning for
-non-healthcare
-settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+symptoms of coronavirus (COVID-19), in line with [COVID-19: cleaning of
+non-healthcare settings outside the
+home](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+
+Used PPE and face coverings should not be put in a recycling bin or
+dropped as litter. Education, childcare and children’s social care
+settings should provide extra bins for staff and customers to throw away
+face coverings and PPE and should ensure that staff and customers do not
+use a recycling bin.
 
 Any homemade non-disposable face coverings that staff or children, young
 people or other learners are wearing when they arrive at their setting
-must be removed by the wearer and placed into a plastic bag that the
-wearer has brought with them in order to take it home. The wearer must
-then clean their hands.
+must be removed by the wearer and put in a plastic bag that the wearer
+has brought with them in order to take it home. The wearer must then
+clean their hands.
 
-To dispose of waste from people with symptoms of coronavirus, such as
-disposable cleaning cloths, tissues and PPE:
+To dispose of waste such as disposable cleaning cloths, face coverings,
+tissues and PPE from people with symptoms of coronavirus (COVID-19),
+including people who are self-isolating and members of their household:
 
 -   put it in a plastic rubbish bag and tie it when full
 -   place the plastic bag in a second bin bag and tie it
 -   put it in a suitable and secure place marked for storage for 72
     hours
 
-Waste should be stored safely and securely kept away from children. You
-should not put your waste in communal waste areas until the waste has
-been stored for at least 72 hours. Storing for 72 hours saves
-unnecessary waste movements and minimises the risk to waste operatives.
-This waste does not require a dedicated clinical waste collection in the
-above circumstances.
+This waste should be stored safely and securely kept away from children.
+You should not put your waste in communal waste areas until the waste
+has been stored for at least 72 hours.
+
+Storing for 72 hours saves unnecessary waste movements and minimises the
+risk to waste operatives. This waste does not require a dedicated
+clinical waste collection in the above circumstances.
 
 Settings such as residential care homes or special schools that generate
 clinical waste should continue to follow their usual waste policies.
 
-Further information is also available in the [cleaning non-healthcare
-settings
-guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+Read [COVID-19: cleaning of non-healthcare settings outside the
+home](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
 </div>
 
