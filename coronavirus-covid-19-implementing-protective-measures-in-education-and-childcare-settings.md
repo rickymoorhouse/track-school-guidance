@@ -777,13 +777,13 @@ guidance](https://www.gov.uk/government/publications/covid-19-decontamination-in
 When a child, young person or staff member develops symptoms of
 coronavirus (COVID-19): a high temperature, new and persistent cough or
 a loss of, or change in, normal sense of taste or smell (anosmia),
-however mild, they must self-isolate for at least 10 days from when the
-symptoms started; or if they are not experiencing symptoms but have
-tested positive for coronavirus (COVID-19) they must self-isolate for at
-least 10 days starting from the day the test was taken.
+however mild, they should self-isolate for at least 10 days from when
+the symptoms started; or if they are not experiencing symptoms but have
+tested positive for coronavirus (COVID-19) they should self-isolate for
+at least 10 days starting from the day the test was taken.
 
 If they have tested positive whilst not experiencing symptoms, but
-develop symptoms during the isolation period, they must restart the 10
+develop symptoms during the isolation period, they should restart the 10
 day isolation period from the day they develop symptoms.
 
 This only applies to those who begin their isolation on or after 30 July
