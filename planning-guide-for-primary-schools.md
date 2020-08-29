@@ -3,7 +3,7 @@
 <div class="gem-c-contextual-breadcrumbs">
 
 <div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile"
 data-module="track-click">
 
 1.  [Home](/){.govuk-breadcrumbs__link}
@@ -62,7 +62,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 7 August 2020 — [see all
+Last updated 28 August 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -110,7 +110,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4419333" class="section attachment embedded">
+<div id="attachment_4481224" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -174,7 +174,9 @@ If you have a query about coronavirus (COVID-19) relating to schools and
 other educational establishments, and children's social care, in England
 contact our helpline.\
 \
-Lines are open from 8am to 6pm, Monday to Friday.\
+Helpline opening hours\
+Monday to Friday from 8am to 6pm\
+On Monday 31 August (Bank Holiday) from 10am to 4pm\
 \
 If you work in a school, please have your unique reference number (URN
 or UK PRN) available when calling the helpline.
@@ -198,22 +200,28 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 7 August 2020 [+ show all
+Last updated 28 August 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  7 August 2020
+1.  28 August 2020
+
+    Updated guidance to reflect the actions schools need to take before
+    the start of the autumn term - the changes are described within the
+    document and cover the use of face coverings in schools.
+
+2.  7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-2.  27 July 2020
+3.  27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-3.  2 July 2020
+4.  2 July 2020
 
     First published.
 
@@ -229,25 +237,24 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-94884d0e .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-687413d0 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
+-   [Guidance for schools: coronavirus
+    (COVID-19)](/government/collections/guidance-for-schools-coronavirus-covid-19){.gem-c-related-navigation__section-link
+    .gem-c-related-navigation__section-link--sidebar
+    .gem-c-related-navigation__section-link--other}
 -   [What parents and carers need to know about early years providers,
     schools and colleges during the coronavirus (COVID-19)
     outbreak](/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
--   [Guidance for full opening: special schools and other specialist
-    settings](/government/publications/guidance-for-full-opening-special-schools-and-other-specialist-settings){.gem-c-related-navigation__section-link
+-   [Safe working in education, childcare and children’s social
+    care](/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
--   [Guidance for schools: coronavirus
-    (COVID-19)](/government/collections/guidance-for-schools-coronavirus-covid-19){.gem-c-related-navigation__section-link
-    .gem-c-related-navigation__section-link--sidebar
-    .gem-c-related-navigation__section-link--other}
--   [Actions for early years and childcare providers during the
-    coronavirus (COVID-19)
-    outbreak](/government/publications/coronavirus-covid-19-early-years-and-childcare-closures){.gem-c-related-navigation__section-link
+-   [School attendance: guidance for
+    schools](/government/publications/school-attendance){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
 -   [Coronavirus (COVID-19): Education and
@@ -272,7 +279,7 @@ Related content {#related-nav-related_items-94884d0e .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-9012f974 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-defb422b .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
@@ -318,7 +325,7 @@ Is this page useful? {#is-this-page-useful .gem-c-feedback__prompt-question}
 
 <div
 class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success js-hidden"
-tabindex="-1">
+role="alert">
 
 Thank you for your feedback
 
