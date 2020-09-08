@@ -62,7 +62,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 28 August 2020 — [see all
+Last updated 7 September 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -110,7 +110,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4481224" class="section attachment embedded">
+<div id="attachment_4508950" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -124,6 +124,25 @@ data-module="govspeak">
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [HTML]{.type}
+
+</div>
+
+</div>
+
+<div id="attachment_4508965" class="section attachment embedded">
+
+<div class="attachment-thumb">
+
+[![](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/915553/thumbnail_Symptomatic_children_action_list_SCHOOLS.pdf.png)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/915553/Symptomatic_children_action_list_SCHOOLS.pdf){.thumbnail}
+
+</div>
+
+<div class="attachment-details">
+
+[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/915553/Symptomatic_children_action_list_SCHOOLS.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[PDF]{.type}, [114KB]{.file-size}, [2 pages]{.page-length}
 
 </div>
 
@@ -176,7 +195,6 @@ contact our helpline.\
 \
 Helpline opening hours\
 Monday to Friday from 8am to 6pm\
-On Monday 31 August (Bank Holiday) from 10am to 4pm\
 \
 If you work in a school, please have your unique reference number (URN
 or UK PRN) available when calling the helpline.
@@ -200,28 +218,33 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 28 August 2020 [+ show all
+Last updated 7 September 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  28 August 2020
+1.  7 September 2020
+
+    Added 'What to do if a pupil is displaying symptoms of coronavirus
+    (COVID-19)'.
+
+2.  28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-2.  7 August 2020
+3.  7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-3.  27 July 2020
+4.  27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-4.  2 July 2020
+5.  2 July 2020
 
     First published.
 
@@ -237,7 +260,7 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-687413d0 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-3f9559b0 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
@@ -279,7 +302,7 @@ Related content {#related-nav-related_items-687413d0 .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-defb422b .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-8b79bba1 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
