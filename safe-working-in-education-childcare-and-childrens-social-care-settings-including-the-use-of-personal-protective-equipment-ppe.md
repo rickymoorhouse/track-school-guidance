@@ -3,7 +3,7 @@
 <div class="gem-c-contextual-breadcrumbs">
 
 <div
-class="gem-c-breadcrumbs govuk-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile"
+class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile"
 data-module="track-click">
 
 1.  [Home](/){.govuk-breadcrumbs__link}
@@ -18,23 +18,14 @@ data-module="track-click">
 
 </div>
 
-<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
-data-module="track-click">
-
-[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
-during
-coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title
-.govuk-link}
-
-</div>
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="track-click"}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
 <div class="publication-external">
 
-1.  <div class="organisation-logo__inner">
-
-    <div
+-   <div
     class="gem-c-organisation-logo brand--department-for-education">
 
     [[Department\
@@ -43,8 +34,6 @@ coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header_
     .gem-c-organisation-logo__link .gem-c-organisation-logo__crest
     .gem-c-organisation-logo__crest--single-identity
     .brand__border-color}
-
-    </div>
 
     </div>
 
@@ -382,9 +371,9 @@ and do so as soon as they have a confirmed case or an overall rise in
 suspected cases.
 
 Anyone who displays symptoms of coronavirus (COVID-19) can and should
-get a test. Tests can be booked on the [NHS testing and tracing for
-coronavirus
-website](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}
+get a test. Tests can be booked at [get a free NHS test today to check
+if you have
+coronavirus](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/get-a-test-to-check-if-you-have-coronavirus/){.govuk-link}
 or ordered by telephone via NHS 119. Essential workers, which includes
 anyone involved in education, childcare or social work, and their
 households, have [priority access to
@@ -398,12 +387,12 @@ settings must ask those people who have been in close contact with the
 person who has tested positive to self-isolate for 14 days since they
 were last in close contact with that person when they were infectious.
 
-Further guidance is available on [NHS test and
-trace](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/){.govuk-link},
-and there is specific guidance for [schools, further education
+There is specific [guidance for full opening: schools and further
+education
 institutions](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools){.govuk-link}
-and [early years
-providers](https://www.gov.uk/government/publications/coronavirus-covid-19-early-years-and-childcare-closures/coronavirus-covid-19-early-years-and-childcare-closures){.govuk-link}.
+and [actions for early years and childcare providers during the
+coronavirus (COVID-19)
+outbreak](https://www.gov.uk/government/publications/coronavirus-covid-19-early-years-and-childcare-closures/coronavirus-covid-19-early-years-and-childcare-closures){.govuk-link}.
 
 How to work safely in specific situations, including where PPE may be required
 ------------------------------------------------------------------------------
@@ -503,9 +492,8 @@ with the fostering service to:
 
 -   assess the ability of the carer to continue to deliver care to the
     child
--   ensure that the foster home follows the [guidance for
-    households](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
-    to avoid the spread of infection
+-   ensure that the foster home follows the guidance to avoid the spread
+    of infection
 -   consult the foster carer on how best to protect themselves and the
     child
 -   arrange for the child to get tested through [essential workers: get
@@ -519,8 +507,9 @@ fostering service should:
 
 -   assess the ability of the carer to continue to deliver care to the
     child
--   ensure that the foster home follows the [guidance for
-    households](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
+-   ensure that the foster home follows the [guidance for households
+    with possible or confirmed coronavirus (COVID-19)
+    infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
     to avoid the spread of infection
 -   if additional support is needed for the carer or child, ensure that
     staff providing this care are provided with PPE prior to entering
@@ -571,7 +560,8 @@ the visit.
 
 If households are reporting coronavirus (COVID-19) symptoms, PPE should
 be worn if a distance of 2 metres cannot be maintained. Anyone
-displaying symptoms should be encouraged to [book a
+displaying symptoms should be encouraged to [book a coronavirus
+(COVID-19)
 test](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested){.govuk-link}.
 
 If it is not possible to find out whether any member of the household is
@@ -882,9 +872,6 @@ clinical waste collection in the above circumstances.
 Settings such as residential care homes or special schools that generate
 clinical waste should continue to follow their usual waste policies.
 
-Read [COVID-19: cleaning of non-healthcare settings outside the
-home](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
-
 </div>
 
 </div>
@@ -923,7 +910,7 @@ Is this page useful? {#is-this-page-useful .gem-c-feedback__prompt-question}
 
 <div
 class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success js-hidden"
-tabindex="-1">
+role="alert">
 
 Thank you for your feedback
 
