@@ -55,7 +55,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 17 September 2020 — [see all
+Last updated 1 October 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -103,7 +103,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4543437" class="section attachment embedded">
+<div id="attachment_4578814" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -122,20 +122,20 @@ data-module="govspeak">
 
 </div>
 
-<div id="attachment_4543438" class="section attachment embedded">
+<div id="attachment_4578815" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
-[![](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918525/thumbnail_What_to_do_if_a_pupil_is_displaying_symptoms_of_coronavirus__COVID-19__Schools.pdf.png)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918525/What_to_do_if_a_pupil_is_displaying_symptoms_of_coronavirus__COVID-19__Schools.pdf){.thumbnail}
+[![](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/thumbnail_Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf.png)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf){.thumbnail}
 
 </div>
 
 <div class="attachment-details">
 
-[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918525/What_to_do_if_a_pupil_is_displaying_symptoms_of_coronavirus__COVID-19__Schools.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[PDF]{.type}, [161KB]{.file-size}, [2 pages]{.page-length}
+[PDF]{.type}, [136KB]{.file-size}, [2 pages]{.page-length lang="en"}
 
 </div>
 
@@ -188,6 +188,7 @@ contact our helpline.\
 \
 Helpline opening hours\
 Monday to Friday from 8am to 6pm\
+Saturday and Sunday from 10am to 4pm\
 \
 If you work in a school, please have your unique reference number (URN
 or UK PRN) available when calling the helpline.
@@ -211,44 +212,48 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 17 September 2020 [+ show all
+Last updated 1 October 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  17 September 2020
+1.  1 October 2020
+
+    Updated section on remote education expectations and support.
+
+2.  17 September 2020
 
     Updated the section on managing confirmed cases of coronavirus
     (COVID-19) and what to do if a pupil is displaying symptoms of
     coronavirus (COVID-19).
 
-2.  10 September 2020
+3.  10 September 2020
 
     Added updated version of 'What to do if a pupil is displaying
     symptoms of coronavirus (COVID-19)'.
 
-3.  7 September 2020
+4.  7 September 2020
 
     Added 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)'.
 
-4.  28 August 2020
+5.  28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-5.  7 August 2020
+6.  7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-6.  27 July 2020
+7.  27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-7.  2 July 2020
+8.  2 July 2020
 
     First published.
 
@@ -264,7 +269,7 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-554f1118 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-bf1e106d .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
@@ -306,7 +311,7 @@ Related content {#related-nav-related_items-554f1118 .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-79ae3e13 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-72cf103f .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
@@ -340,13 +345,9 @@ tabindex="-1">
 Is this page useful? {#is-this-page-useful .gem-c-feedback__prompt-question}
 --------------------
 
-[Maybe](/contact/govuk){.gem-c-feedback__prompt-link}
--   [Yes [this page is
-    useful]{.govuk-visually-hidden}](/contact/govuk){.gem-c-feedback__prompt-link
-    .js-page-is-useful}
--   [No [this page is not
-    useful]{.govuk-visually-hidden}](/contact/govuk){.gem-c-feedback__prompt-link
-    .js-toggle-form .js-page-is-not-useful}
+Maybe
+-   Yes [this page is useful]{.govuk-visually-hidden}
+-   No [this page is not useful]{.govuk-visually-hidden}
 
 </div>
 
@@ -361,16 +362,13 @@ Thank you for your feedback
 <div
 class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions">
 
-[Is there anything wrong with this
-page?](/contact/govuk){.gem-c-feedback__prompt-link .js-toggle-form
-.js-something-is-wrong}
+Is there anything wrong with this page?
 
 </div>
 
 </div>
 
-[Close](#){.gem-c-feedback__close .gem-c-feedback__js-show
-.js-close-form}
+Close
 <div class="govuk-grid-row">
 
 <div class="govuk-grid-column-two-thirds">
@@ -404,7 +402,7 @@ Send
 
 </div>
 
-[Close](#){.gem-c-feedback__close .js-close-form}
+Close
 <div class="govuk-grid-row">
 
 <div id="survey-wrapper" class="govuk-grid-column-two-thirds">
