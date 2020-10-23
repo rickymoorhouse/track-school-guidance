@@ -55,7 +55,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 21 October 2020 — [see all
+Last updated 22 October 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -103,7 +103,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4646613" class="section attachment embedded">
+<div id="attachment_4653101" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -122,20 +122,20 @@ data-module="govspeak">
 
 </div>
 
-<div id="attachment_4646614" class="section attachment embedded">
+<div id="attachment_4653102" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
-[![](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/thumbnail_Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf.png)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf){.thumbnail}
+[![](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/928841/thumbnail_Symptomatic_children_action_list_SCHOOLS_FINAL_22-10.pdf.png)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/928841/Symptomatic_children_action_list_SCHOOLS_FINAL_22-10.pdf){.thumbnail}
 
 </div>
 
 <div class="attachment-details">
 
-[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918924/Symptomtic_children_action_list_SCHOOLS_FINAL_17-09.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/928841/Symptomatic_children_action_list_SCHOOLS_FINAL_22-10.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[PDF]{.type}, [136KB]{.file-size}, [2 pages]{.page-length lang="en"}
+[PDF]{.type}, [137KB]{.file-size}, [2 pages]{.page-length lang="en"}
 
 </div>
 
@@ -209,12 +209,19 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 21 October 2020 [+ show all
+Last updated 22 October 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  21 October 2020
+1.  22 October 2020
+
+    Updated 'What to do if a pupil is displaying symptoms of coronavirus
+    (COVID-19)' document to clarify that contacting the helpline is not
+    mandatory - reporting confirmed cases can be done using the
+    attendance form.
+
+2.  21 October 2020
 
     Updated information on Prevention, Other considerations (system of
     controls), Response to any infection, Pupils travelling from abroad,
@@ -222,43 +229,43 @@ class="app-c-published-dates__change-history js-hidden">
     provision and extra-curricular activity, Behaviour expectations,
     Hospital schools and Contingency planning for outbreaks.
 
-2.  1 October 2020
+3.  1 October 2020
 
     Updated section on remote education expectations and support.
 
-3.  17 September 2020
+4.  17 September 2020
 
     Updated the section on managing confirmed cases of coronavirus
     (COVID-19) and what to do if a pupil is displaying symptoms of
     coronavirus (COVID-19).
 
-4.  10 September 2020
+5.  10 September 2020
 
     Added updated version of 'What to do if a pupil is displaying
     symptoms of coronavirus (COVID-19)'.
 
-5.  7 September 2020
+6.  7 September 2020
 
     Added 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)'.
 
-6.  28 August 2020
+7.  28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-7.  7 August 2020
+8.  7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-8.  27 July 2020
+9.  27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-9.  2 July 2020
+10. 2 July 2020
 
     First published.
 
@@ -274,7 +281,7 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-0f965e2c .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-2158cf40 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
@@ -316,7 +323,7 @@ Related content {#related-nav-related_items-0f965e2c .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-8e15427a .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-141bc51e .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during

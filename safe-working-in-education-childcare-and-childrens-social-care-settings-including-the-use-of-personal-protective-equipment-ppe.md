@@ -48,7 +48,7 @@ Safe working in education, childcare and children’s social care settings, incl
 
 </div>
 
-Updated 13 October 2020
+Updated 22 October 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -361,19 +361,26 @@ Education, childcare and children’s social care settings and providers
 must ensure they understand the [NHS test and trace
 process](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-for-coronavirus/){.govuk-link}
 so that they know how to respond if anyone within the setting is
-suspected or confirmed to have coronavirus (COVID-19). They must also
+suspected or confirmed to have coronavirus (COVID-19). They should also
 know how to contact the dedicated advice service introduced by Public
 Health England (PHE) and delivered by the NHS Business Services
-Authority, and do so as soon as they have a confirmed case.
+Authority, for further advice on how to respond to a confirmed case of
+coronavirus (COVID-19) if required.
 
-This can be reached by calling the DfE coronavirus helpline on 0800 046
-8687 and selecting option 1 for advice on the action to take in response
-to a positive case.
+The advice service can be reached by calling the DfE coronavirus
+helpline on 0800 046 8687 and selecting option 1 for advice on the
+action to take in response to a positive case.
 
 Settings will be put through to a team of advisers who will inform them
 of what action is needed based on the latest public health advice. If,
 following triage, further expert advice is required, the adviser will
 escalate the setting’s call to the PHE local health protection team.
+
+Settings should report confirmed cases of coronavirus (COVID-19) through
+the [online attendance form daily
+return](https://www.gov.uk/guidance/how-to-complete-the-educational-setting-status-form){.govuk-link}.
+Settings should also continue to inform their local authority of any
+confirmed cases.
 
 Anyone who displays symptoms of coronavirus (COVID-19) can and should
 get a test. Tests can be booked at [NHS test and
