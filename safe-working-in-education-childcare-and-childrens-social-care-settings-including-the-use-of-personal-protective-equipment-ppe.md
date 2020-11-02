@@ -122,6 +122,13 @@ Contents {#contents .gem-c-contents-list__title}
     of?](#how-should-ppe-and-face-coverings-be-disposed-of){.gem-c-contents-list__link
     .govuk-link}
 
+<div
+class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+
+Print this page
+
+</div>
+
 </div>
 
 <div class="print-wrapper">
@@ -156,6 +163,14 @@ https://www.gov.uk/government/publications/safe-working-in-education-childcare-a
 data-module="govspeak">
 
 <div class="govspeak">
+
+<div class="call-to-action">
+
+This guidance will be reviewed and updated shortly following the
+[announcement by the Prime Minister on 31
+October](https://www.gov.uk/guidance/new-national-restrictions-from-5-november){.govuk-link}.
+
+</div>
 
 This guidance applies to:
 
@@ -893,6 +908,16 @@ home](https://www.gov.uk/government/publications/covid-19-decontamination-in-non
 <div class="govuk-sticky-element" data-sticky-element="">
 
 Contents
+<div class="govuk-sticky-element__print-link">
+
+<div
+class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+
+Print this page
+
+</div>
+
+</div>
 
 </div>
 

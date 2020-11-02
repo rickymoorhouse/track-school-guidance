@@ -2,22 +2,30 @@
 
 <div class="gem-c-contextual-breadcrumbs">
 
-<div class="gem-c-step-nav-header govuk-!-margin-bottom-0"
+<div
+class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile"
 data-module="track-click">
 
-[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare
-during
-coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title}
+1.  [Home](/){.govuk-breadcrumbs__link}
+2.  [Coronavirus
+    (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
+3.  [Education and childcare during
+    coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
+4.  [Closures, exams and managing a school or early years setting during
+    coronavirus](/coronavirus-taxon/closures-exams-managing-school){.govuk-breadcrumbs__link}
+5.  [Critical workers who can access schools or educational
+    settings](/government/publications/coronavirus-covid-19-maintaining-educational-provision){.govuk-breadcrumbs__link}
 
 </div>
+
+[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="track-click"}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
 <div class="publication-external">
 
-1.  <div class="organisation-logo__inner">
-
-    <div class="gem-c-organisation-logo brand--cabinet-office">
+-   <div class="gem-c-organisation-logo brand--cabinet-office">
 
     [[Cabinet
     Office]{.gem-c-organisation-logo__name}](/government/organisations/cabinet-office){.gem-c-organisation-logo__container
@@ -27,11 +35,7 @@ coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header_
 
     </div>
 
-    </div>
-
-2.  <div class="organisation-logo__inner">
-
-    <div
+-   <div
     class="gem-c-organisation-logo brand--department-for-education">
 
     [[Department\
@@ -40,8 +44,6 @@ coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header_
     .gem-c-organisation-logo__link .gem-c-organisation-logo__crest
     .gem-c-organisation-logo__crest--single-identity
     .brand__border-color}
-
-    </div>
 
     </div>
 
@@ -56,7 +58,7 @@ Critical workers who can access schools or educational settings {#critical-worke
 
 </div>
 
-Updated 1 June 2020
+Updated 28 September 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -67,11 +69,23 @@ class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
 Contents {#contents .gem-c-contents-list__title}
 --------
 
-1.  [Vulnerable children and young
+1.  [Return of all pupils to
+    education](#return-of-all-pupils-to-education){.gem-c-contents-list__link
+    .govuk-link}
+2.  [Local restrictions](#local-restrictions){.gem-c-contents-list__link
+    .govuk-link}
+3.  [Vulnerable children and young
     people](#vulnerable-children-and-young-people){.gem-c-contents-list__link
     .govuk-link}
-2.  [Critical workers](#critical-workers){.gem-c-contents-list__link
+4.  [Critical workers](#critical-workers){.gem-c-contents-list__link
     .govuk-link}
+
+<div
+class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+
+Print this page
+
+</div>
 
 </div>
 
@@ -110,106 +124,86 @@ data-module="govspeak">
 
 <div class="call-to-action">
 
-This guidance has been updated to reflect the announcement by the Prime
-Minister that the government’s 5 tests have been met and the decision,
-based on all the evidence, to move forward with the wider opening of
-education and childcare settings.
+This guidance will be reviewed and updated shortly following the
+[announcement by the Prime Minister on 31
+October](https://www.gov.uk/guidance/new-national-restrictions-from-5-november){.govuk-link}.
 
 </div>
 
-Since 23 March, in line with the scientific advice, nurseries, schools
-and colleges have remained open only to a priority group of children and
-young people, children who have a parent who is a critical worker and
-vulnerable children.
+Return of all pupils to education
+---------------------------------
 
-Now that we have made progress in reducing the transmission of
-coronavirus **we are encouraging all eligible children to attend
-settings (where there are no shielding concerns for the child or their
-household)**, even if parents are able to keep their children at
-home.****
+Schools and colleges are welcoming back all children and young people
+from the start of the autumn term.
 
-From the week commencing 1 June, we are also asking primary schools to
-welcome back all children in nursery, reception, year 1 and year 6,
-alongside priority groups. From 15 June, we are asking secondary
-schools, sixth-form colleges and further education colleges to offer
-some face-to-face support for year 10 and year 12, and 16-19 learners in
-the first year of their course who are due to take key exams next year,
-alongside priority groups. We are also asking nurseries and other early
-years providers, including childminders, to begin welcoming back
-children of all ages from 1 June. Alternative provision settings should
-mirror the approach being taken for mainstream schools and, from 15
-June, offer some face-to-face support for years 10 and 11 students (as
-they have no year 12). We are asking special schools, special post-16
-institutions and hospital schools to follow an equivalent phased return
-without a focus on specific year groups.
+It is vital that children and young people return to school and college
+for their:
 
-**Children of critical workers, and vulnerable children who are already
-eligible, will continue to be offered a place, regardless of the year
-group they are in.**
+-   educational progress
+-   wellbeing
+-   wider development
 
-**The definition of critical workers remains unchanged.**
+School attendance is mandatory again. For parents and carers of children
+of compulsory school age, this means that the legal duty on you as a
+parent to send your child to school regularly will apply.
 
-Any setting that cannot achieve these increases at any point because:
+Local restrictions
+------------------
 
--   there are not enough classrooms or spaces available in the setting
--   they do not have enough available teachers or staff to supervise the
-    groups
+In local areas where restrictions have been implemented by national
+direction, we anticipate that education and childcare will usually
+remain fully open to all, with the additional requirement that face
+coverings should be worn by staff and pupils in schools and colleges,
+from year 7 and above, when moving around communal areas where social
+distancing cannot easily be maintained.
 
-have flexibility but must first focus on continuing to provide places
-for priority groups (vulnerable children and the children of critical
-workers).
+There may be exceptional circumstances in which some level of
+restriction to education or childcare is required in a local area. In
+those situations, local and national partners will carefully consider
+which tier of restriction, as set out in the Department of Health and
+Social Care’s [COVID-19 contain
+framework](https://www.gov.uk/government/publications/containing-and-managing-local-coronavirus-covid-19-outbreaks/covid-19-contain-framework-a-guide-for-local-decision-makers){.govuk-link},
+is the most appropriate one to implement. The key aim will be to retain
+as much face-to-face education and access to childcare as possible. The
+‘tiers of restriction’ will ensure that extensive limitations on
+education and childcare are a last resort and that full-time on-site
+provision is available for vulnerable children and children of critical
+workers in all cases.
+
+To support contingency planning should education settings need to limit
+attendance in line with the tiers of intervention, the definition of
+critical workers and vulnerable children is in the following section.
 
 Vulnerable children and young people
 ------------------------------------
 
-During the coronavirus (COVID-19) outbreak, for the purposes of
-continued attendance at educational settings, vulnerable children and
-young people are defined as those who:
+Vulnerable children and young people include those who:
 
 -   are assessed as being in need under section 17 of the Children Act
-    1989, including children who have a child in need plan, a child
-    protection plan or who are a looked-after child
--   have an education, health and care (EHC) plan and it is determined,
-    following risk assessment, that their needs can be as safely or more
-    safely met in the educational environment
--   have been assessed as otherwise vulnerable by educational providers
-    or local authorities (including children’s social care services),
-    and who are therefore in need of continued education provision -
-    this might include children on the edge of receiving support from
-    children’s social care services, adopted children, those at risk of
-    becoming NEET (‘not in employment, education or training’), those
-    who are young carers and others at the provider and local
-    authority’s discretion
+    1989, including children and young people who have a child in need
+    plan, a child protection plan or who are a looked-after child
+-   have an education, health and care (EHC) plan
+-   have been identified as otherwise vulnerable by educational
+    providers or local authorities (including children’s social care
+    services), and who could therefore benefit from continued full-time
+    attendance, this might include:
+    -   children and young people on the edge of receiving support from
+        children’s social care services
+    -   adopted children, those at risk of becoming NEET (‘not in
+        employment, education or training’)
+    -   those living in temporary accommodation, those who are young
+        carers
+    -   those who may have difficulty engaging with remote education at
+        home (for example due to a lack of devices or quiet space to
+        study)
+    -   others at the provider and local authority’s discretion
 
 Critical workers
 ----------------
 
-Parents whose work is critical to the COVID-19 response include those
-who work in health and social care and in other key sectors outlined
-below. Many parents working in these sectors may be able to look after
-their child at home, but attendance is strongly encouraged.
-
-Please, therefore, also follow these key principles:
-
-1.  If a child needs specialist support, is vulnerable or has a parent
-    who is a critical worker, then educational provision will be
-    available for them.
-
-2.  Parents should not rely for childcare upon those who are advised to
-    be in the stringent social distancing category such as grandparents,
-    friends, or family members with underlying conditions.
-
-3.  Parents must do everything they can to ensure children are not
-    mixing socially outside of school. They must observe the same social
-    distancing principles as adults, as far as possible.
-
-4.  Residential special schools, boarding schools and special settings
-    continue to care for children wherever possible.
-
-If your work is critical to the COVID-19 response, or you work in one of
-the critical sectors listed below, then your children will be
-prioritised for education provision and are strongly encouraged to
-attend.
+Parents whose work is critical to the coronavirus (COVID-19) response
+include those who work in health and social care and in other key
+sectors outlined in the following sections.
 
 ### Health and social care
 
@@ -229,7 +223,7 @@ This includes:
 -   support and teaching staff
 -   social workers
 -   specialist education professionals who must remain active during the
-    COVID-19 response to deliver this approach
+    coronavirus (COVID-19) response to deliver this approach
 
 ### Key public services
 
@@ -247,7 +241,7 @@ This includes:
 This only includes:
 
 -   those administrative occupations essential to the effective delivery
-    of the COVID-19 response
+    of the coronavirus (COVID-19) response
 -   or delivering essential public services, such as the payment of
     benefits, including in government agencies and arms length bodies
 
@@ -270,7 +264,7 @@ This includes:
 -   Ministry of Defence civilians
 -   contractor and armed forces personnel (those critical to the
     delivery of key defence and national security outputs and essential
-    to the response to the COVID-19 outbreak)
+    to the response to the coronavirus (COVID-19) outbreak)
 -   fire and rescue service employees (including support staff)
 -   National Crime Agency staff
 -   those maintaining border security, prison and probation staff and
@@ -279,9 +273,9 @@ This includes:
 ### Transport
 
 This includes those who will keep the air, water, road and rail
-passenger and freight transport modes operating during the COVID-19
-response, including those working on transport systems through which
-supply chains pass.
+passenger and freight transport modes operating during the coronavirus
+(COVID-19) response, including those working on transport systems
+through which supply chains pass.
 
 ### Utilities, communication and financial services
 
@@ -292,7 +286,8 @@ This includes:
     financial market infrastructure)
 -   the oil, gas, electricity and water sectors (including sewerage)
 -   information technology and data infrastructure sector and primary
-    industry supplies to continue during the COVID-19 response
+    industry supplies to continue during the coronavirus (COVID-19)
+    response
 -   key staff working in the civil nuclear, chemicals,
     telecommunications (including but not limited to network operations,
     field engineering, call centre staff, IT and data infrastructure,
@@ -300,16 +295,6 @@ This includes:
 -   postal services and delivery
 -   payments providers
 -   waste disposal sectors
-
-If your school is closed, then please [contact your local
-authority](https://www.gov.uk/find-local-council){.govuk-link}, who will
-seek to redirect you to a local school in your area that your child, or
-children, can attend.
-
-We are grateful for the work of teachers and workers in educational
-settings for continuing to provide for the children of the other
-critical workers of our country. It is an essential part of our national
-effort to combat this disease.
 
 </div>
 
@@ -322,6 +307,16 @@ effort to combat this disease.
 <div class="govuk-sticky-element" data-sticky-element="">
 
 Contents
+<div class="govuk-sticky-element__print-link">
+
+<div
+class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+
+Print this page
+
+</div>
+
+</div>
 
 </div>
 
@@ -337,19 +332,15 @@ tabindex="-1">
 Is this page useful? {#is-this-page-useful .gem-c-feedback__prompt-question}
 --------------------
 
-[Maybe](/contact/govuk){.gem-c-feedback__prompt-link}
--   [Yes [this page is
-    useful]{.govuk-visually-hidden}](/contact/govuk){.gem-c-feedback__prompt-link
-    .js-page-is-useful}
--   [No [this page is not
-    useful]{.govuk-visually-hidden}](/contact/govuk){.gem-c-feedback__prompt-link
-    .js-toggle-form .js-page-is-not-useful}
+Maybe
+-   Yes [this page is useful]{.govuk-visually-hidden}
+-   No [this page is not useful]{.govuk-visually-hidden}
 
 </div>
 
 <div
 class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success js-hidden"
-tabindex="-1">
+role="alert">
 
 Thank you for your feedback
 
@@ -358,16 +349,13 @@ Thank you for your feedback
 <div
 class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions">
 
-[Is there anything wrong with this
-page?](/contact/govuk){.gem-c-feedback__prompt-link .js-toggle-form
-.js-something-is-wrong}
+There is something wrong with this page
 
 </div>
 
 </div>
 
-[Close](#){.gem-c-feedback__close .gem-c-feedback__js-show
-.js-close-form}
+Close
 <div class="govuk-grid-row">
 
 <div class="govuk-grid-column-two-thirds">
@@ -401,7 +389,7 @@ Send
 
 </div>
 
-[Close](#){.gem-c-feedback__close .js-close-form}
+Close
 <div class="govuk-grid-row">
 
 <div id="survey-wrapper" class="govuk-grid-column-two-thirds">
