@@ -58,7 +58,7 @@ Critical workers who can access schools or educational settings {#critical-worke
 
 </div>
 
-Updated 28 September 2020
+Updated 6 November 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -117,16 +117,16 @@ https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educ
 
 <div class="gem-c-govspeak-html-publication">
 
-<div class="gem-c-govspeak govuk-govspeak direction-ltr"
-data-module="govspeak">
+<div class="gem-c-govspeak govuk-govspeak" data-module="govspeak">
 
 <div class="govspeak">
 
 <div class="call-to-action">
 
-This guidance will be reviewed and updated shortly following the
-[announcement by the Prime Minister on 31
-October](https://www.gov.uk/guidance/new-national-restrictions-from-5-november){.govuk-link}.
+New national restrictions came into force on Thursday 5 November. Read
+how the [new national
+restrictions](https://www.gov.uk/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020){.govuk-link}
+affect this guidance.
 
 </div>
 
