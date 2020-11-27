@@ -55,7 +55,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 5 November 2020 — [see all
+Last updated 26 November 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -103,7 +103,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4696105" class="section attachment embedded">
+<div id="attachment_4756373" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -113,8 +113,7 @@ data-module="govspeak">
 
 <div class="attachment-details">
 
-[Guidance for full opening: schools](/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools) {#guidance-for-full-opening-schools .title}
-----------------------------------------------------------------------------------------------------------------------------------------------------
+### [Guidance for full opening: schools](/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools) {#guidance-for-full-opening-schools .title .govuk-!-font-size-27 .govuk-!-font-weight-regular}
 
 [HTML]{.type}
 
@@ -122,7 +121,7 @@ data-module="govspeak">
 
 </div>
 
-<div id="attachment_4696106" class="section attachment embedded">
+<div id="attachment_4756374" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -132,8 +131,7 @@ data-module="govspeak">
 
 <div class="attachment-details">
 
-[What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/928841/Symptomatic_children_action_list_SCHOOLS_FINAL_22-10.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title}
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### [What to do if a pupil is displaying symptoms of coronavirus (COVID-19)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/928841/Symptomatic_children_action_list_SCHOOLS_FINAL_22-10.pdf) {#what-to-do-if-a-pupil-is-displaying-symptoms-of-coronavirus-covid-19 .title .govuk-!-font-size-27 .govuk-!-font-weight-regular}
 
 [PDF]{.type}, [137KB]{.file-size}, [2 pages]{.page-length}
 
@@ -155,22 +153,14 @@ data-module="govspeak">
 
 <div class="govspeak">
 
-[New National
-Restrictions](https://www.gov.uk/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020){.govuk-link}
-came into force on Thursday 5 November.
+<div class="call-to-action">
 
-Read how the following areas will be affected during the period of the
-[New National
-Restrictions](https://www.gov.uk/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020#schools){.govuk-link}:
+National restrictions are in place until 2 December. Read how the
+[national
+restrictions](https://www.gov.uk/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020?utm_source=website&utm_medium=landing-page-banner&utm_campaign=schools#schools){.govuk-link}
+affect this guidance.
 
--   use of face coverings
--   transport
--   attendance - self-isolation and shielding
--   school workforce
--   clinically extremely vulnerable staff
--   wraparound provision and extra-curricular activity
--   physical activity in schools
--   residential settings
+</div>
 
 This guidance applies to all schools in England, including:
 
@@ -226,23 +216,31 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 5 November 2020 [+ show all
+Last updated 26 November 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  5 November 2020
+1.  26 November 2020
+
+    Updated to reflect the local restriction tiers.
+
+2.  26 November 2020
+
+    Updated guidance to reflect the local restriction tiers.
+
+3.  5 November 2020
 
     Updated to reflect New National Restrictions guidance.
 
-2.  22 October 2020
+4.  22 October 2020
 
     Updated 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)' document to clarify that contacting the helpline is not
     mandatory - reporting confirmed cases can be done using the
     attendance form.
 
-3.  21 October 2020
+5.  21 October 2020
 
     Updated information on Prevention, Other considerations (system of
     controls), Response to any infection, Pupils travelling from abroad,
@@ -250,43 +248,43 @@ class="app-c-published-dates__change-history js-hidden">
     provision and extra-curricular activity, Behaviour expectations,
     Hospital schools and Contingency planning for outbreaks.
 
-4.  1 October 2020
+6.  1 October 2020
 
     Updated section on remote education expectations and support.
 
-5.  17 September 2020
+7.  17 September 2020
 
     Updated the section on managing confirmed cases of coronavirus
     (COVID-19) and what to do if a pupil is displaying symptoms of
     coronavirus (COVID-19).
 
-6.  10 September 2020
+8.  10 September 2020
 
     Added updated version of 'What to do if a pupil is displaying
     symptoms of coronavirus (COVID-19)'.
 
-7.  7 September 2020
+9.  7 September 2020
 
     Added 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)'.
 
-8.  28 August 2020
+10. 28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-9.  7 August 2020
+11. 7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-10. 27 July 2020
+12. 27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-11. 2 July 2020
+13. 2 July 2020
 
     First published.
 
@@ -300,30 +298,41 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-contextual-sidebar">
 
+[](/transition){.gem-c-transition-countdown
+.gem-c-transition-countdown--cta .govuk-link}
+Brexit transition {#brexit-transition .gem-c-transition-countdown__title}
+-----------------
+
+[3]{.gem-c-transition-countdown__countdown-number}[5]{.gem-c-transition-countdown__countdown-number}
+[days to go]{.gem-c-transition-countdown__countdown-text}
+
+Check you’re ready for 2021
+
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-7bfca4cc .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-b26b83a3 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
     (COVID-19)](/government/collections/guidance-for-schools-coronavirus-covid-19){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
--   [Safe working in education, childcare and children’s social
-    care](/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.gem-c-related-navigation__section-link
-    .gem-c-related-navigation__section-link--sidebar
-    .gem-c-related-navigation__section-link--other}
--   [Face coverings in
-    education](/government/publications/face-coverings-in-education){.gem-c-related-navigation__section-link
-    .gem-c-related-navigation__section-link--sidebar
-    .gem-c-related-navigation__section-link--other}
 -   [Coronavirus (COVID-19): Education and
     childcare](/coronavirus/education-and-childcare){.gem-c-related-navigation__section-link
+    .gem-c-related-navigation__section-link--sidebar
+    .gem-c-related-navigation__section-link--other}
+-   [Education and childcare settings: national restrictions from 5
+    November
+    2020](/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
 -   [What parents and carers need to know about early years providers,
     schools and colleges during the coronavirus (COVID-19)
     outbreak](/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak){.gem-c-related-navigation__section-link
+    .gem-c-related-navigation__section-link--sidebar
+    .gem-c-related-navigation__section-link--other}
+-   [Safe working in education, childcare and children’s social
+    care](/government/publications/safe-working-in-education-childcare-and-childrens-social-care){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--inline
     .gem-c-related-navigation__section-link--other}
@@ -344,7 +353,7 @@ Related content {#related-nav-related_items-7bfca4cc .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-d34dd82c .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-4c2705d6 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
