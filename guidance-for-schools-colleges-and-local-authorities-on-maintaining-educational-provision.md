@@ -101,7 +101,7 @@ This publication is licensed under the terms of the Open Government
 Licence v3.0 except where otherwise stated. To view this licence, visit
 [nationalarchives.gov.uk/doc/open-government-licence/version/3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3)
 or write to the Information Policy Team, The National Archives, Kew,
-London TW9 4DU, or email: <psi@nationalarchives.gsi.gov.uk>.
+London TW9 4DU, or email: <psi@nationalarchives.gov.uk>.
 
 Where we have identified any third party copyright information you will
 need to obtain permission from the copyright holders concerned.
@@ -120,15 +120,6 @@ https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educ
 <div class="gem-c-govspeak govuk-govspeak" data-module="govspeak">
 
 <div class="govspeak">
-
-<div class="call-to-action">
-
-New national restrictions came into force on Thursday 5 November. Read
-how the [new national
-restrictions](https://www.gov.uk/guidance/education-and-childcare-settings-new-national-restrictions-from-5-november-2020){.govuk-link}
-affect this guidance.
-
-</div>
 
 Return of all pupils to education
 ---------------------------------

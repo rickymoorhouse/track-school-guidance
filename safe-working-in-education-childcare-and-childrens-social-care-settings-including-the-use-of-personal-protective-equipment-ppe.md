@@ -48,7 +48,7 @@ Safe working in education, childcare and children’s social care settings, incl
 
 </div>
 
-Updated 22 October 2020
+Updated 13 November 2020
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -143,7 +143,7 @@ This publication is licensed under the terms of the Open Government
 Licence v3.0 except where otherwise stated. To view this licence, visit
 [nationalarchives.gov.uk/doc/open-government-licence/version/3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3)
 or write to the Information Policy Team, The National Archives, Kew,
-London TW9 4DU, or email: <psi@nationalarchives.gsi.gov.uk>.
+London TW9 4DU, or email: <psi@nationalarchives.gov.uk>.
 
 Where we have identified any third party copyright information you will
 need to obtain permission from the copyright holders concerned.
@@ -159,18 +159,9 @@ https://www.gov.uk/government/publications/safe-working-in-education-childcare-a
 
 <div class="gem-c-govspeak-html-publication">
 
-<div class="gem-c-govspeak govuk-govspeak direction-ltr"
-data-module="govspeak">
+<div class="gem-c-govspeak govuk-govspeak" data-module="govspeak">
 
 <div class="govspeak">
-
-<div class="call-to-action">
-
-This guidance will be reviewed and updated shortly following the
-[announcement by the Prime Minister on 31
-October](https://www.gov.uk/guidance/new-national-restrictions-from-5-november){.govuk-link}.
-
-</div>
 
 This guidance applies to:
 
@@ -189,16 +180,9 @@ any new legal obligations.
 Main changes to previous guidance
 ---------------------------------
 
-The following information has been updated:
-
--   the test and trace process including the new PHE dedicated advice
-    service details and link to guidance on the NHS Test and Trace app
--   guidance on social care visits
--   guidance on shielding
--   guidance for staff who have been in close contact with a positive
-    case and may need to self-isolate even if they have been wearing PPE
--   guidance on the use of face coverings in education settings and how
-    to safely wear, remove and dispose of them
+We have added guidance on [aerosol generating procedures
+(AGPs)](#aerosol-generating-procedures-agps){.govuk-link} in education
+and children’s social care settings.
 
 Effective infection protection and control
 ------------------------------------------
@@ -230,7 +214,7 @@ that, when implemented, creates an inherently safer system in which the
 risk of transmission of infection is substantially reduced. These
 controls are as follows.
 
-### [1. ]{.number} Minimise contact with individuals who are unwell
+### [1. ]{.number} Minimise contact with individuals who are unwell {#soc}
 
 If you have, or are showing symptoms of, coronavirus (COVID-19) (a new
 continuous cough, a high temperature, or a loss of, or change in, your
@@ -297,7 +281,7 @@ You should, as much as possible, alter the environment of your setting
 (such as classroom layout) and your timetables (such as staggered break
 time) to minimise contact and mixing.
 
-### [6. ]{.number} Where necessary, wear PPE
+### [6. ]{.number} Where necessary, wear PPE {#soc6}
 
 Most staff in education, childcare and children’s social care settings
 will not require PPE beyond what they would normally need for their
@@ -584,7 +568,7 @@ the:
 -   risks to children and young people
 -   risks to families
 -   risks to the workforce
--   national guidance on social distancing and hygiene
+-   guidance on social distancing and hygiene
 -   statutory responsibilities, including safeguarding
 
 Staff and their managers are best placed to make professional judgements
@@ -631,17 +615,105 @@ safely in these settings.
 What specific steps should be taken to care for children with complex medical needs, such as tracheostomies?
 ------------------------------------------------------------------------------------------------------------
 
-There are a small number of medical procedures which increase the risk
-of transmission through aerosols (tiny droplets) being transferred from
-the patient to the care giver. These are known as aerosol generating
-procedures (AGPs). Within education and children’s social care settings,
-these are only undertaken for a very small number of children with
-complex medical needs, such as those receiving tracheostomy care.
+It is vital that all children, young people and learners, including
+those with complex or additional health needs, are supported to continue
+their education and care in their education or children’s social care
+setting, where it is safe to do so.
 
-Staff performing AGPs in these settings should follow PHE’s [personal
-protective equipment (PPE) guidance on aerosol generating
-procedures](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-personal-protective-equipment-ppe#ppe-guidance-by-healthcare-context){.govuk-link},
-and wear the correct PPE, which is:
+There are some additional considerations to support children, young
+people and learners who require procedures that may generate aerosols.
+This is because aerosol generating procedures (AGPs) can increase the
+risk of coronavirus (COVID-19) transmission in the presence of a
+positive case between those giving and receiving care.
+
+We recognise that all settings, children, young people and learners will
+have individual needs. This guidance should be adapted to meet these
+specific and local circumstances. We know from the areas where this
+works well that collaboration between education and children’s social
+care settings, families and local agencies to find solutions is key.
+
+These principles for managing AGPs in education and children’s social
+care settings provide a framework for this collective approach to
+support the education, care and safety needs of the child, young person
+or learner and of the setting.
+
+### Aerosol generating procedures (AGPs)
+
+AGPs that are commonly performed in education and children’s social care
+settings include:
+
+-   non-invasive ventilation (NIV)
+-   bi-level positive airway pressure ventilation (BiPAP)
+-   continuous positive airway pressure ventilation (CPAP)
+-   respiratory tract suctioning beyond the oro-pharynx
+    ^[\[footnote\ 1\]](#fn:1){.govuk-link}^
+    ^[\[footnote\ 2\]](#fn:2){.govuk-link}^
+
+Procedures that are not classed AGPs include:
+
+-   oral or nasal suction
+-   the administration of nebulised saline, medication or drugs
+-   chest compressions or defibrillation
+-   chest physiotherapy
+-   the administration of oxygen therapy
+-   suctioning as part of a closed system circuit
+-   nasogastric tube insertion and feeding
+
+Education and children’s social care settings, health providers and
+local teams should work together to build on existing processes in place
+when implementing coronavirus (COVID-19) adjustments.
+
+Education and children’s social care settings should lead on assessments
+for their setting. The child, young person or learner’s lead health
+professional should oversee their care assessments. PHE local health
+protection teams can advise on infection prevention and control concerns
+about the child, young person or learner, or the setting. Settings
+should work with the lead health professional to coordinate any
+assessments required, with input from PHE local health protection teams
+as needed.
+
+Settings should be supported by local partners to review and build on
+existing risk assessments. This will allow the setting to consider any
+adaptations that they may need, for example, designating a room for
+undertaking AGPs, or if within a classroom, making sure that all other
+staff, children, young people and learners are at least 2 metres
+distance away (as recommended by [infection prevention and control
+guidance](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control){.govuk-link}
+and the system of controls set out in [sections 1 to
+8](#soc){.govuk-link}) with a window opened for ventilation.
+
+We expect children, young people and learners with complex health needs
+will be able to return to their education or social care setting without
+settings needing to make significant changes to their ways of work
+beyond required adherence to the system of controls (as set out in
+[sections 1 to 8](#soc){.govuk-link}). We do not envisage that settings
+will generally require specialist equipment, for example, tents or
+airflow systems.
+
+### Education, health and care plans
+
+Settings and health care professionals need to work with individual
+children, young people and learners and their families to identify and
+manage risks to support the care of the child or young person and the
+safety of the setting. Where a child, young person or learner has an
+existing education, health and care (EHC) plan, settings and local
+agencies can work together to update it as necessary, building on
+current processes in place.
+
+For children, young people and learners who do not have an EHC plan, a
+health assessment should be undertaken to determine levels of potential
+need and risk. If an AGP may be needed when travelling to and from the
+setting, this should be included in any risk or needs assessment.
+
+### PPE
+
+Staff performing AGPs in education or children’s social care settings
+should follow the infection prevention and control guidance on [aerosol
+generating
+procedures](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/covid-19-infection-prevention-and-control-guidance-aerosol-generating-procedures){.govuk-link}
+which is based on advice from the [Health and Safety Executive
+(HSE)](https://www.hse.gov.uk/coronavirus/ppe-face-masks/face-mask-equivalence-aprons-gowns-eye-protection.htm){.govuk-link}.
+They should also wear the correct PPE, which is:
 
 -   a FFP2/3 respirator
 -   gloves
@@ -652,26 +724,106 @@ The respirator required for AGPs must be fitted by someone trained to do
 so. This is known as ‘fit testing’. Staff in education and children’s
 social care settings who need support with fit testing should contact
 the appropriate health lead for the child or young person. This could be
-through either the Designated Clinical Officer for SEND for support from
-the local clinical commissioning group, or the lead nursing team at the
-health provider.
+through either the designated clinical officer for special educational
+needs and disabilities (SEND) for support from the local clinical
+commissioning group or the lead nursing team at the health provider.
 
-Children and young people should be taken from the classroom or shared
-area for any AGP to be carried out in a designated room with the doors
-closed and any windows open. If this is not possible, for example in
-children and young people who require sporadic care, such as urgent
-tracheostomy tube suction, individual risk assessments should be carried
-out. In all instances, efforts should be made to:
+Settings must be able to access the PPE they require for this purpose.
+Further information on sourcing PPE can be found in [section 6 of the
+system of controls](#soc6){.govuk-link}.
 
--   ensure that only staff who are needed to undertake the procedure are
-    present and that no other children or young people are in the room
--   minimise clutter to make the process of cleaning the room as
-    straightforward as possible
--   clean all surfaces and ventilate the room following a procedure and
-    before anyone not wearing appropriate PPE enters. Clearance of
-    infectious particles after an AGP is dependent on the ventilation
-    and air change within the room. For a room without ventilation, this
-    may take an hour
+Healthcare professionals and others visiting settings that provide care
+should follow the [infection prevention and control
+guidance](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control){.govuk-link},
+including the use of PPE. This describes the types of PPE that different
+groups undertaking different activities should use.
+
+### Principles
+
+The following principles have been developed to support education and
+children’s social care settings in their planning for routine AGPs.
+
+#### Risk management
+
+Settings should work collaboratively with their local authority, PHE
+local health protection team and others to consider current local
+context including current coronavirus (COVID-19) prevalence.
+
+Children, young people and learners, as well as staff members and all
+other visiting professionals and persons, should follow the [guidance
+for households with possible coronavirus
+infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance){.govuk-link}
+if they or a member of their household or bubble experience coronavirus
+(COVID-19) symptoms, or if they have been notified by NHS Test and Trace
+to self-isolate. They should not attend the setting if they or someone
+in their household are showing symptoms or have tested positive for
+coronavirus (COVID-19).
+
+#### Designating a room for AGPs
+
+Children, young people and learners should ideally be taken from the
+classroom for any AGP to be carried out in a designated room.
+
+Settings should designate a room for undertaking AGPs that is adequate
+for the individual and carer where possible.
+
+The room should be adequate in size for the individual and carer and
+should have all non-essential furniture or equipment removed. For the
+furniture that cannot be moved, a wipeable covering should be placed on
+top. The room should have a door which can be closed, and a window
+opened for ventilation.
+
+#### If a designated room for AGPs is not possible
+
+If a designated room is not possible or available, an AGP can be
+undertaken within a classroom if all other staff and pupils are at least
+2 metres distance away (as recommended by [infection prevention and
+control
+guidance](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control){.govuk-link}
+and the [systems of controls set out in sections 1 to
+8](#soc){.govuk-link}) with a window opened for ventilation.
+
+Where possible, all other pupils and persons should leave the room prior
+to undertaking an AGP. This ensures the privacy of the child, young
+person or learner receiving an AGP, and safety for all those within
+proximity.
+
+#### If using a multi-purpose room to undertake AGPs
+
+Dependent on local situations a room may be identified as single or
+multi-use.
+
+If using a multi-use room to undertake an AGP:
+
+-   there should be clear signage on the timing of the last AGP
+-   the room should be left for an hour for aerosol settle time post
+    procedure
+-   the room must be cleaned before being used by another pupil or
+    accessed without PPE
+
+### Ventilation
+
+Ventilate the room for undertaking AGPs as much as reasonably possible.
+
+In some cases, it might be possible to seat the child, young person or
+learner close to a window to improve ventilation. A sensible and
+pragmatic approach is required for this, particularly when the weather
+is poor.
+
+Clearance of infectious particles after an AGP is dependent on the
+ventilation and air change within the room. Where possible, allow one
+hour for aerosol settle time post procedure with a window open before
+accessing without PPE or using again for an AGP.
+
+### Cleaning
+
+Remove all non-essential items from the room and minimise clutter to
+make the process of cleaning the room following AGPs as straightforward
+as possible.
+
+All surfaces where particles may have settled should be cleaned as
+outlined in the [guidance on cleaning for non-healthcare
+settings](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
 
 How should I care for children who regularly spit or require physical contact?
 ------------------------------------------------------------------------------
@@ -896,6 +1048,35 @@ clinical waste should continue to follow their usual waste policies.
 
 Read [COVID-19: cleaning of non-healthcare settings outside the
 home](https://www.gov.uk/government/publications/covid-19-decontamination-in-non-healthcare-settings){.govuk-link}.
+
+<div class="footnotes" role="doc-endnotes">
+
+1.  <div id="fn:1">
+
+    </div>
+
+    The available evidence relating to respiratory tract suctioning is
+    associated with ventilation. In line with a precautionary approach,
+    open suctioning of the respiratory tract regardless of association
+    with ventilation has been incorporated into the current coronavirus
+    (COVID-19) AGP list. Currently, only open suctioning beyond the
+    oro-pharynx is considered an AGP - oral or pharyngeal suctioning is
+    not an AGP. The evidence on respiratory tract suctioning is being
+    reviewed by the AGP panel. [↩](#fnref:1){.govuk-link}
+
+2.  <div id="fn:2">
+
+    </div>
+
+    See guidance on [infection prevention and
+    control](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control){.govuk-link}
+    and [assessing the evidence base for medical procedures which create
+    a higher risk of respiratory infection transmission from patient to
+    healthcare
+    worker](https://www.hps.scot.nhs.uk/web-resources-container/sbar-assessing-the-evidence-base-for-medical-procedures-which-create-a-higher-risk-of-respiratory-infection-transmission-from-patient-to-healthcare-worker){.govuk-link}
+    for more information. [↩](#fnref:2){.govuk-link}
+
+</div>
 
 </div>
 
