@@ -348,8 +348,8 @@ to whether it is safe to continue to operate.
 
 The PPE portal can be used by children’s homes, secure children’s homes,
 and residential special settings to access coronavirus (COVID-19) PPE.
-These providers will receive an email invitation to register with the
-portal. Go to the [PPE portal for information about ordering
+These providers will have received an email invitation to register with
+the portal. Go to the [PPE portal for information about ordering
 PPE](https://www.gov.uk/guidance/ppe-portal-how-to-order-covid-19-personal-protective-equipment){.govuk-link}.
 
 ### [7. ]{.number} Where recommended, use of face coverings
