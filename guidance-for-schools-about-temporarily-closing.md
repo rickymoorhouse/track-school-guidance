@@ -55,7 +55,7 @@ outbreak from the start of the autumn term.
 <div class="app-c-published-dates" lang="en">
 
 Published 2 July 2020\
-Last updated 15 December 2020 — [see all
+Last updated 23 December 2020 — [see all
 updates](#history){.app-c-published-dates__history-link .govuk-link}
 
 </div>
@@ -103,7 +103,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_4808797" class="section attachment embedded">
+<div id="attachment_4838378" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -121,7 +121,7 @@ data-module="govspeak">
 
 </div>
 
-<div id="attachment_4808798" class="section attachment embedded">
+<div id="attachment_4838379" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -207,50 +207,56 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 15 December 2020 [+ show all
+Last updated 23 December 2020 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  15 December 2020
+1.  23 December 2020
+
+    Updated tier 4 guidance for use of face coverings, clinically
+    extremely vulnerable pupils and staff, wraparound provision and
+    extra-curricular activity and physical activity in schools.
+
+2.  15 December 2020
 
     Updated the 'Remote education expectations' section with the
     requirement for schools to publish their remote education offer on
     their website from January 2021, and added a link to a template that
     schools can use to meet this expectation.
 
-2.  14 December 2020
+3.  14 December 2020
 
     Action list: updated self isolation information to 10 days from the
     day after contact with the individual tested positive (from 14
     days).
 
-3.  3 December 2020
+4.  3 December 2020
 
     Updated sections on 'Assessment and accountability', 'Contingency
     planning for remote education' (with a link to the contingency
     framework) and 'Self-isolation and shielding'.
 
-4.  26 November 2020
+5.  26 November 2020
 
     Updated to reflect the local restriction tiers.
 
-5.  26 November 2020
+6.  26 November 2020
 
     Updated guidance to reflect the local restriction tiers.
 
-6.  5 November 2020
+7.  5 November 2020
 
     Updated to reflect New National Restrictions guidance.
 
-7.  22 October 2020
+8.  22 October 2020
 
     Updated 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)' document to clarify that contacting the helpline is not
     mandatory - reporting confirmed cases can be done using the
     attendance form.
 
-8.  21 October 2020
+9.  21 October 2020
 
     Updated information on Prevention, Other considerations (system of
     controls), Response to any infection, Pupils travelling from abroad,
@@ -258,43 +264,43 @@ class="app-c-published-dates__change-history js-hidden">
     provision and extra-curricular activity, Behaviour expectations,
     Hospital schools and Contingency planning for outbreaks.
 
-9.  1 October 2020
+10. 1 October 2020
 
     Updated section on remote education expectations and support.
 
-10. 17 September 2020
+11. 17 September 2020
 
     Updated the section on managing confirmed cases of coronavirus
     (COVID-19) and what to do if a pupil is displaying symptoms of
     coronavirus (COVID-19).
 
-11. 10 September 2020
+12. 10 September 2020
 
     Added updated version of 'What to do if a pupil is displaying
     symptoms of coronavirus (COVID-19)'.
 
-12. 7 September 2020
+13. 7 September 2020
 
     Added 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)'.
 
-13. 28 August 2020
+14. 28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-14. 7 August 2020
+15. 7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-15. 27 July 2020
+16. 27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-16. 2 July 2020
+17. 2 July 2020
 
     First published.
 
@@ -313,14 +319,14 @@ class="app-c-published-dates__change-history js-hidden">
 Brexit transition {#brexit-transition .gem-c-transition-countdown__title}
 -----------------
 
-[1]{.gem-c-transition-countdown__countdown-number}[6]{.gem-c-transition-countdown__countdown-number}
+[0]{.gem-c-transition-countdown__countdown-number}[8]{.gem-c-transition-countdown__countdown-number}
 [days to go]{.gem-c-transition-countdown__countdown-text}
 
 Check you’re ready for 2021
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-4dbc34b8 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-ed13789e .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
@@ -332,8 +338,8 @@ Related content {#related-nav-related_items-4dbc34b8 .gem-c-related-navigation__
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
 -   [What parents and carers need to know about early years providers,
-    schools and colleges during the coronavirus (COVID-19)
-    outbreak](/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak){.gem-c-related-navigation__section-link
+    schools and
+    colleges](/government/publications/what-parents-and-carers-need-to-know-about-early-years-providers-schools-and-colleges-during-the-coronavirus-covid-19-outbreak){.gem-c-related-navigation__section-link
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
 -   [Actions for early years and childcare providers during the
@@ -363,7 +369,7 @@ Related content {#related-nav-related_items-4dbc34b8 .gem-c-related-navigation__
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-9af086fa .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-effea762 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
