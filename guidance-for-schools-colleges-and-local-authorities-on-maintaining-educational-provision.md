@@ -13,7 +13,8 @@ data-module="track-click">
     coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
 4.  [Closures, exams and managing a school or early years setting during
     coronavirus](/coronavirus-taxon/closures-exams-managing-school){.govuk-breadcrumbs__link}
-5.  [Critical workers who can access schools or educational
+5.  [Critical workers and vulnerable children who can access schools or
+    educational
     settings](/government/publications/coronavirus-covid-19-maintaining-educational-provision){.govuk-breadcrumbs__link}
 
 </div>
@@ -53,12 +54,12 @@ data-module="track-click">
 class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
 
 [ Guidance ]{.govuk-caption-xl .gem-c-title__context}
-Critical workers who can access schools or educational settings {#critical-workers-who-can-access-schools-or-educational-settings .gem-c-title__text}
-===============================================================
+Children of critical workers and vulnerable children who can access schools or educational settings {#children-of-critical-workers-and-vulnerable-children-who-can-access-schools-or-educational-settings .gem-c-title__text}
+===================================================================================================
 
 </div>
 
-Updated 6 November 2020
+Updated 5 January 2021
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -69,15 +70,10 @@ class="govuk-grid-column-one-quarter-from-desktop contents-list-container">
 Contents {#contents .gem-c-contents-list__title}
 --------
 
-1.  [Return of all pupils to
-    education](#return-of-all-pupils-to-education){.gem-c-contents-list__link
-    .govuk-link}
-2.  [Local restrictions](#local-restrictions){.gem-c-contents-list__link
-    .govuk-link}
-3.  [Vulnerable children and young
+1.  [Vulnerable children and young
     people](#vulnerable-children-and-young-people){.gem-c-contents-list__link
     .govuk-link}
-4.  [Critical workers](#critical-workers){.gem-c-contents-list__link
+2.  [Critical workers](#critical-workers){.gem-c-contents-list__link
     .govuk-link}
 
 <div
@@ -95,7 +91,7 @@ Print this page
 
 ![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
-© Crown copyright 2020
+© Crown copyright 2021
 
 This publication is licensed under the terms of the Open Government
 Licence v3.0 except where otherwise stated. To view this licence, visit
@@ -121,49 +117,11 @@ https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educ
 
 <div class="govspeak">
 
-Return of all pupils to education
----------------------------------
-
-Schools and colleges are welcoming back all children and young people
-from the start of the autumn term.
-
-It is vital that children and young people return to school and college
-for their:
-
--   educational progress
--   wellbeing
--   wider development
-
-School attendance is mandatory again. For parents and carers of children
-of compulsory school age, this means that the legal duty on you as a
-parent to send your child to school regularly will apply.
-
-Local restrictions
-------------------
-
-In local areas where restrictions have been implemented by national
-direction, we anticipate that education and childcare will usually
-remain fully open to all, with the additional requirement that face
-coverings should be worn by staff and pupils in schools and colleges,
-from year 7 and above, when moving around communal areas where social
-distancing cannot easily be maintained.
-
-There may be exceptional circumstances in which some level of
-restriction to education or childcare is required in a local area. In
-those situations, local and national partners will carefully consider
-which tier of restriction, as set out in the Department of Health and
-Social Care’s [COVID-19 contain
-framework](https://www.gov.uk/government/publications/containing-and-managing-local-coronavirus-covid-19-outbreaks/covid-19-contain-framework-a-guide-for-local-decision-makers){.govuk-link},
-is the most appropriate one to implement. The key aim will be to retain
-as much face-to-face education and access to childcare as possible. The
-‘tiers of restriction’ will ensure that extensive limitations on
-education and childcare are a last resort and that full-time on-site
-provision is available for vulnerable children and children of critical
-workers in all cases.
-
-To support contingency planning should education settings need to limit
-attendance in line with the tiers of intervention, the definition of
-critical workers and vulnerable children is in the following section.
+Following the [Prime Minister’s announcement on 4 January
+2021](https://www.gov.uk/guidance/national-lockdown-stay-at-home){.govuk-link},
+only children of critical workers and vulnerable children and young
+people should attend school or college. All other pupils and students
+will receive remote education.
 
 Vulnerable children and young people
 ------------------------------------
@@ -179,22 +137,29 @@ Vulnerable children and young people include those who:
     services), and who could therefore benefit from continued full-time
     attendance, this might include:
     -   children and young people on the edge of receiving support from
-        children’s social care services
-    -   adopted children, those at risk of becoming NEET (‘not in
-        employment, education or training’)
-    -   those living in temporary accommodation, those who are young
-        carers
+        children’s social care services or in the process of being
+        referred to children’s services
+    -   adopted children or children on a special guardianship order
+    -   those at risk of becoming NEET (‘not in employment, education or
+        training’)
+    -   those living in temporary accommodation
+    -   those who are young carers
     -   those who may have difficulty engaging with remote education at
         home (for example due to a lack of devices or quiet space to
         study)
+    -   care leavers
     -   others at the provider and local authority’s discretion
+        including pupils and students who need to attend to receive
+        support or manage risks to their mental health
 
 Critical workers
 ----------------
 
-Parents whose work is critical to the coronavirus (COVID-19) response
-include those who work in health and social care and in other key
-sectors outlined in the following sections.
+Parents whose work is critical to the coronavirus (COVID-19) and EU
+transition response include those who work in health and social care and
+in other key sectors outlined in the following sections. Children with
+at least one parent or carer who is a critical worker can go to school
+or college if required.
 
 ### Health and social care
 
@@ -229,12 +194,15 @@ This includes:
 
 ### Local and national government
 
-This only includes:
+This only includes those administrative occupations essential to the
+effective delivery of:
 
--   those administrative occupations essential to the effective delivery
-    of the coronavirus (COVID-19) response
--   or delivering essential public services, such as the payment of
-    benefits, including in government agencies and arms length bodies
+-   the coronavirus (COVID-19) response, and the delivery of and
+    response to EU transition
+-   essential public services, such as the payment of benefits and the
+    certification or checking of goods for import and export (including
+    animal products, animals, plants and food), including in government
+    agencies and arms length bodies
 
 ### Food and other necessary goods
 
@@ -255,18 +223,21 @@ This includes:
 -   Ministry of Defence civilians
 -   contractor and armed forces personnel (those critical to the
     delivery of key defence and national security outputs and essential
-    to the response to the coronavirus (COVID-19) outbreak)
+    to the response to the coronavirus (COVID-19) outbreak and EU
+    transition)
 -   fire and rescue service employees (including support staff)
 -   National Crime Agency staff
 -   those maintaining border security, prison and probation staff and
     other national security roles, including those overseas
 
-### Transport
+### Transport and border
 
 This includes those who will keep the air, water, road and rail
 passenger and freight transport modes operating during the coronavirus
-(COVID-19) response, including those working on transport systems
-through which supply chains pass.
+(COVID-19) response and EU transition, including those working on
+transport systems through which supply chains pass and those
+constructing or supporting the operation of critical transport and
+border infrastructure through which supply chains pass.
 
 ### Utilities, communication and financial services
 
