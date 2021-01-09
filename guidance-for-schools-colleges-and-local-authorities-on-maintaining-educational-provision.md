@@ -59,7 +59,7 @@ Children of critical workers and vulnerable children who can access schools or e
 
 </div>
 
-Updated 5 January 2021
+Updated 8 January 2021
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -159,7 +159,8 @@ Parents whose work is critical to the coronavirus (COVID-19) and EU
 transition response include those who work in health and social care and
 in other key sectors outlined in the following sections. Children with
 at least one parent or carer who is a critical worker can go to school
-or college if required.
+or college if required, but parents and carers should keep their
+children at home if they can.
 
 ### Health and social care
 
