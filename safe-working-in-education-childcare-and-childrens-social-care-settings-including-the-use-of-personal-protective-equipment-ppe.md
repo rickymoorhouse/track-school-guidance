@@ -9,7 +9,7 @@ data-module="track-click">
 1.  [Home](/){.govuk-breadcrumbs__link}
 2.  [Coronavirus
     (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
-3.  [Education and childcare during
+3.  [Education, universities and childcare during
     coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
 4.  [Closures, exams and managing a school or early years setting during
     coronavirus](/coronavirus-taxon/closures-exams-managing-school){.govuk-breadcrumbs__link}
@@ -18,8 +18,8 @@ data-module="track-click">
 
 </div>
 
-[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="track-click"}
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Part of]{.gem-c-step-nav-header__part-of} [Education, universities and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-universities-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="track-click"}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
@@ -409,8 +409,8 @@ has attended has tested positive for coronavirus (COVID-19). Based on
 the advice from the PHE dedicated advice service (or PHE local health
 protection team if escalated), settings must ask those people who have
 been in close contact with the person who has tested positive to
-self-isolate for 14 days since they were last in close contact with that
-person when they were infectious.
+self-isolate for 10 full days since they were last in close contact with
+that person when they were infectious.
 
 Following the launch of the NHS COVID-19 app in England, settings may
 find it helpful to refer to the [guidance on the use of the app in
