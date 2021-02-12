@@ -192,15 +192,17 @@ There are important actions that children and young people, their
 parents and carers, and those who work with them, can take during the
 coronavirus (COVID-19) outbreak to help prevent the spread of the virus.
 
-Transmission of coronavirus (COVID-19) mainly occurs through respiratory
-droplets generated during breathing, talking, coughing and sneezing.
-These droplets can directly infect the respiratory tracts of other
-people if there is close contact. They also infect others indirectly.
-This happens when the droplets get onto and contaminate surfaces, which
-are then touched and introduced into the mouth or eyes of an uninfected
-person. Another route of transmission is through aerosols (extremely
-small droplets), but this is only relevant to medical procedures for a
-very small number of children in education and social care settings.
+The main way of spreading COVID-19 is through close contact with an
+infected person. When someone with coronavirus (COVID-19) breathes,
+speaks, coughs or sneezes, they release particles (droplets and
+aerosols) containing the virus that causes coronavirus (COVID-19). These
+particles can be breathed in by another person. Surfaces and belongings
+can also be contaminated with coronavirus (COVID-19) when people who are
+infected cough or sneeze near them or if they touch them. If you have
+coronavirus (COVID-19), there is a risk that you will spread the virus
+onto surfaces such as furniture, benches or door handles even if you do
+not touch them directly. The next person to touch that surface may then
+become infected.
 
 In all education, childcare and children’s social care settings,
 preventing the spread of coronavirus (COVID-19) involves preventing:
