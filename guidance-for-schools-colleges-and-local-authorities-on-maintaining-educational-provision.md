@@ -4,12 +4,12 @@
 
 <div
 class="gem-c-breadcrumbs govuk-breadcrumbs govuk-breadcrumbs--collapse-on-mobile"
-data-module="track-click">
+data-module="gem-track-click">
 
 1.  [Home](/){.govuk-breadcrumbs__link}
 2.  [Coronavirus
     (COVID-19)](/coronavirus-taxon){.govuk-breadcrumbs__link}
-3.  [Education and childcare during
+3.  [Education, universities and childcare during
     coronavirus](/coronavirus-taxon/education-and-childcare){.govuk-breadcrumbs__link}
 4.  [Closures, exams and managing a school or early years setting during
     coronavirus](/coronavirus-taxon/closures-exams-managing-school){.govuk-breadcrumbs__link}
@@ -19,8 +19,8 @@ data-module="track-click">
 
 </div>
 
-[Part of]{.gem-c-step-nav-header__part-of} [Education and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="track-click"}
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Part of]{.gem-c-step-nav-header__part-of} [Education, universities and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-universities-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="gem-track-click"}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
@@ -59,7 +59,7 @@ Children of critical workers and vulnerable children who can access schools or e
 
 </div>
 
-Updated 8 January 2021
+Updated 9 March 2021
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -117,11 +117,20 @@ https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educ
 
 <div class="govspeak">
 
-Following the [Prime Minister’s announcement on 4 January
-2021](https://www.gov.uk/guidance/national-lockdown-stay-at-home){.govuk-link},
-only children of critical workers and vulnerable children and young
-people should attend school or college. All other pupils and students
-will receive remote education.
+As confirmed by the Prime Minister on 22 February, based on the
+government’s assessment of the current data against its 4 tests for
+relaxing restrictions, children and young people will return to schools
+and colleges from 8 March 2021.
+
+In the event that restrictions in schools are needed to help contain the
+spread of the virus, the government may ask childcare, schools and
+colleges to change how they are delivering education for a short period
+of time. In all circumstances, and in all settings, priority should
+continue to be given to vulnerable children and young people and
+children of critical workers to attend full time. The [contingency
+framework for education and childcare
+settings](https://www.gov.uk/government/publications/coronavirus-covid-19-local-restrictions-in-education-and-childcare-settings/contingency-framework-education-and-childcare-settings){.govuk-link}
+provides more information.
 
 Vulnerable children and young people
 ------------------------------------
@@ -267,10 +276,10 @@ This includes:
 
 </div>
 
-<div class="govuk-sticky-element" data-sticky-element="">
+<div class="sticky-element" data-sticky-element="">
 
 Contents
-<div class="govuk-sticky-element__print-link">
+<div class="sticky-element__print-link">
 
 <div
 class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
