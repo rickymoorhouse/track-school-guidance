@@ -28,7 +28,7 @@ data-module="gem-track-click">
 <div class="gem-c-title govuk-!-margin-top-8 govuk-!-margin-bottom-8">
 
 [ Guidance ]{.govuk-caption-xl .gem-c-title__context}
-Actions for schools during the coronavirus outbreak {#actions-for-schools-during-the-coronavirus-outbreak .gem-c-title__text .gem-c-title__text--long}
+Actions for schools during the coronavirus outbreak {#actions-for-schools-during-the-coronavirus-outbreak .gem-c-title__text .govuk-heading-l}
 ===================================================
 
 </div>
@@ -60,7 +60,7 @@ Published:
 :   2 July 2020
 
 Last updated:
-:   26 March 2021, [see all
+:   31 March 2021, [see all
     updates](#history){.gem-c-metadata__definition-link}
 
 </div>
@@ -97,7 +97,7 @@ Documents {#documents .gem-c-heading .gem-c-heading--font-size-27 .gem-c-heading
 <div class="gem-c-govspeak govuk-govspeak direction-ltr"
 data-module="govspeak">
 
-<div id="attachment_5085751" class="section attachment embedded">
+<div id="attachment_5090973" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -115,7 +115,7 @@ data-module="govspeak">
 
 </div>
 
-<div id="attachment_5085752" class="section attachment embedded">
+<div id="attachment_5090974" class="section attachment embedded">
 
 <div class="attachment-thumb">
 
@@ -174,7 +174,11 @@ If you have a query about coronavirus (COVID-19) relating to schools and
 other educational establishments, and children's social care, in England
 contact our helpline.\
 \
-Helpline opening hours\
+Easter opening hours\
+Over the bank holiday weekend, Friday 2 April to Monday 5 April, lines
+will be open from 10am to 4pm.\
+\
+Our standard opening hours will resume on Tuesday 6 April\
 Monday to Friday from 8am to 6pm\
 Saturday and Sunday from 10am to 6pm\
 \
@@ -200,12 +204,18 @@ class="app-c-published-dates app-c-published-dates--history"
 data-module="gem-toggle" lang="en">
 
 Published 2 July 2020\
-Last updated 26 March 2021 [+ show all
+Last updated 31 March 2021 [+ show all
 updates](#full-history){.app-c-published-dates__toggle .govuk-link}
 <div id="full-history"
 class="app-c-published-dates__change-history js-hidden">
 
-1.  26 March 2021
+1.  31 March 2021
+
+    Guidance updated to reflect the DHSC announcement that a
+    confirmatory PCR test is required following a positive LFD test
+    result in England.
+
+2.  26 March 2021
 
     We have updated the information in the operational guidance on Test
     and Trace support payments, the expectations for clinically
@@ -215,104 +225,104 @@ class="app-c-published-dates__change-history js-hidden">
     year 11 to 13 exam cohort attendance and provision for the 2021
     summer term.
 
-2.  16 March 2021
+3.  16 March 2021
 
     We have converted the schools coronavirus (COVID-19) operational
     guidance to HTML to make it more accessible. It does not contain any
     changes to policy.
 
-3.  10 March 2021
+4.  10 March 2021
 
     Updated operational guidance on face coverings and on safety for
     transport users.
 
-4.  8 March 2021
+5.  8 March 2021
 
     Removed the guidance 'Restricting attendance during the national
     lockdown: schools (applies until 8 March)' as no longer applies.
 
-5.  22 February 2021
+6.  22 February 2021
 
     Added the 'Schools coronavirus (COVID-19) operational guidance'
     which explains the actions schools will need to take from 8 March.
     Removed 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)' as this information is now in the operational guidance.
 
-6.  5 February 2021
+7.  5 February 2021
 
     Updated ‘Introduction’ section to reflect correct position for early
     years provision over half-term and 'Remote education' section to
     reflect a duty for schools to publish their remote education offer
     on their websites by 12 February.
 
-7.  2 February 2021
+8.  2 February 2021
 
     Updated with latest changes to: system of controls, attendance,
     recruitment, free schools meals, estates, wraparound care, physical
     activity in schools, remote education, catch up, assessment and
     accountability, and exams.
 
-8.  14 January 2021
+9.  14 January 2021
 
     Updated 'Restricting attendance during the national lockdown:
     schools' to clarify that supply teachers and other temporary staff
     can assist in delivering remote education as well as face to face
     education to pupils who continue to attend school.
 
-9.  7 January 2021
+10. 7 January 2021
 
     Added guidance for schools on restricting attendance and other
     actions to be followed during the national lockdown.
 
-10. 30 December 2020
+11. 30 December 2020
 
     Updated information on staff who are pregnant.
 
-11. 23 December 2020
+12. 23 December 2020
 
     Updated tier 4 guidance for use of face coverings, clinically
     extremely vulnerable pupils and staff, wraparound provision and
     extra-curricular activity and physical activity in schools.
 
-12. 15 December 2020
+13. 15 December 2020
 
     Updated the 'Remote education expectations' section with the
     requirement for schools to publish their remote education offer on
     their website from January 2021, and added a link to a template that
     schools can use to meet this expectation.
 
-13. 14 December 2020
+14. 14 December 2020
 
     Action list: updated self isolation information to 10 days from the
     day after contact with the individual tested positive (from 14
     days).
 
-14. 3 December 2020
+15. 3 December 2020
 
     Updated sections on 'Assessment and accountability', 'Contingency
     planning for remote education' (with a link to the contingency
     framework) and 'Self-isolation and shielding'.
 
-15. 26 November 2020
+16. 26 November 2020
 
     Updated to reflect the local restriction tiers.
 
-16. 26 November 2020
+17. 26 November 2020
 
     Updated guidance to reflect the local restriction tiers.
 
-17. 5 November 2020
+18. 5 November 2020
 
     Updated to reflect New National Restrictions guidance.
 
-18. 22 October 2020
+19. 22 October 2020
 
     Updated 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)' document to clarify that contacting the helpline is not
     mandatory - reporting confirmed cases can be done using the
     attendance form.
 
-19. 21 October 2020
+20. 21 October 2020
 
     Updated information on Prevention, Other considerations (system of
     controls), Response to any infection, Pupils travelling from abroad,
@@ -320,43 +330,43 @@ class="app-c-published-dates__change-history js-hidden">
     provision and extra-curricular activity, Behaviour expectations,
     Hospital schools and Contingency planning for outbreaks.
 
-20. 1 October 2020
+21. 1 October 2020
 
     Updated section on remote education expectations and support.
 
-21. 17 September 2020
+22. 17 September 2020
 
     Updated the section on managing confirmed cases of coronavirus
     (COVID-19) and what to do if a pupil is displaying symptoms of
     coronavirus (COVID-19).
 
-22. 10 September 2020
+23. 10 September 2020
 
     Added updated version of 'What to do if a pupil is displaying
     symptoms of coronavirus (COVID-19)'.
 
-23. 7 September 2020
+24. 7 September 2020
 
     Added 'What to do if a pupil is displaying symptoms of coronavirus
     (COVID-19)'.
 
-24. 28 August 2020
+25. 28 August 2020
 
     Updated guidance to reflect the actions schools need to take before
     the start of the autumn term - the changes are described within the
     document and cover the use of face coverings in schools.
 
-25. 7 August 2020
+26. 7 August 2020
 
     Updated 'Remote education support' in 'Section 5: Contingency
     planning for outbreaks'.
 
-26. 27 July 2020
+27. 27 July 2020
 
     Guidance updated to provide more advice and clarity on some aspects
     of the return to school in the autumn.
 
-27. 2 July 2020
+28. 2 July 2020
 
     First published.
 
@@ -372,7 +382,7 @@ class="app-c-published-dates__change-history js-hidden">
 
 <div class="gem-c-related-navigation">
 
-Related content {#related-nav-related_items-13d60119 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
+Related content {#related-nav-related_items-15d80c64 .gem-c-related-navigation__main-heading data-track-count="sidebarRelatedItemSection"}
 ---------------
 
 -   [Guidance for schools: coronavirus
@@ -393,7 +403,7 @@ Related content {#related-nav-related_items-13d60119 .gem-c-related-navigation__
     .gem-c-related-navigation__section-link--sidebar
     .gem-c-related-navigation__section-link--other}
 
-### Collection {#related-nav-collections-13d60119 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--sidebar data-track-count="sidebarRelatedItemSection"}
+### Collection {#related-nav-collections-15d80c64 .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--sidebar data-track-count="sidebarRelatedItemSection"}
 
 -   [Guidance for schools: coronavirus
     (COVID-19)](/government/collections/guidance-for-schools-coronavirus-covid-19){.gem-c-related-navigation__section-link
@@ -429,7 +439,7 @@ Check what you need to do
 
 <div class="gem-c-related-navigation">
 
-Explore the topic {#related-nav-topics-80059d6d .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
+Explore the topic {#related-nav-topics-da66b0fb .gem-c-related-navigation__sub-heading .gem-c-related-navigation__sub-heading--footer data-track-count="footerRelatedItemSection"}
 -----------------
 
 -   [Closures, exams and managing a school or early years setting during
