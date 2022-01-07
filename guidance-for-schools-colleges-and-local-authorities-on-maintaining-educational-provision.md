@@ -1,4 +1,4 @@
-<div id="wrapper" class="direction-ltr">
+<div id="wrapper" class="direction-ltr govuk-width-container">
 
 <div class="gem-c-contextual-breadcrumbs">
 
@@ -18,9 +18,6 @@ data-module="gem-track-click">
     settings](/government/publications/coronavirus-covid-19-maintaining-educational-provision){.govuk-breadcrumbs__link}
 
 </div>
-
-[Part of]{.gem-c-step-nav-header__part-of} [Education, universities and childcare during coronavirus](/coronavirus-taxon/education-and-childcare){.gem-c-step-nav-header__title .govuk-link} {#part-of-education-universities-and-childcare-during-coronavirus .gem-c-step-nav-header .govuk-!-margin-bottom-0 data-module="gem-track-click"}
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 
@@ -54,12 +51,12 @@ data-module="gem-track-click">
 class="gem-c-title gem-c-title--inverse govuk-!-margin-top-8 govuk-!-margin-bottom-0">
 
 [ Guidance ]{.govuk-caption-xl .gem-c-title__context}
-Children of critical workers and vulnerable children who can access schools or educational settings {#children-of-critical-workers-and-vulnerable-children-who-can-access-schools-or-educational-settings .gem-c-title__text}
+Children of critical workers and vulnerable children who can access schools or educational settings {#children-of-critical-workers-and-vulnerable-children-who-can-access-schools-or-educational-settings .gem-c-title__text .govuk-heading-xl}
 ===================================================================================================
 
 </div>
 
-Updated 9 March 2021
+Updated 2 January 2022
 
 <div id="contents" class="govuk-grid-row sidebar-with-body"
 data-module="sticky-element-container">
@@ -72,12 +69,12 @@ Contents {#contents .gem-c-contents-list__title}
 
 1.  [Vulnerable children and young
     people](#vulnerable-children-and-young-people){.gem-c-contents-list__link
-    .govuk-link}
+    .govuk-link .govuk-link--no-underline}
 2.  [Critical workers](#critical-workers){.gem-c-contents-list__link
-    .govuk-link}
+    .govuk-link .govuk-link--no-underline}
 
 <div
-class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
 
 Print this page
 
@@ -91,7 +88,7 @@ Print this page
 
 ![](/assets/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png){.print-meta-data-licence}
 
-© Crown copyright 2021
+© Crown copyright 2022
 
 This publication is licensed under the terms of the Open Government
 Licence v3.0 except where otherwise stated. To view this licence, visit
@@ -117,20 +114,17 @@ https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educ
 
 <div class="govspeak">
 
-As confirmed by the Prime Minister on 22 February, based on the
-government’s assessment of the current data against its 4 tests for
-relaxing restrictions, children and young people will return to schools
-and colleges from 8 March 2021.
+Early years and childcare settings, schools and colleges continue to be
+open for all children and young people in England and attendance of
+school age children remains compulsory.
 
-In the event that restrictions in schools are needed to help contain the
-spread of the virus, the government may ask childcare, schools and
-colleges to change how they are delivering education for a short period
-of time. In all circumstances, and in all settings, priority should
-continue to be given to vulnerable children and young people and
-children of critical workers to attend full time. The [contingency
-framework for education and childcare
-settings](https://www.gov.uk/government/publications/coronavirus-covid-19-local-restrictions-in-education-and-childcare-settings/contingency-framework-education-and-childcare-settings){.govuk-link}
-provides more information.
+These settings may however need to change how they are delivering
+education and childcare for a short period of time in line with the
+[Contingency
+Framework](https://www.gov.uk/government/publications/coronavirus-covid-19-local-restrictions-in-education-and-childcare-settings){.govuk-link}.
+In all circumstances, and in all settings, priority should continue to
+be given to vulnerable children and young people and children of
+critical workers (as defined below) to attend full time.
 
 Vulnerable children and young people
 ------------------------------------
@@ -144,10 +138,12 @@ Vulnerable children and young people include those who:
 -   have been identified as otherwise vulnerable by educational
     providers or local authorities (including children’s social care
     services), and who could therefore benefit from continued full-time
-    attendance, this might include:
+    attendance. This might include:
     -   children and young people on the edge of receiving support from
         children’s social care services or in the process of being
-        referred to children’s services
+        referred to children’s services or who have previously received
+        support from children’s social care services (as identified by
+        local authorities)
     -   adopted children or children on a special guardianship order
     -   those at risk of becoming NEET (‘not in employment, education or
         training’)
@@ -157,6 +153,9 @@ Vulnerable children and young people include those who:
         home (for example due to a lack of devices or quiet space to
         study)
     -   care leavers
+    -   children and young people in a family circumstance presenting
+        challenges for them, such as drug and alcohol misuse, parental
+        offending, adult mental health issues and domestic abuse
     -   others at the provider and local authority’s discretion
         including pupils and students who need to attend to receive
         support or manage risks to their mental health
@@ -164,12 +163,12 @@ Vulnerable children and young people include those who:
 Critical workers
 ----------------
 
-Parents whose work is critical to the coronavirus (COVID-19) and EU
-transition response include those who work in health and social care and
-in other key sectors outlined in the following sections. Children with
-at least one parent or carer who is a critical worker can go to school
-or college if required, but parents and carers should keep their
-children at home if they can.
+Parents whose work is critical to the coronavirus (COVID-19) response
+include those who work in health and social care and in other key
+sectors outlined in the following sections. Children with at least one
+parent or carer who is a critical worker can go to school or college if
+required, but parents and carers should keep their children at home if
+they can.
 
 ### Health and social care
 
@@ -189,7 +188,7 @@ This includes:
 -   support and teaching staff
 -   social workers
 -   specialist education professionals who must remain active during the
-    coronavirus (COVID-19) response to deliver this approach
+    COVID-19 response to deliver this approach
 
 ### Key public services
 
@@ -207,12 +206,9 @@ This includes:
 This only includes those administrative occupations essential to the
 effective delivery of:
 
--   the coronavirus (COVID-19) response, and the delivery of and
-    response to EU transition
--   essential public services, such as the payment of benefits and the
-    certification or checking of goods for import and export (including
-    animal products, animals, plants and food), including in government
-    agencies and arms length bodies
+-   the COVID-19 response
+-   essential public services, such as the payment of benefits including
+    in government agencies and arms length bodies
 
 ### Food and other necessary goods
 
@@ -233,21 +229,18 @@ This includes:
 -   Ministry of Defence civilians
 -   contractor and armed forces personnel (those critical to the
     delivery of key defence and national security outputs and essential
-    to the response to the coronavirus (COVID-19) outbreak and EU
-    transition)
+    to the response to the COVID-19 pandemic)
 -   fire and rescue service employees (including support staff)
 -   National Crime Agency staff
 -   those maintaining border security, prison and probation staff and
     other national security roles, including those overseas
 
-### Transport and border
+### Transport
 
 This includes those who will keep the air, water, road and rail
-passenger and freight transport modes operating during the coronavirus
-(COVID-19) response and EU transition, including those working on
-transport systems through which supply chains pass and those
-constructing or supporting the operation of critical transport and
-border infrastructure through which supply chains pass.
+passenger and freight transport modes operating during the COVID-19
+response, including those working on transport systems through which
+supply chains pass.
 
 ### Utilities, communication and financial services
 
@@ -258,8 +251,7 @@ This includes:
     financial market infrastructure)
 -   the oil, gas, electricity and water sectors (including sewerage)
 -   information technology and data infrastructure sector and primary
-    industry supplies to continue during the coronavirus (COVID-19)
-    response
+    industry supplies to continue during the COVID-19 response
 -   key staff working in the civil nuclear, chemicals,
     telecommunications (including but not limited to network operations,
     field engineering, call centre staff, IT and data infrastructure,
@@ -282,109 +274,11 @@ Contents
 <div class="sticky-element__print-link">
 
 <div
-class="gem-c-print-link govuk-!-margin-top-0 govuk-!-margin-bottom-6">
+class="gem-c-print-link govuk-!-display-none-print govuk-!-margin-top-0 govuk-!-margin-bottom-6">
 
 Print this page
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="gem-c-feedback" data-module="feedback">
-
-<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt"
-tabindex="-1">
-
-<div class="gem-c-feedback__prompt-questions js-prompt-questions">
-
-Is this page useful? {#is-this-page-useful .gem-c-feedback__prompt-question}
---------------------
-
-Maybe
--   Yes [this page is useful]{.govuk-visually-hidden}
--   No [this page is not useful]{.govuk-visually-hidden}
-
-</div>
-
-<div
-class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-success js-prompt-success js-hidden"
-role="alert">
-
-Thank you for your feedback
-
-</div>
-
-<div
-class="gem-c-feedback__prompt-questions gem-c-feedback__prompt-questions--something-is-wrong js-prompt-questions">
-
-There is something wrong with this page
-
-</div>
-
-</div>
-
-Close
-<div class="govuk-grid-row">
-
-<div class="govuk-grid-column-two-thirds">
-
-<div
-class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors"
-tabindex="-1">
-
-</div>
-
-### Help us improve GOV.UK {#help-us-improve-gov.uk .gem-c-feedback__form-heading}
-
-Don’t include personal or financial information like your National
-Insurance number or credit card details.
-
-<div class="govuk-form-group">
-
-What were you doing?
-
-</div>
-
-<div class="govuk-form-group">
-
-What went wrong?
-
-</div>
-
-Send
-
-</div>
-
-</div>
-
-Close
-<div class="govuk-grid-row">
-
-<div id="survey-wrapper" class="govuk-grid-column-two-thirds">
-
-<div class="gem-c-feedback__error-summary js-hidden js-errors"
-tabindex="-1">
-
-</div>
-
-### Help us improve GOV.UK {#help-us-improve-gov.uk-1 .gem-c-feedback__form-heading}
-
-To help us improve GOV.UK, we’d like to know more about your visit
-today. We’ll send you a link to a feedback form. It will take only 2
-minutes to fill in. Don’t worry we won’t send you spam or share your
-email address with anyone.
-
-<div class="govuk-form-group">
-
-Email address
-
-</div>
-
-Send me the survey
 
 </div>
 
